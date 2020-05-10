@@ -6,4 +6,6 @@ export default authorId([
   //   first: '',  # id of first tweet
   //   post: false # Include only for author that hasn't finished his week yet. Will display link to twitter instead of archive
   // },
+  { username: 'Daiver9', first: '1257204668784095233' }
+
 ]);
