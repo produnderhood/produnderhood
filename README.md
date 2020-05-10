@@ -1,3 +1,5 @@
+![Deploy to produnderhood.github.io](https://github.com/produnderhood/produnderhood/workflows/Deploy%20to%20produnderhood.github.io/badge.svg)
+
 # Anyunderhood
 
 Читайте, как [создать новый сайт](NEW-UNDERHOOD.md) для underhood.
