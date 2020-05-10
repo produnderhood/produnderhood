@@ -1,25 +1,25 @@
-const name = "produnderhood"
-const site = "produnderhood.ru"
+const name = 'produnderhood';
+const site = 'produnderhood.ru';
 
-const description = "Коллективный твиттер продакт-менеджеров"
+const description = 'Коллективный твиттер продакт-менеджеров';
 
 module.exports = {
-  "underhood": {
+  underhood: {
     name,
-    description
+    description,
   },
-  "github": {
-    user: "produnderhood",
-    repo: "produnderhood"
+  github: {
+    user: 'produnderhood',
+    repo: 'produnderhood',
   },
-  "curator": {
-    email: "igrekde@gmail.com",
-    twitter: "@igrekde",
+  curator: {
+    email: 'igrekde@gmail.com',
+    twitter: 'igrekde',
   },
-  "site": {
-    "title": "Сайт @" + name,
-    "description": description,
+  site: {
+    title: 'Сайт @' + name,
+    description: description,
     // TODO: RSS "feed_url": "https://" + site + "/rss.xml",
-    "site_url": "https://" + site + "/",
-  }
-}
+    site_url: 'https://' + site + '/',
+  },
+};
