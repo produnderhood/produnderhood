@@ -35,22 +35,33 @@
   "time_zone": null,
   "geo_enabled": true,
   "verified": false,
-  "statuses_count": 6082,
+  "statuses_count": 6085,
   "lang": null,
   "status": {
-    "created_at": "Sun May 24 13:38:51 +0000 2020",
-    "id": 1264551435942887400,
-    "id_str": "1264551435942887424",
-    "text": "Пару советов на тему личной мотивации:\n- Не привязываться эмоционально к проблемам. А если уже привязалась, найти р… https://t.co/BTawvghrfv",
+    "created_at": "Sun May 24 17:20:05 +0000 2020",
+    "id": 1264607111100747800,
+    "id_str": "1264607111100747778",
+    "text": "@Uran_90 Да, либо весь день либо полдня - решает команда. Темы очень разные. Вот список на этой неделе для инженеро… https://t.co/fb9CIJnWKq",
     "truncated": true,
     "entities": {
       "hashtags": [],
       "symbols": [],
-      "user_mentions": [],
+      "user_mentions": [
+        {
+          "screen_name": "Uran_90",
+          "name": "Yuriy Chekashkin",
+          "id": 204669381,
+          "id_str": "204669381",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
       "urls": [
         {
-          "url": "https://t.co/BTawvghrfv",
-          "expanded_url": "https://twitter.com/i/web/status/1264551435942887424",
+          "url": "https://t.co/fb9CIJnWKq",
+          "expanded_url": "https://twitter.com/i/web/status/1264607111100747778",
           "display_url": "twitter.com/i/web/status/1…",
           "indices": [
             117,
@@ -60,18 +71,18 @@
       ]
     },
     "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
-    "in_reply_to_status_id": null,
-    "in_reply_to_status_id_str": null,
-    "in_reply_to_user_id": null,
-    "in_reply_to_user_id_str": null,
-    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": 1264603516657643500,
+    "in_reply_to_status_id_str": "1264603516657643521",
+    "in_reply_to_user_id": 204669381,
+    "in_reply_to_user_id_str": "204669381",
+    "in_reply_to_screen_name": "Uran_90",
     "geo": null,
     "coordinates": null,
     "place": null,
     "contributors": null,
     "is_quote_status": false,
     "retweet_count": 0,
-    "favorite_count": 9,
+    "favorite_count": 1,
     "favorited": false,
     "retweeted": false,
     "lang": "ru"

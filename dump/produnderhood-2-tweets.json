@@ -8180,6 +8180,248 @@
       "favorited": false,
       "retweeted": false,
       "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 24 17:09:21 +0000 2020",
+      "id": 1264604412724555800,
+      "id_str": "1264604412724555777",
+      "full_text": "Интересные треды за неделю:\nДень 1: https://t.co/svb1HSlV8l\nДень 2: https://t.co/9TRA9a62mt\nДень 3: https://t.co/cpnlp0zL04\nДень 4: https://t.co/zcxJbRaSyd\nДень 5: https://t.co/bHXWAI3nwx\nДень 6: https://t.co/qpvJL6bQI5\nДень 7: https://t.co/8f7yuzoxWd",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        251
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/svb1HSlV8l",
+            "expanded_url": "https://twitter.com/produnderhood/status/1262289431979077632",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              36,
+              59
+            ]
+          },
+          {
+            "url": "https://t.co/9TRA9a62mt",
+            "expanded_url": "https://twitter.com/produnderhood/status/1262694193551609857",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              68,
+              91
+            ]
+          },
+          {
+            "url": "https://t.co/cpnlp0zL04",
+            "expanded_url": "https://twitter.com/produnderhood/status/1263023514967322625",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              100,
+              123
+            ]
+          },
+          {
+            "url": "https://t.co/zcxJbRaSyd",
+            "expanded_url": "https://twitter.com/produnderhood/status/1263113612446461952",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              132,
+              155
+            ]
+          },
+          {
+            "url": "https://t.co/bHXWAI3nwx",
+            "expanded_url": "https://twitter.com/produnderhood/status/1263814333798244352",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              164,
+              187
+            ]
+          },
+          {
+            "url": "https://t.co/qpvJL6bQI5",
+            "expanded_url": "https://twitter.com/produnderhood/status/1264275801693880327",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              196,
+              219
+            ]
+          },
+          {
+            "url": "https://t.co/8f7yuzoxWd",
+            "expanded_url": "https://twitter.com/produnderhood/status/1264551435942887424",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              228,
+              251
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1264551435942887400,
+      "quoted_status_id_str": "1264551435942887424",
+      "quoted_status_permalink": {
+        "url": "https://t.co/8f7yuzoxWd",
+        "expanded": "https://twitter.com/produnderhood/status/1264551435942887424",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Sun May 24 13:38:51 +0000 2020",
+        "id": 1264551435942887400,
+        "id_str": "1264551435942887424",
+        "full_text": "Пару советов на тему личной мотивации:\n- Не привязываться эмоционально к проблемам. А если уже привязалась, найти резко хобби.\n- Почитать книгу о мотивации. Например: Obstacle is the Way: The Timeless Art of Turning Trials into Triumph by Ryan Holiday.",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          252
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 10,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 24 17:10:00 +0000 2020",
+      "id": 1264604572686995500,
+      "id_str": "1264604572686995457",
+      "full_text": "Ну вот и все на этой неделе. Всем спасибо, надеюсь узнали для себя что-то новое. Cкоро выпущу статейку на тему MVP, так что follow me: https://t.co/VkkplbXxt8\nНу и буду рада фидбеками.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        184
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/VkkplbXxt8",
+            "expanded_url": "https://medium.com/@svetlana.blazhnova",
+            "display_url": "medium.com/@svetlana.blaz…",
+            "indices": [
+              135,
+              158
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun May 24 17:20:05 +0000 2020",
+      "id": 1264607111100747800,
+      "id_str": "1264607111100747778",
+      "full_text": "@Uran_90 Да, либо весь день либо полдня - решает команда. Темы очень разные. Вот список на этой неделе для инженеров: RXswift, изучение Go, онлайн-тренинги, курсы по рабочей теме. Вот список для Продактов: Value scoring, Python basics, Growth loops",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        248
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Uran_90",
+            "name": "Yuriy Chekashkin",
+            "id": 204669381,
+            "id_str": "204669381",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1264603516657643500,
+      "in_reply_to_status_id_str": "1264603516657643521",
+      "in_reply_to_user_id": 204669381,
+      "in_reply_to_user_id_str": "204669381",
+      "in_reply_to_screen_name": "Uran_90",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
     }
   ]
 }
