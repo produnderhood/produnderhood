@@ -1,6 +1,7 @@
 import authorId from './helpers/author-id';
 
 export default authorId([
+    { username: 'tanda_t', first: '1267334297645649921', post: false },
   // {
   //   username: '' // twitter name of author. if author has no twitter - use underhood name
   //   first: '',  # id of first tweet
