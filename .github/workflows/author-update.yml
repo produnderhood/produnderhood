@@ -3,12 +3,11 @@ name: Author update
 on:
   pull_request:
     types: [opened, edited]
-  issue_comment:
-    types: [created, edited]
 
 jobs:
   build:
-
+    # Check that this event runs only on this repo, not forks.
+    if: github.event.pull_request.head.repo.full_name == github.repository
     runs-on: ubuntu-latest
 
     strategy:
