@@ -1,0 +1,3488 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jun 08 06:33:56 +0000 2020",
+      "id": 1269880319727075300,
+      "id_str": "1269880319727075330",
+      "full_text": "Всем привет! Меня зовут Бахром. Менеджер по продукту в BSL. BSL тестирует и запускает собственные идеи и занимается аутсорсной разработкой для крупных компаний. \n\nХочу поделиться с вами личным опытом, фэйлами и как прокачивал навыки в процессе попыток запуска своих идей.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 06:33:56 +0000 2020",
+      "id": 1269880321622843400,
+      "id_str": "1269880321622843392",
+      "full_text": "ПН: Стартап-акселератор для продакта\nВТ: Прочитал «Спроси маму», но касдев не работает\nСР: Поиск партнера в стартап\nЧТ: Прокачка навыков презентации и коммуникации\nПТ: Какие идеи провалились и чему я научился\nСБ: Работа в условиях неопределенности\nВС: Поиск времени на pet-проекты",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269880319727075300,
+      "in_reply_to_status_id_str": "1269880319727075330",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 12:28:19 +0000 2020",
+      "id": 1269969503921885200,
+      "id_str": "1269969503921885186",
+      "full_text": "{1/1} Сегодня хотел обсудить с вами про акселераторы и какие навыки можно прокачать у них. Я проходил два раза со своими идеями: в Founder Institute и YC Startup School.\n\nКто проходил акселерацию?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        196
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 17:15:36 +0000 2020",
+      "id": 1270041801618006000,
+      "id_str": "1270041801618006017",
+      "full_text": "{1/2} Каждый продакт имеет свой набор навыков. В зависимости от его обязанностей он может заниматься маркетингом, продажами, аналитикой, исследованиями, разработкой, построением процессов, дизайном и тд. Но я хочу поговорить сегодня о продактах, которые запускают продукты с нуля.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269969503921885200,
+      "in_reply_to_status_id_str": "1269969503921885186",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 17:15:37 +0000 2020",
+      "id": 1270041804176593000,
+      "id_str": "1270041804176592903",
+      "full_text": "{1/3} Под «запуском продукта с нуля» я имею виду идеи без готовой бизнес-модели, понимания рынка и сегмента. К ним не относятся разработка продукта внутри своей компании для своих же сотрудников, а-ля некая автоматизация процессов либо аутсорсная разработка проектов с нуля.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270041801618006000,
+      "in_reply_to_status_id_str": "1270041801618006017",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 17:40:59 +0000 2020",
+      "id": 1270048190016950300,
+      "id_str": "1270048190016950273",
+      "full_text": "{1/4} Стартапер либо продакт сталкивается с двумя основными проблемами при запуске идеи: полная неопределенность и непонятно как и сколько можно зарабатывать.  \n\nС работой в условиях неопределенности поговорим в субботу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        220
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270041804176593000,
+      "in_reply_to_status_id_str": "1270041804176592903",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 17:40:59 +0000 2020",
+      "id": 1270048191581487000,
+      "id_str": "1270048191581487111",
+      "full_text": "{1/5} В акселераторе, я начал активно знакомится с инвесторами и венчурными аналитиками. Хотел больше узнать как они мыслят и размышляют, как выбирают стартапы для инвестиций. Как оказалось, я ничего не понимал в запуске стартапов, хотя были попытки запустить их раньше.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270048190016950300,
+      "in_reply_to_status_id_str": "1270048190016950273",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 17:41:00 +0000 2020",
+      "id": 1270048192915177500,
+      "id_str": "1270048192915177472",
+      "full_text": "{1/6} Я больше начать копать инвестиционную часть. Узнал на какие метрики смотрят инвесторы, почему готовы инвестировать в проект даже если он не показывает прибыльность в ближайшие три года, углубился в бизнес-модель венчурных фондов и  как компании выходят на IPO.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270048191581487000,
+      "in_reply_to_status_id_str": "1270048191581487111",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 17:41:00 +0000 2020",
+      "id": 1270048194723020800,
+      "id_str": "1270048194723020805",
+      "full_text": "{1/7}  Отвечая на вопрос «Зачем это нужно продакту?». Я научился оценивать инвестиционную привлекательность идеи, нейронка мозга обучилась считать все в деньгах. Это происходит теперь у меня подсознательно, когда принимается решение какую фичу брать в работу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        259
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270048192915177500,
+      "in_reply_to_status_id_str": "1270048192915177472",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 18:00:26 +0000 2020",
+      "id": 1270053085197545500,
+      "id_str": "1270053085197545472",
+      "full_text": "{1/8} Мозг сразу задает вопросы  «сколько ты заработаешь или сэкономишь?». Конечно можно прочитать про ROI, но обученная нейронка круче и мозг не напрягается. \n\nИ это помогло мне начать инвестировать в акции компаний и стартапов.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        229
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270048194723020800,
+      "in_reply_to_status_id_str": "1270048194723020805",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 18:00:27 +0000 2020",
+      "id": 1270053086992744400,
+      "id_str": "1270053086992744450",
+      "full_text": "{1/9} Несмотря на то, что мы не смогли продвинуть свой проект, акселератор прокачал нас в разы быстрее, чем мы cделали бы сами. \n\nОтсюда вывод. Акселератор мастхэв для всех, кто запускает продукты с нуля.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        204
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270053085197545500,
+      "in_reply_to_status_id_str": "1270053085197545472",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 08 20:14:08 +0000 2020",
+      "id": 1270086730041962500,
+      "id_str": "1270086730041962497",
+      "full_text": "@HappyVlad Да, но еще личная жизнь таааак не хочет отдавать никому воскресенье))",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        80
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "HappyVlad",
+            "name": "Vlad Deripasko",
+            "id": 177633264,
+            "id_str": "177633264",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1269908092726268000,
+      "in_reply_to_status_id_str": "1269908092726267904",
+      "in_reply_to_user_id": 177633264,
+      "in_reply_to_user_id_str": "177633264",
+      "in_reply_to_screen_name": "HappyVlad",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 09 07:05:30 +0000 2020",
+      "id": 1270250652439056400,
+      "id_str": "1270250652439056384",
+      "full_text": "{2/1} В России под «касдевом» понимают проведение интервью с пользователями для получения инсайтов, подтверждения гипотезы или боли.\n\nКто знаком с ситуацией? Провели интервью, подтвердили боль, запилили фичу, потратили время и деньги, пользователь не стал пользоваться и покупать?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 09 16:31:41 +0000 2020",
+      "id": 1270393139522609200,
+      "id_str": "1270393139522609155",
+      "full_text": "{2/2} Для тех, кто еще ни разу не проводил интервью, можно начать погружение с книги «Спроси маму». Почувствуете себя начинающим социологом:)  Но все всегда получается правильно проводить интервью. Точнее, о том что неправильно провел узнают после неуспешного кейса запуска  фичи.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270250652439056400,
+      "in_reply_to_status_id_str": "1270250652439056384",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 09 16:31:42 +0000 2020",
+      "id": 1270393141233934300,
+      "id_str": "1270393141233934336",
+      "full_text": "{2/3} Как решить эту проблему?\n\n1. Взять социолога в команду либо аутсорсить подобные задачи исследовательским агенствам. \n\nНо я бы рекомендовал самим постепенно погружаться в социологию, если хотите сильно прокачаться в продакn-менеджменте.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        241
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270393139522609200,
+      "in_reply_to_status_id_str": "1270393139522609155",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 09 16:31:42 +0000 2020",
+      "id": 1270393142517420000,
+      "id_str": "1270393142517420033",
+      "full_text": "{2/4}\n2. Глубже погружаться в социологию, психологию, психотерапию, нейробиологию. Да это будет сложно. Но прокачивая социологическое мышление, вы научитесь «видеть необычное в банальном» — умением абстрагироваться от своего опыта повседневной жизни.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270393141233934300,
+      "in_reply_to_status_id_str": "1270393141233934336",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 09 16:35:25 +0000 2020",
+      "id": 1270394075498393600,
+      "id_str": "1270394075498393601",
+      "full_text": "@GoblinGame Да, но в большей степени зависит от того как сформулировали гипотезу. К примеру, мы начнем зарабатывать плюс 2К в месяц , если запилим фичу Х. Подтверждением гипотезы будет покупка этой фичи пользователями либо увеличение спроса на сам продукт.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        256
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GoblinGame",
+            "name": "Supremacy of Pure Feeling",
+            "id": 38142013,
+            "id_str": "38142013",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270255906589216800,
+      "in_reply_to_status_id_str": "1270255906589216769",
+      "in_reply_to_user_id": 38142013,
+      "in_reply_to_user_id_str": "38142013",
+      "in_reply_to_screen_name": "GoblinGame",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 09 18:50:40 +0000 2020",
+      "id": 1270428112413737000,
+      "id_str": "1270428112413736964",
+      "full_text": "{2/5} В следующих двух твитах приведу два эффекта из психологии, которые сильно влияют на принятие неправильных решений. И самому себе понять, что не попадаешь под такой эффект невозможно:) Всегда будет казаться, что мыслишь осознано и правильно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        246
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270393142517420000,
+      "in_reply_to_status_id_str": "1270393142517420033",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 09 18:50:40 +0000 2020",
+      "id": 1270428113990811600,
+      "id_str": "1270428113990811648",
+      "full_text": "{2/6} Confirmation bais —  склонность к подтверждению своей точки зрения. Эффект проявляется сильнее в отношении эмоционально значимых вопросов. Это означает, что получаемые инсайты от пользователей во время интервью могут искажаться и интерпретироваться по своему.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        265
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270428112413737000,
+      "in_reply_to_status_id_str": "1270428112413736964",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 09 18:50:40 +0000 2020",
+      "id": 1270428115572064300,
+      "id_str": "1270428115572064256",
+      "full_text": "{2/7} Эффект Einstellung. Мозг будет решать проблемы из тех решений, которые есть в голове и пытаться находить новые знания, которые подтверждают свои же знания, даже если они неправильные. Новые знания, которые опровергают текущие будут всячески отбрасываться.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        261
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270428113990811600,
+      "in_reply_to_status_id_str": "1270428113990811648",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 09 19:26:11 +0000 2020",
+      "id": 1270437053126398000,
+      "id_str": "1270437053126397952",
+      "full_text": "{2/8} Последний год начал больше погружаться в нейробиологию. Психологию изучаю со школьных времен. Но поступил в ВУЗ на программиста:)) Чем дальше, тем лучше  разбираешься в поведениях людей. Это сильно помогает при управлении продуктом.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        238
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270428115572064300,
+      "in_reply_to_status_id_str": "1270428115572064256",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 09 19:26:12 +0000 2020",
+      "id": 1270437055940698000,
+      "id_str": "1270437055940698112",
+      "full_text": "{2/9}  Рекомендую завести себе друзей среди психотерапевтов и нейробиологов. А самим иногда посещать сеансы психотерапии, чтобы научиться замечать у себя эффекты confirmation bias и Einstellung. Определенно улучшиться качество мышления.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        236
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270437053126398000,
+      "in_reply_to_status_id_str": "1270437053126397952",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 10 07:31:11 +0000 2020",
+      "id": 1270619504268148700,
+      "id_str": "1270619504268148736",
+      "full_text": "{3/1} Всем бодрой среды! Поговорим сегодня о поисках партнера в свои проекты. \n\nНекоторые продакты и не только они, пытаются запустить свою идею. Но как всегда это процесс не простой:)\n\nКто пытается запустить свой продукт?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        222
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 10 12:45:29 +0000 2020",
+      "id": 1270698601963049000,
+      "id_str": "1270698601963048961",
+      "full_text": "{3/2} Одна из проблем при запуске своего продукта нехватка компетенций и навыков в определенной области. И основатель идеи пытается найти их в партнерах. \n\nКто и как ищет партнеров или уже нашел? Поделитесь историями.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        217
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270619504268148700,
+      "in_reply_to_status_id_str": "1270619504268148736",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 10 15:57:07 +0000 2020",
+      "id": 1270746827042816000,
+      "id_str": "1270746827042816007",
+      "full_text": "{3/3} Навык продаж. Без этого навыка будет сложнее. Либо жестко прокачивать либо найти партнера, который возьмет на себя такую ответственность. Продавать придется не только клиентам, но и инвесторам и партнерам. Умение красиво рассказывать увеличивает конверсию в покупку.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270698601963049000,
+      "in_reply_to_status_id_str": "1270698601963048961",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 10 16:56:10 +0000 2020",
+      "id": 1270761688346869800,
+      "id_str": "1270761688346869761",
+      "full_text": "{3/4} Не рекомендуется брать в партнеры друзей. Большинство случаев запуска стартапов с друзьями заканчивались конфликтом и провалом стартапа. Это связано с тем, что с друзьями не обговариваются партнерские отношения  и кажется, что дружеских отношений достаточно  для запуска.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270746827042816000,
+      "in_reply_to_status_id_str": "1270746827042816007",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 10 18:02:33 +0000 2020",
+      "id": 1270778392233808000,
+      "id_str": "1270778392233807874",
+      "full_text": "{3/5} С партнерами обязательно нужно обговорить кто и чем будет заниматься, сколько времени и денег готовы вкладывать. Что произойдет, если один из партнеров перестанет контрибьютить в проект. Желательно зафиксировать все это письменно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        236
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270761688346869800,
+      "in_reply_to_status_id_str": "1270761688346869761",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 10 18:29:34 +0000 2020",
+      "id": 1270785190797942800,
+      "id_str": "1270785190797942784",
+      "full_text": "{3/6} Очень важное качество в партнерах, которое должно быть и у любого основателя — умение работать в условиях неопределенности(про это поговорим в субботу) и постоянного изучения новой информации. У людей должен быть интерес к \"копанию\" всего, что связано с вашим продуктом.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270778392233808000,
+      "in_reply_to_status_id_str": "1270778392233807874",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 10 18:48:46 +0000 2020",
+      "id": 1270790023017873400,
+      "id_str": "1270790023017873415",
+      "full_text": "{3/7} Где искать партнеров? Если определились кого ищете, пишите целенаправленно в линкедин, фейсбук,  стартаперские чаты, выступите на demo day встречах  акселераторов, найдите стартапы с похожей идей и объединитесь с ними.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        224
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270785190797942800,
+      "in_reply_to_status_id_str": "1270785190797942784",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 10 19:20:12 +0000 2020",
+      "id": 1270797933651333000,
+      "id_str": "1270797933651333122",
+      "full_text": "{3/8} Где еще можно найти? \n\n- Написать в https://t.co/fisviGDCKj. Я там нашел один раз коуфаундера. \n- Написать в реддите https://t.co/9fFvvozxcn\n- Оставить заявку в ФРИИ https://t.co/jbeRzYXSMF",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        195
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fisviGDCKj",
+            "expanded_url": "http://cofounderslab.com",
+            "display_url": "cofounderslab.com",
+            "indices": [
+              42,
+              65
+            ]
+          },
+          {
+            "url": "https://t.co/9fFvvozxcn",
+            "expanded_url": "https://www.reddit.com/r/cofounder/",
+            "display_url": "reddit.com/r/cofounder/",
+            "indices": [
+              123,
+              146
+            ]
+          },
+          {
+            "url": "https://t.co/jbeRzYXSMF",
+            "expanded_url": "https://edu.iidf.ru/cofoundit",
+            "display_url": "edu.iidf.ru/cofoundit",
+            "indices": [
+              172,
+              195
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270790023017873400,
+      "in_reply_to_status_id_str": "1270790023017873415",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 10 19:27:29 +0000 2020",
+      "id": 1270799765429682200,
+      "id_str": "1270799765429682176",
+      "full_text": "И мемчик для разбавки:) https://t.co/hhAqbC4F81",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        23
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1270799526757105700,
+            "id_str": "1270799526757105664",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaLJb8UXgAAMaHa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaLJb8UXgAAMaHa.jpg",
+            "url": "https://t.co/hhAqbC4F81",
+            "display_url": "pic.twitter.com/hhAqbC4F81",
+            "expanded_url": "https://twitter.com/produnderhood/status/1270799765429682176/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 600,
+                "h": 495,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 495,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 600,
+                "h": 495,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1270799526757105700,
+            "id_str": "1270799526757105664",
+            "indices": [
+              24,
+              47
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaLJb8UXgAAMaHa.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaLJb8UXgAAMaHa.jpg",
+            "url": "https://t.co/hhAqbC4F81",
+            "display_url": "pic.twitter.com/hhAqbC4F81",
+            "expanded_url": "https://twitter.com/produnderhood/status/1270799765429682176/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 600,
+                "h": 495,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 495,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 600,
+                "h": 495,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1270797933651333000,
+      "in_reply_to_status_id_str": "1270797933651333122",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 11 08:56:11 +0000 2020",
+      "id": 1271003281809182700,
+      "id_str": "1271003281809182720",
+      "full_text": "{4/1} Сегодня поговорим про навык коммуникации и презентации. Я на 99,9% был интровертом. Общение с людьми мне давалось очень сложно. После долгого общения я терял всю энергию. Боялся выступать перед публикой и даже не умел говорить поздравления на дне рождении :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        264
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 11 08:56:12 +0000 2020",
+      "id": 1271003287005864000,
+      "id_str": "1271003287005863937",
+      "full_text": "{4/2} Основной софт скилл продакта - это коммуникация. Она нужна ему при продажах, проведении интервью, переговорах, выступлениях и презентациях. Около 50% времени уходит на коммуникацию.\n\nНасколько сложно вам дается коммуникация?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        230
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271003281809182700,
+      "in_reply_to_status_id_str": "1271003281809182720",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 11 12:26:54 +0000 2020",
+      "id": 1271056310197518300,
+      "id_str": "1271056310197518339",
+      "full_text": "Хороший вопрос, Павел:) Спасибо, что задали. \nВо-первых, когда у меня что-то не получалось, я думал, что у меня такое поведение и мышление. И врожденных навыков, которых у меня нет, невозможно прокачать. Это было сильным ограничением для мозга, которое не позволяло развиваться. https://t.co/oasbfSgrgC",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oasbfSgrgC",
+            "expanded_url": "https://twitter.com/pavel_ivanovsky/status/1270937213719764993",
+            "display_url": "twitter.com/pavel_ivanovsk…",
+            "indices": [
+              279,
+              302
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1270937213719765000,
+      "quoted_status_id_str": "1270937213719764993",
+      "quoted_status_permalink": {
+        "url": "https://t.co/oasbfSgrgC",
+        "expanded": "https://twitter.com/pavel_ivanovsky/status/1270937213719764993",
+        "display": "twitter.com/pavel_ivanovsk…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Jun 11 04:33:39 +0000 2020",
+        "id": 1270937213719765000,
+        "id_str": "1270937213719764993",
+        "full_text": "@produnderhood Бахром, любопытно, что было самым большим инсайтом? Какие ваши взгляды, идеи оказались в корне неверными? Спасибо!",
+        "truncated": false,
+        "display_text_range": [
+          15,
+          129
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "produnderhood",
+              "name": "Менеджер продукта",
+              "id": 1094672152551399400,
+              "id_str": "1094672152551399424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 1270048191581487000,
+        "in_reply_to_status_id_str": "1270048191581487111",
+        "in_reply_to_user_id": 1094672152551399400,
+        "in_reply_to_user_id_str": "1094672152551399424",
+        "in_reply_to_screen_name": "produnderhood",
+        "user": {
+          "id": 829913843480588300,
+          "id_str": "829913843480588288"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 11 12:26:55 +0000 2020",
+      "id": 1271056315746582500,
+      "id_str": "1271056315746582528",
+      "full_text": "Во-вторых, общался с людьми, которые говорили, что не получится и это сложно. Это были мои друзья и коллеги. Находить других и общаться не получалось из-за слабых коммуникативных навыков. Прокачав немного коммуникацию, я полностью сменил окружение.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        248
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271056310197518300,
+      "in_reply_to_status_id_str": "1271056310197518339",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 11 12:26:55 +0000 2020",
+      "id": 1271056317784961000,
+      "id_str": "1271056317784961024",
+      "full_text": "В-третьих, жалею, что глубоко не изучал биологию, эволюцию, социологию, нейробиологию. Чем дальше на текущий момент погружаюсь, тем больше понимаю как устроено все вокруг нас и почему у меня такое поведение и как влиять на это.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        227
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271056315746582500,
+      "in_reply_to_status_id_str": "1271056315746582528",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 11 12:26:56 +0000 2020",
+      "id": 1271056319827644400,
+      "id_str": "1271056319827644419",
+      "full_text": "В-четвёртых, я жил в галлюцинациях, что мои догадки и мышление 100% правильные, что сильно влияло на точность принятия решений. Больше погружаясь  в научный подход мышления, я научился опровергать свои недостоверные догадки и находить новые знания.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        248
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271056317784961000,
+      "in_reply_to_status_id_str": "1271056317784961024",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 11 16:40:47 +0000 2020",
+      "id": 1271120201799667700,
+      "id_str": "1271120201799667712",
+      "full_text": "{4/3} Усталось от общения возникает из-за слабых голосовых связок, которые не были проработаны в момент взросления ребенка. Строгие родители всегда ругают и постоянно запрещают ребенку, который впоследствии вырастает интровертом.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        229
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271003287005864000,
+      "in_reply_to_status_id_str": "1271003287005863937",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 11 16:40:47 +0000 2020",
+      "id": 1271120203431194600,
+      "id_str": "1271120203431194624",
+      "full_text": "{4/4} Голосовые связки можно прокачать, точно также как и мыщцы в спортзале. У актеров, певцов и ведущих есть набор упражнений для голоса. Я ходил на курсы по постановке голоса и речи и каждую неделю выполняю упражнения. Голос со временем стал звонким и в общение не устаю.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271120201799667700,
+      "in_reply_to_status_id_str": "1271120201799667712",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 11 17:06:53 +0000 2020",
+      "id": 1271126771870597000,
+      "id_str": "1271126771870597121",
+      "full_text": "{4/5} Танцы — прокачивают невербальную коммуникацию, которая является одним из мощных инструментов взаимодействия с людьми при общении. Три года танцев и выступлений избавили меня от страха выступления перед публикой. Особенно рекомендую ходить на парные танцы.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        261
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271120203431194600,
+      "in_reply_to_status_id_str": "1271120203431194624",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 11 17:06:53 +0000 2020",
+      "id": 1271126773586165800,
+      "id_str": "1271126773586165761",
+      "full_text": "{4/6} Импровизация — навык, который позволяет креативить и словесно импровизировать при общении с людьми. Прокачивают навык проявления эмоций и получения удовольствия от общения. Научитесь шутить. Я до сих пор хожу на джемы по импровизации. Ничуть не жалею.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        257
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271126771870597000,
+      "in_reply_to_status_id_str": "1271126771870597121",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 11 17:26:19 +0000 2020",
+      "id": 1271131661808349200,
+      "id_str": "1271131661808349186",
+      "full_text": "{4/7} Еще рекомендую прочитать книгу Мастер коммуникации, написанная психотерапевтом Еленой Лопухиной. Это одна из лучших книг про коммуникацию. Никакой воды. Много практики. И все описано на основе психологии и поведения людей. https://t.co/ZGEpT0CGrX",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        228
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1271130934880993300,
+            "id_str": "1271130934880993280",
+            "indices": [
+              229,
+              252
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaP22byXgAArP3O.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaP22byXgAArP3O.jpg",
+            "url": "https://t.co/ZGEpT0CGrX",
+            "display_url": "pic.twitter.com/ZGEpT0CGrX",
+            "expanded_url": "https://twitter.com/produnderhood/status/1271131661808349186/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 426,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1283,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 752,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1271130934880993300,
+            "id_str": "1271130934880993280",
+            "indices": [
+              229,
+              252
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaP22byXgAArP3O.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EaP22byXgAArP3O.jpg",
+            "url": "https://t.co/ZGEpT0CGrX",
+            "display_url": "pic.twitter.com/ZGEpT0CGrX",
+            "expanded_url": "https://twitter.com/produnderhood/status/1271131661808349186/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 426,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1283,
+                "h": 2048,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 752,
+                "h": 1200,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271126773586165800,
+      "in_reply_to_status_id_str": "1271126773586165761",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 11 17:46:42 +0000 2020",
+      "id": 1271136794046759000,
+      "id_str": "1271136794046758920",
+      "full_text": "{4/8} Вывод сегодняшнего дня.\n\nПрокачать интровертам коммуникацию сложно, но реально. Да, иногда хочется бросить и не продолжать. Я занимаюсь прокачкой последние 10 лет)) Местами научился настраивать коммуникацию между двумя людьми. Стал убедительным и нравлюсь другим при общении",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271131661808349200,
+      "in_reply_to_status_id_str": "1271131661808349186",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 11 17:46:43 +0000 2020",
+      "id": 1271136795670044700,
+      "id_str": "1271136795670044673",
+      "full_text": "И мемасик напоследок. Иногда можно и так)) https://t.co/5YCYPFSwzE",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        42
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1271136587448008700,
+            "id_str": "1271136587448008704",
+            "indices": [
+              43,
+              66
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaP7_dPXQAAZXoQ.png",
+            "media_url_https": "https://pbs.twimg.com/media/EaP7_dPXQAAZXoQ.png",
+            "url": "https://t.co/5YCYPFSwzE",
+            "display_url": "pic.twitter.com/5YCYPFSwzE",
+            "expanded_url": "https://twitter.com/produnderhood/status/1271136795670044673/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 597,
+                "h": 536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 597,
+                "h": 536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 597,
+                "h": 536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1271136587448008700,
+            "id_str": "1271136587448008704",
+            "indices": [
+              43,
+              66
+            ],
+            "media_url": "http://pbs.twimg.com/media/EaP7_dPXQAAZXoQ.png",
+            "media_url_https": "https://pbs.twimg.com/media/EaP7_dPXQAAZXoQ.png",
+            "url": "https://t.co/5YCYPFSwzE",
+            "display_url": "pic.twitter.com/5YCYPFSwzE",
+            "expanded_url": "https://twitter.com/produnderhood/status/1271136795670044673/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 597,
+                "h": 536,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 597,
+                "h": 536,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 597,
+                "h": 536,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271136794046759000,
+      "in_reply_to_status_id_str": "1271136794046758920",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 12 08:14:52 +0000 2020",
+      "id": 1271355273035341800,
+      "id_str": "1271355273035341830",
+      "full_text": "{5/1} Проваленные идеи - самый интересный опыт в жизни. Но важно делать выводы и понять из-за чего был провал. \n\nКто пробовал запустить и не реализовал свой проект?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        164
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 12 11:34:40 +0000 2020",
+      "id": 1271405553626108000,
+      "id_str": "1271405553626107905",
+      "full_text": "{5/2} У меня постоянно генерируются различные идеи. Идеи возникали из-за существующих проблем, с которыми я сталкивался.\n\nКакие-то приносили деньги, а на большинство я потратил много денег. После нескольких неудачных попыток научился быстро и бюджетно проверять их.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        265
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271355273035341800,
+      "in_reply_to_status_id_str": "1271355273035341830",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 12 12:35:05 +0000 2020",
+      "id": 1271420758292660200,
+      "id_str": "1271420758292660224",
+      "full_text": "{5/3} Приложение-кошелек скидочных карт магазинов. \n\nБыла проблема с большим количеством карт, которые не вмешались в кошелки. И клиент забывал брать их с собой. Хотелось упростить хранение карт и объединить их одном месте.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        223
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271405553626108000,
+      "in_reply_to_status_id_str": "1271405553626107905",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 12 12:35:05 +0000 2020",
+      "id": 1271420760024854500,
+      "id_str": "1271420760024854528",
+      "full_text": "{5/4} Почему не получилось? \n\n- Не понимал как происходит разработка мобильных приложений\n- Не понимал как его монетизировать\n- Рассказывал друзьям, которые говорили, что это сложно и не получится\n\nЧерез год появились подобные приложения и до сих пор существуют.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271420758292660200,
+      "in_reply_to_status_id_str": "1271420758292660224",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 12 12:35:06 +0000 2020",
+      "id": 1271420761614540800,
+      "id_str": "1271420761614540800",
+      "full_text": "{5/5} Сервисы по подбору репетиторов. \n\nЭто был 2010 год. На тот момент все сервисы по подбору репетиторов предоставляли услуги некачественно и сайты были с дизайном 90-х. Спрос на репетиторство активно рос. Особенно среди школьников.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        234
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271420760024854500,
+      "in_reply_to_status_id_str": "1271420760024854528",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 12 12:35:06 +0000 2020",
+      "id": 1271420763606745000,
+      "id_str": "1271420763606745088",
+      "full_text": "{5/6} Почему не получилось?\n\nДрузья говорили, что таких сервисов. Я был не убедительным и не смог доказать, что рынок растет. Вследствие чего не смог найти разработчиков-партнеров. Да и в принципе тогда не понимал как их искать и как строить партнерские отношения.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        264
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271420761614540800,
+      "in_reply_to_status_id_str": "1271420761614540800",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 12 14:09:34 +0000 2020",
+      "id": 1271444535013408800,
+      "id_str": "1271444535013408770",
+      "full_text": "{5/7} Поиск земляков в других странах.\n\nИдея была моего друга. Он из Хорватии. Ему было сложно найти своих же земляков в Москве и таких иностранцев в Москве из разных стран было много. Мы решили разработать сервис по поиску земляков.  Нас было 4 друзей. Двое из нас разработчики",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271420763606745000,
+      "in_reply_to_status_id_str": "1271420763606745088",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 12 14:09:34 +0000 2020",
+      "id": 1271444536691175400,
+      "id_str": "1271444536691175425",
+      "full_text": "{5/8} Почему не получилось?\n\n- На тот момент не понимали как монетизировать \n- Часто происходил конфликт, так как не закрепили партнерские отношения и кто чем занимается. \n- Начали разрабатывать вместо попытки понять насколько большой спрос.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        241
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271444535013408800,
+      "in_reply_to_status_id_str": "1271444535013408770",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 05:31:26 +0000 2020",
+      "id": 1271676532449251300,
+      "id_str": "1271676532449251328",
+      "full_text": "{5/9} Английский разговорный клуб\n\nДля практики разговорной речи, я ходил в клубы. Подружился с основательницей небольшого клуба. Она переезжала в другой город и я решил попробовать прокачать организационные скилы и задружится с экспатами.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271444536691175400,
+      "in_reply_to_status_id_str": "1271444536691175425",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 05:31:27 +0000 2020",
+      "id": 1271676534135324700,
+      "id_str": "1271676534135324672",
+      "full_text": "{5/10} Встречи других клубов велись так, что не все были вовлечены в процесс дискуссии. Я продумал механику, когда всем было интересно и проводились в игровом формате. Обучал ведущих как проводить, чтобы остальным было интересно. По положительным отзывам — клуб был в топе",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271676532449251300,
+      "in_reply_to_status_id_str": "1271676532449251328",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 05:31:27 +0000 2020",
+      "id": 1271676535758561300,
+      "id_str": "1271676535758561281",
+      "full_text": "{5/11} Начал думать как привлекать больше людей. Изучил все сайты событий и как продвигать в их поисковой системе. Через некоторое время продвинул на первое место в запросах. На тот момент это был мой первый опыт погружения в маркетинг и как сейчас модно называть growth hacking.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271676534135324700,
+      "in_reply_to_status_id_str": "1271676534135324672",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 05:31:27 +0000 2020",
+      "id": 1271676537327280000,
+      "id_str": "1271676537327280129",
+      "full_text": "{5/12} Сайты событий начали генерировать много трафика. Клуб каким-то образом еще попал в топ Яндекс.Афиши. Далее продумал монетизацию. Большинство отвалились, но люди продолжали ходить, так как встречи проводились лучше, чем у всех остальных клубов.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271676535758561300,
+      "in_reply_to_status_id_str": "1271676535758561281",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 05:31:28 +0000 2020",
+      "id": 1271676538841370600,
+      "id_str": "1271676538841370626",
+      "full_text": "{5/13} Клуб отнимал много времени. Занимался в свободное от работы время. И это был чисто оффлайн. Я как айтишник мечтал работать над технологичными продуктами. На тот момент в голову не приходили идеи типа LingvoLeo, Skyeng... Мыслил очень ограниченно. Клуб отдал другой девушке.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271676537327280000,
+      "in_reply_to_status_id_str": "1271676537327280129",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 05:31:28 +0000 2020",
+      "id": 1271676540393267200,
+      "id_str": "1271676540393267200",
+      "full_text": "{5/14} Какие выводы?\n\n- Не умел делегировать. Хотелось все самому делать.\n- Мыслил ограниченно. Не додумался, что на основе него можно тестировать разные продукты.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        163
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271676538841370600,
+      "in_reply_to_status_id_str": "1271676538841370626",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 07:22:02 +0000 2020",
+      "id": 1271704363615084500,
+      "id_str": "1271704363615084549",
+      "full_text": "{5/15} P2P-криптобиржа.\n\nХайп. ICO. Крипта. Я погряз в них и начал инвестировать в крипту. Через некоторое время начал замечать проблемные места. Купить Эфир для инвестирования было одним из сложных задач. Много мошенников, большая комиссия, не технарю было сложно разобраться.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271676540393267200,
+      "in_reply_to_status_id_str": "1271676540393267200",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 07:22:02 +0000 2020",
+      "id": 1271704365544484900,
+      "id_str": "1271704365544484865",
+      "full_text": "{5/16} Собрал команду из коллег, вдохновил их и мы начали тестировать идею. В этот момент проходили акселерацию в Founder institute. Сразу отказались от идеи разрабатывать пока не поймем насколько большой спрос. Разработали лендинг. Описали проблемы и как их будем решать.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271704363615084500,
+      "in_reply_to_status_id_str": "1271704363615084549",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 07:22:02 +0000 2020",
+      "id": 1271704367327072300,
+      "id_str": "1271704367327072257",
+      "full_text": "{5/17} Запустили рекламу на всех каналах, где находятся наши пользователи. Получили 500 заявок на регистрацию. Начали разрабатывать первую версию MVP. Так как коуфаундер не занимался разработкой на блокчейне, приходилось погружаться с нуля.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        240
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271704365544484900,
+      "in_reply_to_status_id_str": "1271704365544484865",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 07:22:03 +0000 2020",
+      "id": 1271704369050853400,
+      "id_str": "1271704369050853376",
+      "full_text": "{5/18} Параллельно искали инвестиции, так свободного времени не хватало. В это момент я начал погружаться в мир привлечения инвестиций. ICO мы не делали. Нам нужно было привлечь немного венчурного капитала. Активно знакомился с венчурными капиталистами и рассылал наш pitch deck.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271704367327072300,
+      "in_reply_to_status_id_str": "1271704367327072257",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 07:22:03 +0000 2020",
+      "id": 1271704370749603800,
+      "id_str": "1271704370749603846",
+      "full_text": "{5/19} Нам удалось выйти на одного инвестора. Переговоры шли долго. Он хотел 50% доли, мы не хотели отдавать более 10% как рекомендовал акселератор. Мы продолжили искать других. В это момент рынок крипты начал сильно падать. Все инвесторы были настороженны и не хотели заходить.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271704369050853400,
+      "in_reply_to_status_id_str": "1271704369050853376",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 07:22:04 +0000 2020",
+      "id": 1271704372423114800,
+      "id_str": "1271704372423114752",
+      "full_text": "{5/20} Сильно выгорели. Так как работали по вечерам и выходным три месяца. Не виделись с друзьями и родными. Потратили около 700 тыс рублей. И рынок начал падать. Без инвестиций мы дальше не смогли продолжить.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        209
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271704370749603800,
+      "in_reply_to_status_id_str": "1271704370749603846",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 07:28:53 +0000 2020",
+      "id": 1271706089361473500,
+      "id_str": "1271706089361473542",
+      "full_text": "{6/1}  Неопределенность. Очень сложно работать в условиях неопределенности. В школах и ВУЗах не обучают этому навыку. \n\nУдалось ли разобраться как работать в условиях неопределенности?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        184
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 16:47:51 +0000 2020",
+      "id": 1271846757559939000,
+      "id_str": "1271846757559939072",
+      "full_text": "Рад, что информация была полезной:) Были еще куча других идей, которые тестировал. Все не стал описывать. Возможно как-нибудь оформлю их все в одну статью. https://t.co/MDsBQmaKr2",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        155
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MDsBQmaKr2",
+            "expanded_url": "https://twitter.com/Odigi_Andrey/status/1271745164114120705",
+            "display_url": "twitter.com/Odigi_Andrey/s…",
+            "indices": [
+              156,
+              179
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1271745164114120700,
+      "quoted_status_id_str": "1271745164114120705",
+      "quoted_status_permalink": {
+        "url": "https://t.co/MDsBQmaKr2",
+        "expanded": "https://twitter.com/Odigi_Andrey/status/1271745164114120705",
+        "display": "twitter.com/Odigi_Andrey/s…"
+      },
+      "quoted_status": {
+        "created_at": "Sat Jun 13 10:04:09 +0000 2020",
+        "id": 1271745164114120700,
+        "id_str": "1271745164114120705",
+        "full_text": "@produnderhood По-моему очень круто, что изучено было столько разных сценариев построения бизнеса снуля. Спасибо что поделились",
+        "truncated": false,
+        "display_text_range": [
+          15,
+          127
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "produnderhood",
+              "name": "Менеджер продукта",
+              "id": 1094672152551399400,
+              "id_str": "1094672152551399424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1271704372423114800,
+        "in_reply_to_status_id_str": "1271704372423114752",
+        "in_reply_to_user_id": 1094672152551399400,
+        "in_reply_to_user_id_str": "1094672152551399424",
+        "in_reply_to_screen_name": "produnderhood",
+        "user": {
+          "id": 2876897855,
+          "id_str": "2876897855"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 17:43:58 +0000 2020",
+      "id": 1271860881870258200,
+      "id_str": "1271860881870258176",
+      "full_text": "{6/2} Неопределенность – это ситуация, которая возникает при двусмысленной информации, либо при ее отсутствии по причине невозможности предсказать события из-за огромного количества факторов, о части из которых человек даже не подозревает.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        239
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271706089361473500,
+      "in_reply_to_status_id_str": "1271706089361473542",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 18:22:11 +0000 2020",
+      "id": 1271870496515203000,
+      "id_str": "1271870496515203074",
+      "full_text": "{6/3} Не могу сказать, что я крут при работе в условиях неопределенности, но изучая некоторые принимаемые мною решения, понимаю что они были сформированы из-за моего определенного типа мышления. Как он сформировался сам не могу описать.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        236
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271860881870258200,
+      "in_reply_to_status_id_str": "1271860881870258176",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 18:22:11 +0000 2020",
+      "id": 1271870498373320700,
+      "id_str": "1271870498373320705",
+      "full_text": "{6/4} Возможно игры в шахматы в подростковом периоде, интерес ко всему новому, интерес как устроен тот или иной процесс, детские мини-бизнеса и остальные попытки их запуска. \n\nПоэтому продолжаю изучать и прокачивать навык.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        222
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271870496515203000,
+      "in_reply_to_status_id_str": "1271870496515203074",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 18:26:49 +0000 2020",
+      "id": 1271871662460452900,
+      "id_str": "1271871662460452865",
+      "full_text": "{6/5} Одна из классных статей на эту тему First Principles: The Building Blocks of True Knowledge.  \n\nFarman street описали Метод первых принципов, который позволяет разобрать сложные вопросы на более понятные.\n\nИван Замесин перевел эту статью. Рекомендую\n\nhttps://t.co/4AALTm87If",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/4AALTm87If",
+            "expanded_url": "https://zamesin.me/first-principles/",
+            "display_url": "zamesin.me/first-principl…",
+            "indices": [
+              257,
+              280
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271870498373320700,
+      "in_reply_to_status_id_str": "1271870498373320705",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 13 18:33:45 +0000 2020",
+      "id": 1271873407114776600,
+      "id_str": "1271873407114776577",
+      "full_text": "{6/6} Книга Начало бесконечности. Мне это книга безумно нравится, но местами сложная. Это микс астрологии, физики, философии, математики, эволюции. В книге рассказывается как находить разумные объяснения всему, что вокруг нас происходит.  \n\nhttps://t.co/yzPkY0Rejg",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        264
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yzPkY0Rejg",
+            "expanded_url": "https://www.respublica.ru/knigi/nauchno-populyarnye-knigi/fizika/483702-doych-d-nachalo-beskonechnosti-ob-yasneniya-kotorye-menyayut-mir-poket",
+            "display_url": "respublica.ru/knigi/nauchno-…",
+            "indices": [
+              241,
+              264
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1271871662460452900,
+      "in_reply_to_status_id_str": "1271871662460452865",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 14 08:51:26 +0000 2020",
+      "id": 1272089252600451000,
+      "id_str": "1272089252600451073",
+      "full_text": "{7/1} Фулл-тайм работа, личная жизнь, обучение... Нехватка времени самый острый вопрос для большинства людей. \n\nКак вы справляется с нехваткой времени на личностный рост, отношения, pet-проекты?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        194
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 14 16:12:40 +0000 2020",
+      "id": 1272200292998746000,
+      "id_str": "1272200292998746113",
+      "full_text": "Да, так мы получим хоть какой-то спрос на продукт. Но нужно понимать, что разрабатывать стоит только самый необходимый функционал и стараться обходиться текущими решениями. Смотреть в сторону lowcode, lesscode, nocode. https://t.co/CF1j0hHK4v",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        218
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/CF1j0hHK4v",
+            "expanded_url": "https://twitter.com/westk0r/status/1271910327341518849",
+            "display_url": "twitter.com/westk0r/status…",
+            "indices": [
+              219,
+              242
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1271910327341518800,
+      "quoted_status_id_str": "1271910327341518849",
+      "quoted_status_permalink": {
+        "url": "https://t.co/CF1j0hHK4v",
+        "expanded": "https://twitter.com/westk0r/status/1271910327341518849",
+        "display": "twitter.com/westk0r/status…"
+      },
+      "quoted_status": {
+        "created_at": "Sat Jun 13 21:00:27 +0000 2020",
+        "id": 1271910327341518800,
+        "id_str": "1271910327341518849",
+        "full_text": "@produnderhood Я правильно понял, что тестировать дёшево идею значит сделать лендинг, запустить рекламу и посмотреть на спрос? Если устраивает спрос, начинаем разработку. Так?",
+        "truncated": false,
+        "display_text_range": [
+          15,
+          175
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "produnderhood",
+              "name": "Менеджер продукта",
+              "id": 1094672152551399400,
+              "id_str": "1094672152551399424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1271704367327072300,
+        "in_reply_to_status_id_str": "1271704367327072257",
+        "in_reply_to_user_id": 1094672152551399400,
+        "in_reply_to_user_id_str": "1094672152551399424",
+        "in_reply_to_screen_name": "produnderhood",
+        "user": {
+          "id": 819443055031939100,
+          "id_str": "819443055031939072"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 14 16:12:41 +0000 2020",
+      "id": 1272200294919745500,
+      "id_str": "1272200294919745537",
+      "full_text": "Далее нужно посчитать всю экономику. Объем рынка, расходы и тд. Если будет примерное понимание, что экономика будет сходиться можно дальше работать над проектом и думать о разработке.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        183
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1272200292998746000,
+      "in_reply_to_status_id_str": "1272200292998746113",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 14 16:16:59 +0000 2020",
+      "id": 1272201376798511000,
+      "id_str": "1272201376798511106",
+      "full_text": "Ребята, спасибо вам! Вы классная аудитория. Твиттером никогда не пользовался. Это мой первый опыт:)\n\nЕсли кто хочет остаться на связи, я есть  в FB. https://t.co/hZxsj8t8bK https://t.co/CLfABNO6uQ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        172
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hZxsj8t8bK",
+            "expanded_url": "https://web.facebook.com/idisbk",
+            "display_url": "web.facebook.com/idisbk",
+            "indices": [
+              149,
+              172
+            ]
+          },
+          {
+            "url": "https://t.co/CLfABNO6uQ",
+            "expanded_url": "https://twitter.com/produnderhood/status/1269880321622843392",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              173,
+              196
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1269880321622843400,
+      "quoted_status_id_str": "1269880321622843392",
+      "quoted_status_permalink": {
+        "url": "https://t.co/CLfABNO6uQ",
+        "expanded": "https://twitter.com/produnderhood/status/1269880321622843392",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Jun 08 06:33:56 +0000 2020",
+        "id": 1269880321622843400,
+        "id_str": "1269880321622843392",
+        "full_text": "ПН: Стартап-акселератор для продакта\nВТ: Прочитал «Спроси маму», но касдев не работает\nСР: Поиск партнера в стартап\nЧТ: Прокачка навыков презентации и коммуникации\nПТ: Какие идеи провалились и чему я научился\nСБ: Работа в условиях неопределенности\nВС: Поиск времени на pet-проекты",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          280
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1269880319727075300,
+        "in_reply_to_status_id_str": "1269880319727075330",
+        "in_reply_to_user_id": 1094672152551399400,
+        "in_reply_to_user_id_str": "1094672152551399424",
+        "in_reply_to_screen_name": "produnderhood",
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Jun 14 16:26:18 +0000 2020",
+      "id": 1272203721372549000,
+      "id_str": "1272203721372549130",
+      "full_text": "ПН https://t.co/WvyKzVIlUr\nВТ https://t.co/74xygU2EC8\nСР https://t.co/KjmJjgM0uI\nЧТ https://t.co/5SuqVs3ifc\nПТ https://t.co/IHbUdIaTst https://t.co/CLfABNO6uQ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        134
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WvyKzVIlUr",
+            "expanded_url": "https://twitter.com/produnderhood/status/1269969503921885186",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              3,
+              26
+            ]
+          },
+          {
+            "url": "https://t.co/74xygU2EC8",
+            "expanded_url": "https://twitter.com/produnderhood/status/1270250652439056384",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              30,
+              53
+            ]
+          },
+          {
+            "url": "https://t.co/KjmJjgM0uI",
+            "expanded_url": "https://twitter.com/produnderhood/status/1270619504268148736",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              57,
+              80
+            ]
+          },
+          {
+            "url": "https://t.co/5SuqVs3ifc",
+            "expanded_url": "https://twitter.com/produnderhood/status/1271003281809182720",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              84,
+              107
+            ]
+          },
+          {
+            "url": "https://t.co/IHbUdIaTst",
+            "expanded_url": "https://twitter.com/produnderhood/status/1271355273035341830",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              111,
+              134
+            ]
+          },
+          {
+            "url": "https://t.co/CLfABNO6uQ",
+            "expanded_url": "https://twitter.com/produnderhood/status/1269880321622843392",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              135,
+              158
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1269880321622843400,
+      "quoted_status_id_str": "1269880321622843392",
+      "quoted_status_permalink": {
+        "url": "https://t.co/CLfABNO6uQ",
+        "expanded": "https://twitter.com/produnderhood/status/1269880321622843392",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Jun 08 06:33:56 +0000 2020",
+        "id": 1269880321622843400,
+        "id_str": "1269880321622843392",
+        "full_text": "ПН: Стартап-акселератор для продакта\nВТ: Прочитал «Спроси маму», но касдев не работает\nСР: Поиск партнера в стартап\nЧТ: Прокачка навыков презентации и коммуникации\nПТ: Какие идеи провалились и чему я научился\nСБ: Работа в условиях неопределенности\nВС: Поиск времени на pet-проекты",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          280
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1269880319727075300,
+        "in_reply_to_status_id_str": "1269880319727075330",
+        "in_reply_to_user_id": 1094672152551399400,
+        "in_reply_to_user_id_str": "1094672152551399424",
+        "in_reply_to_screen_name": "produnderhood",
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 11,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    }
+  ]
+}
