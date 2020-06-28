@@ -7,7 +7,7 @@ export default authorId([
   //   post: false # Include only for author that hasn't finished his week yet. Will display link to twitter instead of archive
   // },
   { username: 'mervlad', first: '1275125567822626821' },
-    { username: 'produnderhood', first: '1269880319727075330' },
+  { username: 'produnderhood', first: '1269880319727075330' },
   { username: 'tanda_t', first: '1267334297645649921'},
   { username: 'NikoGenn', first: '1264825369162547200' },
   { username: 'produnderhood', first: '1262284882308411394' },
