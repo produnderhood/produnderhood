@@ -1,0 +1,2422 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Jun 22 17:56:40 +0000 2020",
+      "id": 1275125567822626800,
+      "id_str": "1275125567822626821",
+      "full_text": "Привет! Новая неделя и с вами новый автор. Меня зовут Владимир Меркушев, интернет проектами и продуктами занимаюсь уже более 10 лет. Работал в Казахстане (Колёса, Крыша), России (Авито, Яндекс), UK (ClickaJob, ClickaTest). Сейчас менеджер продукта в международной команде OLX EU.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 22 18:00:20 +0000 2020",
+      "id": 1275126491421048800,
+      "id_str": "1275126491421048832",
+      "full_text": "Большая часть моего опыта связана с классифайдами (сервисы объявлений) и маркетплейсами. О них, наверное, и будет большинство постов. Также я веду канал о продуктах в Телеграм, который уже читает более 4000 человек. Иногда буду цитировать свои же посты ;)\nhttps://t.co/EHyYLm6Vgx",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EHyYLm6Vgx",
+            "expanded_url": "https://t.me/vladimir_merkushev",
+            "display_url": "t.me/vladimir_merku…",
+            "indices": [
+              256,
+              279
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 22 18:11:06 +0000 2020",
+      "id": 1275129199657967600,
+      "id_str": "1275129199657967616",
+      "full_text": "Для начала немного фактов о классифайдах. Продукты такого вида есть в каждой стране мира. Сервис объявлений — одна из первых бизнес-моделей в интернете. Многие считают её одной из самых прибыльных. С одним но, хорошо зарабатывает на этом рынке только самый крупный игрок!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 22 18:17:40 +0000 2020",
+      "id": 1275130851848831000,
+      "id_str": "1275130851848830976",
+      "full_text": "Началось все с Craigslist — крупнейшего сервиса объявлений в США, который долгое время был полностью бесплатным. Из его категорий родилось много продуктов, которые мы сейчас хорошо знаем. https://t.co/goazrrlJOH",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        187
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1275130837021995000,
+            "id_str": "1275130837021995008",
+            "indices": [
+              188,
+              211
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbIsvYbXsAApoBW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbIsvYbXsAApoBW.jpg",
+            "url": "https://t.co/goazrrlJOH",
+            "display_url": "pic.twitter.com/goazrrlJOH",
+            "expanded_url": "https://twitter.com/produnderhood/status/1275130851848830976/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1208,
+                "h": 906,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1275130837021995000,
+            "id_str": "1275130837021995008",
+            "indices": [
+              188,
+              211
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbIsvYbXsAApoBW.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbIsvYbXsAApoBW.jpg",
+            "url": "https://t.co/goazrrlJOH",
+            "display_url": "pic.twitter.com/goazrrlJOH",
+            "expanded_url": "https://twitter.com/produnderhood/status/1275130851848830976/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1208,
+                "h": 906,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Jun 22 18:24:42 +0000 2020",
+      "id": 1275132621480231000,
+      "id_str": "1275132621480230918",
+      "full_text": "Сейчас все сервисы объявлений стараются охватить большую часть сделки, а не только свести продавца и покупателя. По сути они становятся маркетплейсами. На недавней конференции Global Online Marketplaces Summit только об этом и говорили. Моё саммари здесь: https://t.co/IlMDGgBlgw",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/IlMDGgBlgw",
+            "expanded_url": "https://t.me/vladimir_merkushev/735",
+            "display_url": "t.me/vladimir_merku…",
+            "indices": [
+              256,
+              279
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 23 08:04:26 +0000 2020",
+      "id": 1275338912333017000,
+      "id_str": "1275338912333017088",
+      "full_text": "@ponomarenko_kz Привет! Нет, уже добрался до рынка Европы. Скоро перебираюсь в Лиссабон.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        88
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ponomarenko_kz",
+            "name": "Ponomarenko Vlad",
+            "id": 802427823730389000,
+            "id_str": "802427823730388992",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+      "in_reply_to_status_id": 1275336057341476900,
+      "in_reply_to_status_id_str": "1275336057341476864",
+      "in_reply_to_user_id": 802427823730389000,
+      "in_reply_to_user_id_str": "802427823730388992",
+      "in_reply_to_screen_name": "ponomarenko_kz",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 23 08:05:56 +0000 2020",
+      "id": 1275339293683302400,
+      "id_str": "1275339293683302401",
+      "full_text": "«Art challenges technology and technology inspires art». Крутая цитата, характеризующая деятельность Pixar. Кстати, если заменить art на products смысл не сильно пострадает ;)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        175
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Jun 23 10:41:58 +0000 2020",
+      "id": 1275378558731530200,
+      "id_str": "1275378558731530241",
+      "full_text": "Сегодня хочется поговорить о теме постановки целей. Мой любимый подход — Objectives and Key Results. Прямо сейчас работаем с командой над целями на следующий квартал. Применяю OKR в 3 по счёту компании. Собрал много граблей (везде разные) и проверил на своем опыте — работает.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://twitterrific.com/ios\" rel=\"nofollow\">Twitterrific for iOS</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 34,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 23 10:44:23 +0000 2020",
+      "id": 1275379165886324700,
+      "id_str": "1275379165886324736",
+      "full_text": "А вы используете Objectives and Key Results в своей команде?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        60
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Tue Jun 23 11:06:43 +0000 2020",
+      "id": 1275384787734233000,
+      "id_str": "1275384787734233093",
+      "full_text": "Краткий список граблей:\n- Неизмеримые KR\n- Слишком много целей\n- Замещение KR конкретными задачами\n- Постановка сверху вниз\n- Мало общения с другими командами\n- Нет регулярной проверки\n- Включение OKR в формулу расчета премий\n- Сложная система ведения OKR\nКакие разобрать?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275378558731530200,
+      "in_reply_to_status_id_str": "1275378558731530241",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 23 11:49:43 +0000 2020",
+      "id": 1275395609105760300,
+      "id_str": "1275395609105760257",
+      "full_text": "Попробую рассказать немного о каждом. KR должен быть измеримым, желательно в процентах и в любой момент времени. Например, увеличить продажи на 10%. В январе не увеличили — KR 0%, в феврале увеличили на 3% — KR 33%, в марте случилось чудо и увеличили на 9% — KR выполнен на 90%.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275384787734233000,
+      "in_reply_to_status_id_str": "1275384787734233093",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 23 11:52:13 +0000 2020",
+      "id": 1275396235952865300,
+      "id_str": "1275396235952865280",
+      "full_text": "Кстати, пример плохой. Команда явно могла поставить целью увеличить продажи на 20%. Ещё одно свойство OKR — амбициозность. Выполненный на 70% KR считается хорошим результатом.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        175
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275395609105760300,
+      "in_reply_to_status_id_str": "1275395609105760257",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 23 11:55:45 +0000 2020",
+      "id": 1275397125128495000,
+      "id_str": "1275397125128495104",
+      "full_text": "OKR нужно ставить снизу вверх, но так, чтобы каждая O команды делала четкий вклад в достижение какой-либо O компании. OKR команды ставит команда. Кстати, OKR компании можно ставить не на квартал, а на год. Они более глобальные и часто актуальны из квартала в квартал.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275396235952865300,
+      "in_reply_to_status_id_str": "1275396235952865280",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 23 12:00:22 +0000 2020",
+      "id": 1275398288674619400,
+      "id_str": "1275398288674619392",
+      "full_text": "Инструменты контроля OKR: \n- файл с OKR всех команд, доступный всем на чтение\n- сверка плана работ с OKR на внутри-командных встречах\n- регулярная встреча всех команд для апдейса статуса и синхронизации\n- отчет всех команд и руководства в конце квартала",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        253
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275397125128495000,
+      "in_reply_to_status_id_str": "1275397125128495104",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 23 14:08:27 +0000 2020",
+      "id": 1275430524086034400,
+      "id_str": "1275430524086034432",
+      "full_text": "OKR нельзя привязывать к материальной мотивации. Это инструмент синхронизации и достижения амбициозных целей. Ключевое слово \"амбициозных\". У команды не должно быть страха не получить премию или бонус из-за недостижение KR. Это будет мешать выбирать сложные цели.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275398288674619400,
+      "in_reply_to_status_id_str": "1275398288674619392",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 23 14:11:08 +0000 2020",
+      "id": 1275431197963956200,
+      "id_str": "1275431197963956225",
+      "full_text": "А ещё OKR это хороший повод пообщаться с коллегами. Вы можете найти в общем файле OKR команды с близкими вам целями, попробовать объединить усилия и добиться вместе лучших результатов. Или можете попробовать убедить коллег включить что-то важное для вас в их OKR.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275430524086034400,
+      "in_reply_to_status_id_str": "1275430524086034432",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Jun 23 14:21:04 +0000 2020",
+      "id": 1275433697181937700,
+      "id_str": "1275433697181937668",
+      "full_text": "Судя по опросу OKR пока ещё не очень распространен в русскоязычном сообществе. Попробуем исправить ситуацию! Хочу поделиться своим уроком с подробным разбором, шаблоном и примером OKR. По промо-коду \"okr\" для вас будет бесплатный доступ. https://t.co/09jkQZE4wg",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        261
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/09jkQZE4wg",
+            "expanded_url": "https://productexpert.thinkific.com/courses/product-expert-objectives-and-key-results",
+            "display_url": "productexpert.thinkific.com/courses/produc…",
+            "indices": [
+              238,
+              261
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275431197963956200,
+      "in_reply_to_status_id_str": "1275431197963956225",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 24 11:14:32 +0000 2020",
+      "id": 1275749142757810200,
+      "id_str": "1275749142757810176",
+      "full_text": "Для тех, кто выбрал последний вариант, а их большинство, хочу поделиться ссылкой на отличный перевод книги \"OKR для начинающих\" от ScrumTrek\nhttps://t.co/WlLjDShv9v",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        164
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/WlLjDShv9v",
+            "expanded_url": "https://scrumtrek.ru/blog/wp-content/uploads/2018/08/the-beginners-guide-to-okr-scrumtrek-ru.pdf",
+            "display_url": "scrumtrek.ru/blog/wp-conten…",
+            "indices": [
+              141,
+              164
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275379165886324700,
+      "in_reply_to_status_id_str": "1275379165886324736",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 24 11:26:21 +0000 2020",
+      "id": 1275752117282758700,
+      "id_str": "1275752117282758656",
+      "full_text": "Сегодня будет про саморазвитие. Принцип \"мы не можем что-то улучшить, пока мы это не измеряем\" здесь вполне применим. Но оценить себя сложно, а сделать это объективно ещё сложнее. Так родился инструмент самооценки навыков, который использовали уже более 300 продактов.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        268
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 24 11:28:51 +0000 2020",
+      "id": 1275752745853730800,
+      "id_str": "1275752745853730817",
+      "full_text": "Основа самооценки —  шкала от 0 до 10, где каждая оценка понятно описана. Например, 0 — ничего об этом не слышал, 5 — применял в работе, не часто, но достаточно уверенно, 10 — выступаю на конференциях, пишу статьи, готовлю свой курс. Эту шкалу я подсмотрел где-то в Сети.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275752117282758700,
+      "in_reply_to_status_id_str": "1275752117282758656",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 24 11:31:54 +0000 2020",
+      "id": 1275753511867895800,
+      "id_str": "1275753511867895808",
+      "full_text": "Затем я собрал в анкете на базе Google Forms все навыки, которые могут пригодится менеджеру продукта. Респондент оценивает каждый свой навык сам. Сделать это объективно с такой шкалой оценки вполне реально. Можете попробовать: https://t.co/bw2vPim9Qm",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bw2vPim9Qm",
+            "expanded_url": "https://forms.gle/4Kraj6zrZcdqUCKr6",
+            "display_url": "forms.gle/4Kraj6zrZcdqUC…",
+            "indices": [
+              227,
+              250
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275752745853730800,
+      "in_reply_to_status_id_str": "1275752745853730817",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 24 11:34:26 +0000 2020",
+      "id": 1275754151138525200,
+      "id_str": "1275754151138525184",
+      "full_text": "Сравнивать себя с другими или считать общий балл анкеты смысла нет. А вот сравнить себя с собой через Х месяцев или лет может быть очень полезно! В анкете можно оставить согласие и через год вы получите напоминание о повторной оценке ;)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        236
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275753511867895800,
+      "in_reply_to_status_id_str": "1275753511867895808",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 24 11:36:58 +0000 2020",
+      "id": 1275754785992577000,
+      "id_str": "1275754785992577031",
+      "full_text": "И ещё несколько применений анкеты:\n- разговор с ментором/менти на тему \"Какие навыки стоит прокачивать?\"\n- грейдинг менеджеров продуктов в компании\n- выбор темы для самостоятельного изучения или при выборе обучающих курсов\n\nЕщё раз ссылка: https://t.co/bw2vPim9Qm",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/bw2vPim9Qm",
+            "expanded_url": "https://forms.gle/4Kraj6zrZcdqUCKr6",
+            "display_url": "forms.gle/4Kraj6zrZcdqUC…",
+            "indices": [
+              240,
+              263
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275754151138525200,
+      "in_reply_to_status_id_str": "1275754151138525184",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 24 11:39:44 +0000 2020",
+      "id": 1275755486181195800,
+      "id_str": "1275755486181195776",
+      "full_text": "Поделюсь статистикой тех, кто уже прошли самооценку. Там есть интересные инсайты :) https://t.co/6T9hpDF8pC",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1275755419307311000,
+            "id_str": "1275755419307311105",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbRky2wXgAEODlX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbRky2wXgAEODlX.jpg",
+            "url": "https://t.co/6T9hpDF8pC",
+            "display_url": "pic.twitter.com/6T9hpDF8pC",
+            "expanded_url": "https://twitter.com/produnderhood/status/1275755486181195776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 621,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 352,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1410,
+                "h": 730,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1275755419307311000,
+            "id_str": "1275755419307311105",
+            "indices": [
+              84,
+              107
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbRky2wXgAEODlX.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbRky2wXgAEODlX.jpg",
+            "url": "https://t.co/6T9hpDF8pC",
+            "display_url": "pic.twitter.com/6T9hpDF8pC",
+            "expanded_url": "https://twitter.com/produnderhood/status/1275755486181195776/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 621,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 352,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1410,
+                "h": 730,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275754785992577000,
+      "in_reply_to_status_id_str": "1275754785992577031",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 24 11:41:00 +0000 2020",
+      "id": 1275755805070033000,
+      "id_str": "1275755805070032899",
+      "full_text": "Отношение к менеджменту продуктов. https://t.co/lqNmgNns4o",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        34
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1275755753010352000,
+            "id_str": "1275755753010352128",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbRlGR5X0AAs7lA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbRlGR5X0AAs7lA.jpg",
+            "url": "https://t.co/lqNmgNns4o",
+            "display_url": "pic.twitter.com/lqNmgNns4o",
+            "expanded_url": "https://twitter.com/produnderhood/status/1275755805070032899/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 282,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1826,
+                "h": 758,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 498,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1275755753010352000,
+            "id_str": "1275755753010352128",
+            "indices": [
+              35,
+              58
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbRlGR5X0AAs7lA.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbRlGR5X0AAs7lA.jpg",
+            "url": "https://t.co/lqNmgNns4o",
+            "display_url": "pic.twitter.com/lqNmgNns4o",
+            "expanded_url": "https://twitter.com/produnderhood/status/1275755805070032899/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 282,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1826,
+                "h": 758,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 498,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275755486181195800,
+      "in_reply_to_status_id_str": "1275755486181195776",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 24 11:42:04 +0000 2020",
+      "id": 1275756069877354500,
+      "id_str": "1275756069877354497",
+      "full_text": "Опыт работы менеджером продукта. https://t.co/1QwyJvhF4u",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        32
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1275756022796255200,
+            "id_str": "1275756022796255233",
+            "indices": [
+              33,
+              56
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbRlV-7WAAEOzSo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbRlV-7WAAEOzSo.jpg",
+            "url": "https://t.co/1QwyJvhF4u",
+            "display_url": "pic.twitter.com/1QwyJvhF4u",
+            "expanded_url": "https://twitter.com/produnderhood/status/1275756069877354497/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1500,
+                "h": 730,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 584,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 331,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1275756022796255200,
+            "id_str": "1275756022796255233",
+            "indices": [
+              33,
+              56
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbRlV-7WAAEOzSo.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbRlV-7WAAEOzSo.jpg",
+            "url": "https://t.co/1QwyJvhF4u",
+            "display_url": "pic.twitter.com/1QwyJvhF4u",
+            "expanded_url": "https://twitter.com/produnderhood/status/1275756069877354497/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1500,
+                "h": 730,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 584,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 331,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275755805070033000,
+      "in_reply_to_status_id_str": "1275755805070032899",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jun 24 11:44:07 +0000 2020",
+      "id": 1275756586359758800,
+      "id_str": "1275756586359758848",
+      "full_text": "Рынок, на котором работают респонденты. Есть небольшой перекос в сторону аудитории моего канала, большинство подписчиков из России и Казахстана ;) https://t.co/yp6ZrEoBrT",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        146
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1275756414586290200,
+            "id_str": "1275756414586290177",
+            "indices": [
+              147,
+              170
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbRlsydXgAEn0ur.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbRlsydXgAEn0ur.jpg",
+            "url": "https://t.co/yp6ZrEoBrT",
+            "display_url": "pic.twitter.com/yp6ZrEoBrT",
+            "expanded_url": "https://twitter.com/produnderhood/status/1275756586359758848/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 292,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1670,
+                "h": 716,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 514,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1275756414586290200,
+            "id_str": "1275756414586290177",
+            "indices": [
+              147,
+              170
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbRlsydXgAEn0ur.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbRlsydXgAEn0ur.jpg",
+            "url": "https://t.co/yp6ZrEoBrT",
+            "display_url": "pic.twitter.com/yp6ZrEoBrT",
+            "expanded_url": "https://twitter.com/produnderhood/status/1275756586359758848/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 292,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1670,
+                "h": 716,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 514,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1275756069877354500,
+      "in_reply_to_status_id_str": "1275756069877354497",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 25 04:46:40 +0000 2020",
+      "id": 1276013922609508400,
+      "id_str": "1276013922609508353",
+      "full_text": "Сегодня я хочу затронуть тему UX и юзабилити. Уверен, что навык проведения юзабилити тестов и юзабилити экспертизы очень полезен для продакта. Интерфейс — наш основной инструмент доставки ценности до пользователя. Давайте делать его удобным ;)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        243
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 22,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 25 04:56:12 +0000 2020",
+      "id": 1276016319993913300,
+      "id_str": "1276016319993913344",
+      "full_text": "Первый принцип, который я советую использовать, это \"копировать не стыдно\". В Сети куча примеров интерфейсов, в которые уже вложено ХХХ человекочасов. Не нужно делать свой вариант формы обратной связи, корзины или блока рекомендаций. Посмотрите у лидеров и сделайте как у них!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276013922609508400,
+      "in_reply_to_status_id_str": "1276013922609508353",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 25 05:01:01 +0000 2020",
+      "id": 1276017530189078500,
+      "id_str": "1276017530189078528",
+      "full_text": "Юзабилити экспертиза — это просто. В Сети можно найти массу чек-листов для проверки общих стандартов удобства интерфейса. Также есть чек-листы под конкретную нишу, например, юзабилити интернет-магазина, поисковой формы и т.д.\nПример общего чек-листа: https://t.co/G2VOh6zd2M",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/G2VOh6zd2M",
+            "expanded_url": "https://docs.google.com/document/d/1SspMDfDcaIS60twoJUwSQlEkczCM-lxWzoi2YHk83Tw/edit?usp=sharing",
+            "display_url": "docs.google.com/document/d/1Ss…",
+            "indices": [
+              251,
+              274
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276016319993913300,
+      "in_reply_to_status_id_str": "1276016319993913344",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 25 05:04:53 +0000 2020",
+      "id": 1276018505842901000,
+      "id_str": "1276018505842900992",
+      "full_text": "Экспертиза или юзабилити аудит интерфейса делается одним человеком по чек-листу. Оцениваются все элементы продукта и даются рекомендации по их улучшению. Плюсы подхода: простота и системность. Минусы: субъективная оценка.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        221
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276017530189078500,
+      "in_reply_to_status_id_str": "1276017530189078528",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 25 05:09:13 +0000 2020",
+      "id": 1276019595334344700,
+      "id_str": "1276019595334344704",
+      "full_text": "Юзабилити тестирование дает объективную оценку удобства. И это не так сложно, как может показаться на первый взгляд. Вам нужны:\n- План тестирования с заданиями для респондентов\n- 6-8 человек, не знакомых с продуктом\n- ПО для записи экрана, например, OBS Studio\n- Время и терпение!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276018505842901000,
+      "in_reply_to_status_id_str": "1276018505842900992",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 25 05:12:16 +0000 2020",
+      "id": 1276020361847607300,
+      "id_str": "1276020361847607297",
+      "full_text": "При проведении тестирования с респондентом нужно заставить себя молчать, внимательно слушать и помогать только в крайних случаях. А ещё, из теста можно сделать неплохой тимбилдинг для всей команды ;) Рецепт читайте у меня в Продуктории: https://t.co/aAvZWgjVm6",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        260
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aAvZWgjVm6",
+            "expanded_url": "https://t.me/vladimir_merkushev/164",
+            "display_url": "t.me/vladimir_merku…",
+            "indices": [
+              237,
+              260
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276019595334344700,
+      "in_reply_to_status_id_str": "1276019595334344704",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 25 05:15:31 +0000 2020",
+      "id": 1276021182127583200,
+      "id_str": "1276021182127583233",
+      "full_text": "Анализ результатов теста — важный этап. Вам нужно оценить все проблемы, найденные респондентами, по 2 критериям: частота и критичность. Критичная проблема — та, что не дает выполнить задачу. Частая проблема — та, с которой столкнулись больше 50% респондентов. Их правим первыми!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276020361847607300,
+      "in_reply_to_status_id_str": "1276020361847607297",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 25 05:20:25 +0000 2020",
+      "id": 1276022415504691200,
+      "id_str": "1276022415504691201",
+      "full_text": "После внесения изменений в интерфейс нужно провести ещё одно тестирование. Конечно, уже с другими респондентами! Только так вы сможете сделать вывод, что проблемы исправлены. И вы обязательно найдете что-то ещё ;)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        213
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276021182127583200,
+      "in_reply_to_status_id_str": "1276021182127583233",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Jun 25 05:21:48 +0000 2020",
+      "id": 1276022760913936400,
+      "id_str": "1276022760913936387",
+      "full_text": "Есть и другие виды UX исследований. Можете проверить с какими из них вы знакомы и насколько здесь: https://t.co/XG5SgsuJGL",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        122
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/XG5SgsuJGL",
+            "expanded_url": "https://t.me/vladimir_merkushev/220",
+            "display_url": "t.me/vladimir_merku…",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276022415504691200,
+      "in_reply_to_status_id_str": "1276022415504691201",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Jun 26 17:48:40 +0000 2020",
+      "id": 1276573106358927400,
+      "id_str": "1276573106358927360",
+      "full_text": "Взял day off по случаю дня рождения любимой жены. Отдыхать полезно, именно на отдыхе в голову приходят мысли, из которых получаются крутые продукты. Притча про пилу вам в помощь ;) \nhttps://t.co/p6g8Y9lQFK",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        205
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/p6g8Y9lQFK",
+            "expanded_url": "https://t.me/vladimir_merkushev/152",
+            "display_url": "t.me/vladimir_merku…",
+            "indices": [
+              182,
+              205
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 27 11:20:35 +0000 2020",
+      "id": 1276837830640222200,
+      "id_str": "1276837830640222208",
+      "full_text": "На сладкое, а сегодня мой последний день в этом аккаунте, я оставил любимую тему — пользовательских исследований. Помню эффект от первой серии интервью, проведенной самостоятельно. Я тогда прочитал \"Спроси маму\" и пошел проверять на практике. Это действительно работает!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 27 11:28:27 +0000 2020",
+      "id": 1276839806895612000,
+      "id_str": "1276839806895611905",
+      "full_text": "Не буду рассказывать теорию customer development, об этом много написано. Дам несколько советов из опыта. \nПодбор респондентов — это легко и бесплатно. Соцсети помогут найти людей, вам нужно только их правильно сконвертировать в интервью. Пример анкеты: https://t.co/avUJ5Msx4K",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/avUJ5Msx4K",
+            "expanded_url": "https://forms.gle/QBJhrQfPe89CmBdWA",
+            "display_url": "forms.gle/QBJhrQfPe89CmB…",
+            "indices": [
+              254,
+              277
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276837830640222200,
+      "in_reply_to_status_id_str": "1276837830640222208",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 27 11:31:45 +0000 2020",
+      "id": 1276840640664436700,
+      "id_str": "1276840640664436737",
+      "full_text": "На этом этапе нам важно проверить, что человек подходит под целевую аудиторию (см вопросы в анкете) и договориться о времени и удобном способе интервью. Мой опыт показывает, что почти все люди готовы пообщаться 30-40 мин и поделиться своими историями. Нужно только попросить!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276839806895612000,
+      "in_reply_to_status_id_str": "1276839806895611905",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 27 11:34:38 +0000 2020",
+      "id": 1276841365184434200,
+      "id_str": "1276841365184434176",
+      "full_text": "Анкета из поста выше помогла провести 10 интервью с представителями разных бизнесов и убедиться, что продукт нужен. Так зарождался https://t.co/s4zOdYK063, который сейчас помогает государству и нескольким частным компаниям работать с клиентами в условиях карантина.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        265
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/s4zOdYK063",
+            "expanded_url": "https://digital-id.kz/",
+            "display_url": "digital-id.kz",
+            "indices": [
+              131,
+              154
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276840640664436700,
+      "in_reply_to_status_id_str": "1276840640664436737",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 27 11:38:51 +0000 2020",
+      "id": 1276842426305560600,
+      "id_str": "1276842426305560576",
+      "full_text": "Второй совет: проведите сами минимум 10 интервью! Это навык, который прокачивается только практикой. \n- Задавайте открытые вопросы, \n- Не бойтесь уточнять;\n- Спрашивайте о прошлом; \n- Слушайте факты, а не мнения и оценки; \n- Задавайте как можно больше Почему?;\n- Не продавайте!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276841365184434200,
+      "in_reply_to_status_id_str": "1276841365184434176",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 27 11:42:25 +0000 2020",
+      "id": 1276843323639070700,
+      "id_str": "1276843323639070720",
+      "full_text": "Третий совет: анализ результатов — самая важная часть исследования! Прослушайте запись всех интервью. Сформируйте гипотезы и проверьте их по ответам. Выпишите важные цитаты. Мне для этого хорошо помогает шаблон CustDev Canvas: https://t.co/sRuy6kMP5o",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sRuy6kMP5o",
+            "expanded_url": "https://miro.com/app/board/o9J_kxYSQf0=/",
+            "display_url": "miro.com/app/board/o9J_…",
+            "indices": [
+              227,
+              250
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276842426305560600,
+      "in_reply_to_status_id_str": "1276842426305560576",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 27 11:48:11 +0000 2020",
+      "id": 1276844775975661600,
+      "id_str": "1276844775975661568",
+      "full_text": "Совет от Капитана: используйте результаты интервью! Вы делали исследование для поиска инсайтов и патернов поведения целевой аудитории. Используйте их! Метод персон хорошо поможет визуализировать их для проектирования продукта. Пример персоны для продукта \"Маркетплейс мастеров\". https://t.co/VPGwbqYajL",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1276844498639880200,
+            "id_str": "1276844498639880198",
+            "indices": [
+              279,
+              302
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbhDTnbXgAYlYOb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbhDTnbXgAYlYOb.jpg",
+            "url": "https://t.co/VPGwbqYajL",
+            "display_url": "pic.twitter.com/VPGwbqYajL",
+            "expanded_url": "https://twitter.com/produnderhood/status/1276844775975661568/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 964,
+                "h": 834,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 964,
+                "h": 834,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 588,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1276844498639880200,
+            "id_str": "1276844498639880198",
+            "indices": [
+              279,
+              302
+            ],
+            "media_url": "http://pbs.twimg.com/media/EbhDTnbXgAYlYOb.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EbhDTnbXgAYlYOb.jpg",
+            "url": "https://t.co/VPGwbqYajL",
+            "display_url": "pic.twitter.com/VPGwbqYajL",
+            "expanded_url": "https://twitter.com/produnderhood/status/1276844775975661568/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 964,
+                "h": 834,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 964,
+                "h": 834,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 588,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276843323639070700,
+      "in_reply_to_status_id_str": "1276843323639070720",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 27 11:52:18 +0000 2020",
+      "id": 1276845808755900400,
+      "id_str": "1276845808755900420",
+      "full_text": "И ещё один важный совет. Customer development не является точным инструментом. Люди врут! И делают это, иногда, из самых лучших побуждений. Учитывайте это при анализе результатов. И всегда старайтесь искать в них опровержение, а не подтверждение своему мнению. Это сложнее ;)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276844775975661600,
+      "in_reply_to_status_id_str": "1276844775975661568",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 27 11:59:49 +0000 2020",
+      "id": 1276847702656024600,
+      "id_str": "1276847702656024579",
+      "full_text": "Узнать больше про тему пользовательских исследований:\nМой пост на Medium https://t.co/Qj2NaS4W58\nМой курс Lean Product Management, 3 урока в нем о работе с пользователями https://t.co/1qyAFssMEq",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        194
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/Qj2NaS4W58",
+            "expanded_url": "https://link.medium.com/bOw2xngSE7",
+            "display_url": "link.medium.com/bOw2xngSE7",
+            "indices": [
+              73,
+              96
+            ]
+          },
+          {
+            "url": "https://t.co/1qyAFssMEq",
+            "expanded_url": "https://productexpert.thinkific.com/",
+            "display_url": "productexpert.thinkific.com",
+            "indices": [
+              171,
+              194
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1276845808755900400,
+      "in_reply_to_status_id_str": "1276845808755900420",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Jun 27 12:03:55 +0000 2020",
+      "id": 1276848734907895800,
+      "id_str": "1276848734907895811",
+      "full_text": "На этом всё! Я, Владимир Меркушев, пост от коллективного аккаунта сдал. Было интересно :) \nМеня можно продолжить читать здесь https://t.co/EHyYLm6Vgx, здесь @mervlad и здесь https://t.co/M57cOsPLO7\nВсем удачи и крутых продуктов!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        228
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "mervlad",
+            "name": "Vladimir Merkushev",
+            "id": 137272307,
+            "id_str": "137272307",
+            "indices": [
+              157,
+              165
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EHyYLm6Vgx",
+            "expanded_url": "https://t.me/vladimir_merkushev",
+            "display_url": "t.me/vladimir_merku…",
+            "indices": [
+              126,
+              149
+            ]
+          },
+          {
+            "url": "https://t.co/M57cOsPLO7",
+            "expanded_url": "https://merkushev.ru/InTheOffice/",
+            "display_url": "merkushev.ru/InTheOffice/",
+            "indices": [
+              174,
+              197
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    }
+  ]
+}
