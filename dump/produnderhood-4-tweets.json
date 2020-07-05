@@ -1,0 +1,549 @@
+{
+  "tweets": [
+    {
+      "created_at": "Wed Jul 01 05:41:54 +0000 2020",
+      "id": 1278202149483184000,
+      "id_str": "1278202149483184130",
+      "full_text": "Привет! Новая неделя — новый автор. Я — Вадик Михалев, 7 лет как предприниматель-изобретатель. Обо мне: https://t.co/EI9gdBk6vc Сейчас развиваю сообщество, медиа и онлайн-университет zero/no-code инженеров «На коленке»: https://t.co/mIOgHw0gfK",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        243
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/EI9gdBk6vc",
+            "expanded_url": "https://www.notion.so/b3ef4cb25c9c4715a3491dadc717b0e2",
+            "display_url": "notion.so/b3ef4cb25c9c47…",
+            "indices": [
+              104,
+              127
+            ]
+          },
+          {
+            "url": "https://t.co/mIOgHw0gfK",
+            "expanded_url": "https://t.me/oqode",
+            "display_url": "t.me/oqode",
+            "indices": [
+              220,
+              243
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 31,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 01 09:14:28 +0000 2020",
+      "id": 1278255642374013000,
+      "id_str": "1278255642374012928",
+      "full_text": "Знакомы ли вы с методологией nocode/zero-code?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        46
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 01 09:15:04 +0000 2020",
+      "id": 1278255791255048200,
+      "id_str": "1278255791255048192",
+      "full_text": "@MBayaliev 💪",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        12
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MBayaliev",
+            "name": "Mar Bayaliev",
+            "id": 2290971972,
+            "id_str": "2290971972",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278206811229823000,
+      "in_reply_to_status_id_str": "1278206811229822982",
+      "in_reply_to_user_id": 2290971972,
+      "in_reply_to_user_id_str": "2290971972",
+      "in_reply_to_screen_name": "MBayaliev",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Wed Jul 01 12:29:51 +0000 2020",
+      "id": 1278304809884487700,
+      "id_str": "1278304809884487684",
+      "full_text": "Зерокодинг — это мощный международный тренд на а) создание новых решений и продуктов, б) проверку бизнес-гипотез и в) автоматизацию работы... без написания кода! С помощью инструментов, доступных вам и вашей команде прямо сейчас, а часто даже и бесплатно 🤘",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        256
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 01 12:32:40 +0000 2020",
+      "id": 1278305519204253700,
+      "id_str": "1278305519204253697",
+      "full_text": "Тренд на Западе называется чаще nocode и упоминается рядом с термином low-code в случаях, когда кодить пользователям в продукте надо, но совсем чуть-чуть.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        154
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278304809884487700,
+      "in_reply_to_status_id_str": "1278304809884487684",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 01 12:36:06 +0000 2020",
+      "id": 1278306383834857500,
+      "id_str": "1278306383834857475",
+      "full_text": "Самым мощным проектом в области nocode, по версии церемонии награждения ProductHunt Golden Kitty Awards 2019, является https://t.co/3vbViEEs4L. Это целая экосистема сервисов от одного из старейших хантеров Ben Tossel.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        217
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3vbViEEs4L",
+            "expanded_url": "https://www.makerpad.co/",
+            "display_url": "makerpad.co",
+            "indices": [
+              119,
+              142
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278305519204253700,
+      "in_reply_to_status_id_str": "1278305519204253697",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 01 12:38:54 +0000 2020",
+      "id": 1278307087555137500,
+      "id_str": "1278307087555137536",
+      "full_text": "На самом деле идея сделать цифровой продукт для того, чтобы потенциальным клиентам (компаниям) не нужно было что-то программировать, чтобы решить свою (или клиентскую) задачу — не нова, но сейчас переживает новый виток популярности.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        232
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278306383834857500,
+      "in_reply_to_status_id_str": "1278306383834857475",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 01 12:42:23 +0000 2020",
+      "id": 1278307965653614600,
+      "id_str": "1278307965653614595",
+      "full_text": "Есть классная статья Миши Дубакова — основателя TargetProcess и нового nocode-продукта Fibery еще 2018 года про то, почему это вообще происходит: https://t.co/LHCMdZCH6H",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        169
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/LHCMdZCH6H",
+            "expanded_url": "https://dev.by/news/novaya-volna-po-dlya-upravleniya-rabochimi-processami",
+            "display_url": "dev.by/news/novaya-vo…",
+            "indices": [
+              146,
+              169
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278307087555137500,
+      "in_reply_to_status_id_str": "1278307087555137536",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 01 12:43:42 +0000 2020",
+      "id": 1278308297590931500,
+      "id_str": "1278308297590931456",
+      "full_text": "🎩 1. Генерализация понятий. Уже не существует  понятий «таски» и «проекты» — всё очень растяжимо, вы вправе использовать свою семантику и свой процесс в разных инструментах: инструмент учёта лидов в упрощённой CRM-системе или юзер-сторис — в проекте по разработке софта.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        270
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278307965653614600,
+      "in_reply_to_status_id_str": "1278307965653614595",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 01 12:46:51 +0000 2020",
+      "id": 1278309090872176600,
+      "id_str": "1278309090872176646",
+      "full_text": "✨ 2. Обобщение UI через способы визуализации информации. Форм-фактор таблицы, списка, временной шкалы, канбан-доски и карточек — теперь не ключевая фича продукта (скажем, Trello), а «джентльменский набор» целого ряда сервисов.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        226
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278308297590931500,
+      "in_reply_to_status_id_str": "1278308297590931456",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 01 12:48:17 +0000 2020",
+      "id": 1278309450902880300,
+      "id_str": "1278309450902880257",
+      "full_text": "🎛 3. Проникновение автоматизации. Пользователи всё активнее осваивают технологии, у них появляется желание автоматизировать скучные действия, и даже iOS- и Android-смартфоны уже дают такую встроенную возможность. Выглядит как новая базовая (но теперь — техническая) грамотность.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278309090872176600,
+      "in_reply_to_status_id_str": "1278309090872176646",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 01 12:49:52 +0000 2020",
+      "id": 1278309849600753700,
+      "id_str": "1278309849600753665",
+      "full_text": "📃 4. Фокус на документах. Документы или электронные таблицы — стандартный рабочий форм-фактор на текущий момент. Документы насыщаются графикой, интерактивными компонентами и структурой. У Coda документ — это уже приложение, Notion тоже движется в том же направлении.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1278309450902880300,
+      "in_reply_to_status_id_str": "1278309450902880257",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Jul 01 20:05:07 +0000 2020",
+      "id": 1278419384340549600,
+      "id_str": "1278419384340549634",
+      "full_text": "@W_art Могу пояснить, зерокодинг — это майндсет, не инструмент. Инструменты внутри :)",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        85
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "W_art",
+            "name": "Зелёный идёт никому",
+            "id": 18953567,
+            "id_str": "18953567",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1278370215122747400,
+      "in_reply_to_status_id_str": "1278370215122747397",
+      "in_reply_to_user_id": 18953567,
+      "in_reply_to_user_id_str": "18953567",
+      "in_reply_to_screen_name": "W_art",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
