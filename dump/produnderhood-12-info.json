@@ -1,0 +1,113 @@
+{
+  "id": 1094672152551399400,
+  "id_str": "1094672152551399424",
+  "name": "Менеджер продукта",
+  "screen_name": "produnderhood",
+  "location": "Санкт-Петербург, Россия",
+  "profile_location": null,
+  "description": "Коллективный твиттер продакт-менеджеров. На этой неделе с вами Антон Куликов, директор по продуктам в @selectel (серверы, облако, дата-центры).",
+  "url": "https://t.co/ws9HCsWc03",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/ws9HCsWc03",
+          "expanded_url": "https://selectel.ru/",
+          "display_url": "selectel.ru",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 4558,
+  "friends_count": 2,
+  "listed_count": 34,
+  "created_at": "Sun Feb 10 18:59:13 +0000 2019",
+  "favourites_count": 1114,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 7792,
+  "lang": null,
+  "status": {
+    "created_at": "Sun Sep 20 21:09:41 +0000 2020",
+    "id": 1307789050456289300,
+    "id_str": "1307789050456289283",
+    "text": "Мета-трэд за неделю:\n— тезисы о профессии https://t.co/GODLr2scXf\n— рациональное управление продуктами… https://t.co/BvTF801G7l",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/GODLr2scXf",
+          "expanded_url": "https://twitter.com/produnderhood/status/1305813053259354113",
+          "display_url": "twitter.com/produnderhood/…",
+          "indices": [
+            42,
+            65
+          ]
+        },
+        {
+          "url": "https://t.co/BvTF801G7l",
+          "expanded_url": "https://twitter.com/i/web/status/1307789050456289283",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            104,
+            127
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1306966509688967200,
+    "quoted_status_id_str": "1306966509688967174",
+    "retweet_count": 2,
+    "favorite_count": 18,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1305418250721931264/PZnHVzEs_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305418250721931264/PZnHVzEs_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1094672152551399424/1598264541",
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+}
