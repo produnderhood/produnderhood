@@ -1,0 +1,4654 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Sep 28 05:03:04 +0000 2020",
+      "id": 1310444894335447000,
+      "id_str": "1310444894335447040",
+      "full_text": "Всем привет! Я 7 лет работаю в Поиске Яндекса, была руководителем продуктов, группы менеджеров, кроссфункциональных команд, процессов на 100+ человек. Больше всего я люблю людей, бардак и наводить порядок.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        205
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "favorite_count": 261,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 05:03:04 +0000 2020",
+      "id": 1310444895681863700,
+      "id_str": "1310444895681863680",
+      "full_text": "Сейчас значительная часть моей работы - интеграция людей, уменьшение неопределенности и создание смысла в начале сложных проектов. Про это и буду рассказывать.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        159
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310444894335447000,
+      "in_reply_to_status_id_str": "1310444894335447040",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 05:03:04 +0000 2020",
+      "id": 1310444897028182000,
+      "id_str": "1310444897028182016",
+      "full_text": "Я волнуюсь и в то же время очень рада, что смогу поделиться своими мыслями с новыми людьми. Надеюсь, вам будет интересно, а я научусь пользоваться твиттером XD. Погнали!",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        169
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310444895681863700,
+      "in_reply_to_status_id_str": "1310444895681863680",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 29,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 05:03:05 +0000 2020",
+      "id": 1310444898517123000,
+      "id_str": "1310444898517123072",
+      "full_text": "Наши темы\n1. Про выгорание на работе\n2. Работа творческих команд под давлением\n3. Кто такой крутой руководитель\n4. Сложности менеджера в новой команде\n5. Движение вперед в условиях неопределенности \n6. Делегирование\n7. Поделюсь книжками, попробуем вопрос-ответ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        260
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310444897028182000,
+      "in_reply_to_status_id_str": "1310444897028182016",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 72,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 05:10:00 +0000 2020",
+      "id": 1310446641346998300,
+      "id_str": "1310446641346998272",
+      "full_text": "Начнем с наболевшей после карантина темы - депрессивных состояний на работе. Быть менеджером - это риски, ответственность за проект и команду, принятие сложных решений.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        168
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 28,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 05:10:01 +0000 2020",
+      "id": 1310446642647183400,
+      "id_str": "1310446642647183360",
+      "full_text": "Многие из нас подорвали на этом свою нервную систему. С другой стороны мы работаем с живыми людьми, от настроя и жизненных сил которых, зависит успех нашего проекта.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        165
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310446641346998300,
+      "in_reply_to_status_id_str": "1310446641346998272",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 05:10:01 +0000 2020",
+      "id": 1310446644161253400,
+      "id_str": "1310446644161253377",
+      "full_text": "Я написала пост про депрессию на личном опыте. Рассказала каково мне было и как помочь в таких ситуациях.  Держите: https://t.co/sBnI5IA0fh",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/sBnI5IA0fh",
+            "expanded_url": "https://yandex.ru/q/question/chto_nado_znat_tem_kto_chuvstvuet_na_2d45dad7/",
+            "display_url": "yandex.ru/q/question/cht…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310446642647183400,
+      "in_reply_to_status_id_str": "1310446642647183360",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 05:12:52 +0000 2020",
+      "id": 1310447360468811800,
+      "id_str": "1310447360468811776",
+      "full_text": "Самое важное из поста: если вам плохо, во-первых обратитесь ко врачу, а во-вторых расскажите близким и руководителю.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        116
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310446644161253400,
+      "in_reply_to_status_id_str": "1310446644161253377",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 05:12:52 +0000 2020",
+      "id": 1310447361768947700,
+      "id_str": "1310447361768947713",
+      "full_text": "Депрессивное состояние - не стыдно и не исключительно, такой опыт имеют гораздо больше людей, чем вы можете представить. Есть много эффективных методов борьбы, главное - обратиться за помощью.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        192
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310447360468811800,
+      "in_reply_to_status_id_str": "1310447360468811776",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 05:12:52 +0000 2020",
+      "id": 1310447363123708000,
+      "id_str": "1310447363123707904",
+      "full_text": "Списки дел с приоритетами хорошо спасают от тревожности. Записала свои лайфхаки в отдельный пост: https://t.co/NsMUHlI7ct. Делитесь в ответ своими техниками и ссылками. Пусть они сохранятся в треде и помогут другим людям.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        221
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/NsMUHlI7ct",
+            "expanded_url": "https://medium.com/@nadezhdashmakova/%D0%BB%D0%B0%D0%B9%D1%84%D1%85%D0%B0%D0%BA%D0%B8-%D0%BF%D1%80%D0%BE-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%83-%D1%81-%D1%82%D1%83%D0%B4%D1%83%D1%88%D0%BA%D0%B0%D0%BC%D0%B8-ddbc8646c7a",
+            "display_url": "medium.com/@nadezhdashmak…",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310447361768947700,
+      "in_reply_to_status_id_str": "1310447361768947713",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 29,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 07:07:16 +0000 2020",
+      "id": 1310476151266185200,
+      "id_str": "1310476151266185216",
+      "full_text": "@_igne Спасииибо ❤️",
+      "truncated": false,
+      "display_text_range": [
+        7,
+        19
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "_igne",
+            "name": "Maria",
+            "id": 153066243,
+            "id_str": "153066243",
+            "indices": [
+              0,
+              6
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1310475848592633900,
+      "in_reply_to_status_id_str": "1310475848592633866",
+      "in_reply_to_user_id": 153066243,
+      "in_reply_to_user_id_str": "153066243",
+      "in_reply_to_screen_name": "_igne",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 11:31:34 +0000 2020",
+      "id": 1310542664249618400,
+      "id_str": "1310542664249618437",
+      "full_text": "@dimonzybkin Так же как и на старые - через стандартную процедуру найма :). Возможно, я не до конца поняла вопрос, дополнишь?",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        125
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dimonzybkin",
+            "name": "Зыбкин",
+            "id": 2573755084,
+            "id_str": "2573755084",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310474833600315400,
+      "in_reply_to_status_id_str": "1310474833600315392",
+      "in_reply_to_user_id": 2573755084,
+      "in_reply_to_user_id_str": "2573755084",
+      "in_reply_to_screen_name": "dimonzybkin",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 11:34:12 +0000 2020",
+      "id": 1310543328786735000,
+      "id_str": "1310543328786735104",
+      "full_text": "@EnerJize_It Я начала писать благодаря тому, что меня пригласили вести этот аккаунт XD, так что пока информации мало. Планирую дальше писать здесь https://t.co/6U3FOVL125. Еще можно добавляться в FB https://t.co/s55zSKO2nI",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        222
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "EnerJize_It",
+            "name": "P K",
+            "id": 873917554766606300,
+            "id_str": "873917554766606336",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/6U3FOVL125",
+            "expanded_url": "https://medium.com/@nadezhdashmakova",
+            "display_url": "medium.com/@nadezhdashmak…",
+            "indices": [
+              147,
+              170
+            ]
+          },
+          {
+            "url": "https://t.co/s55zSKO2nI",
+            "expanded_url": "https://www.facebook.com/nadezhda.shmakova.10",
+            "display_url": "facebook.com/nadezhda.shmak…",
+            "indices": [
+              199,
+              222
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310532256386224000,
+      "in_reply_to_status_id_str": "1310532256386224133",
+      "in_reply_to_user_id": 873917554766606300,
+      "in_reply_to_user_id_str": "873917554766606336",
+      "in_reply_to_screen_name": "EnerJize_It",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Sep 28 12:02:37 +0000 2020",
+      "id": 1310550479668162600,
+      "id_str": "1310550479668162563",
+      "full_text": "@ego_sha Класс, видно прошаренного в теме человека :). Это комбинация из разных источников с доработками под себя.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        114
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ego_sha",
+            "name": "Egorka",
+            "id": 2157624764,
+            "id_str": "2157624764",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1310546757986791400,
+      "in_reply_to_status_id_str": "1310546757986791424",
+      "in_reply_to_user_id": 2157624764,
+      "in_reply_to_user_id_str": "2157624764",
+      "in_reply_to_screen_name": "ego_sha",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 29 04:01:03 +0000 2020",
+      "id": 1310791675795644400,
+      "id_str": "1310791675795644419",
+      "full_text": "Всем привет! Сегодня говорим про работу творческих людей и коллективов под давлением.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        85
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 19,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 29 04:01:03 +0000 2020",
+      "id": 1310791676949082000,
+      "id_str": "1310791676949082112",
+      "full_text": "Я заметила, что у инициативных, творческих и целеустремленных людей есть порог оказываемого на них давления, после которого позитивный эффект челленджа заканчивается и они  начинают работать очень плохо.\nВ этот момент любое дополнительное давление действует разрушительно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310791675795644400,
+      "in_reply_to_status_id_str": "1310791675795644419",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "favorite_count": 70,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 29 04:01:04 +0000 2020",
+      "id": 1310791678236688400,
+      "id_str": "1310791678236688384",
+      "full_text": "Руководителям полезно знать про этот спецэффект, чувствовать порог эффективности давления и уметь переключаться в поддерживающий стиль управления. Подробно рассказываю про разрушительное давление в посте https://t.co/qtMu3ZoX52",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        227
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qtMu3ZoX52",
+            "expanded_url": "https://medium.com/@nadezhdashmakova/работа-творческих-команд-под-разрушительным-давлением-303b366e555a",
+            "display_url": "medium.com/@nadezhdashmak…",
+            "indices": [
+              204,
+              227
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310791676949082000,
+      "in_reply_to_status_id_str": "1310791676949082112",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 31,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 29 04:01:04 +0000 2020",
+      "id": 1310791679721517000,
+      "id_str": "1310791679721517057",
+      "full_text": "TLDR \nЧто делать, если проект горит, а команда или конкретный человек «сломались»:\n1. Дать передышку\n2. Вернуть уверенность \n3. Прояснить цели, сместить фокус с инструкций на результат\n4. Показать заботу и защиту\n5. Уменьшить давление в любой области",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310791678236688400,
+      "in_reply_to_status_id_str": "1310791678236688384",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 29 05:51:20 +0000 2020",
+      "id": 1310819428104319000,
+      "id_str": "1310819428104318976",
+      "full_text": "@toivonens Фокус на результат надо возвращать, когда от переживаний  человек скатывается в выполнение инструкций.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        113
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "toivonens",
+            "name": "var ya; // ru 🇫🇮",
+            "id": 215559242,
+            "id_str": "215559242",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1310818762992517000,
+      "in_reply_to_status_id_str": "1310818762992517120",
+      "in_reply_to_user_id": 215559242,
+      "in_reply_to_user_id_str": "215559242",
+      "in_reply_to_screen_name": "toivonens",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 29 06:09:47 +0000 2020",
+      "id": 1310824070884319200,
+      "id_str": "1310824070884319232",
+      "full_text": "@Alexey_Skuratov Салют! 🤗",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        25
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Alexey_Skuratov",
+            "name": "Alexey Skuratov ·",
+            "id": 733495468726964200,
+            "id_str": "733495468726964224",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1310823930534523000,
+      "in_reply_to_status_id_str": "1310823930534522886",
+      "in_reply_to_user_id": 733495468726964200,
+      "in_reply_to_user_id_str": "733495468726964224",
+      "in_reply_to_screen_name": "Alexey_Skuratov",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 29 08:53:52 +0000 2020",
+      "id": 1310865364289499100,
+      "id_str": "1310865364289499138",
+      "full_text": "@MZamkevich @supermegafedor @andrey_sitnik я старалась написать про усталость",
+      "truncated": false,
+      "display_text_range": [
+        43,
+        77
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "MZamkevich",
+            "name": "Misha Zamkevich",
+            "id": 794881016729108500,
+            "id_str": "794881016729108480",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "supermegafedor",
+            "name": "fedor",
+            "id": 1265240987900788700,
+            "id_str": "1265240987900788737",
+            "indices": [
+              12,
+              27
+            ]
+          },
+          {
+            "screen_name": "andrey_sitnik",
+            "name": "Андрей Ситник",
+            "id": 62229769,
+            "id_str": "62229769",
+            "indices": [
+              28,
+              42
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1310862276682023000,
+      "in_reply_to_status_id_str": "1310862276682022914",
+      "in_reply_to_user_id": 794881016729108500,
+      "in_reply_to_user_id_str": "794881016729108480",
+      "in_reply_to_screen_name": "MZamkevich",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Sep 29 21:12:30 +0000 2020",
+      "id": 1311051248196636700,
+      "id_str": "1311051248196636674",
+      "full_text": "@dimonzybkin Когда открывается вакансия, мы всегда ее публикуем и рассматриваем внутренних и внешних кандидатов https://t.co/h3wRfqzBzf. Но у новых продуктов есть особенность: менеджером часто становится тот, кто проект придумал, поэтому такие вакансии появляются реже.",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        269
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dimonzybkin",
+            "name": "Зыбкин",
+            "id": 2573755084,
+            "id_str": "2573755084",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/h3wRfqzBzf",
+            "expanded_url": "https://yandex.ru/jobs/vacancies/prod_man/?cities=213",
+            "display_url": "yandex.ru/jobs/vacancies…",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1310837513905492000,
+      "in_reply_to_status_id_str": "1310837513905491969",
+      "in_reply_to_user_id": 2573755084,
+      "in_reply_to_user_id_str": "2573755084",
+      "in_reply_to_screen_name": "dimonzybkin",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 05:19:15 +0000 2020",
+      "id": 1311173743704715300,
+      "id_str": "1311173743704715264",
+      "full_text": "Сегодня обсуждаем кто такой крутой руководитель.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        48
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 39,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 05:19:15 +0000 2020",
+      "id": 1311173744971452400,
+      "id_str": "1311173744971452416",
+      "full_text": "Мне повезло, у меня было 6 руководителей в Яндексе и каждым я восхищалась. Они были примерами для подражания, растили меня как профессионала, проявляли искреннюю заботу в сложные моменты, защищали мои интересы и помогали.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        221
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311173743704715300,
+      "in_reply_to_status_id_str": "1311173743704715264",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 05:19:16 +0000 2020",
+      "id": 1311173746254901200,
+      "id_str": "1311173746254901248",
+      "full_text": "Личностные качества, помогающие стать крутым боссом, на мой взгляд - это гибкость, способность слушать и понимать людей, умение четко выражать свои мысли, системное мышление, позитивный настрой, харизма. Что забыла?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        215
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311173744971452400,
+      "in_reply_to_status_id_str": "1311173744971452416",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 18,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 05:19:16 +0000 2020",
+      "id": 1311173747555160000,
+      "id_str": "1311173747555160064",
+      "full_text": "Мне импонируют управленческие идеи Kim Scott.  Есть видео версия https://t.co/udgcxBdDpf  или текст https://t.co/LfRz7ePNKa её рассказа",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        135
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/udgcxBdDpf",
+            "expanded_url": "https://youtu.be/4yODalLQ2lM",
+            "display_url": "youtu.be/4yODalLQ2lM",
+            "indices": [
+              65,
+              88
+            ]
+          },
+          {
+            "url": "https://t.co/LfRz7ePNKa",
+            "expanded_url": "https://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/",
+            "display_url": "firstround.com/review/radical…",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311173746254901200,
+      "in_reply_to_status_id_str": "1311173746254901248",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 05:19:18 +0000 2020",
+      "id": 1311173754190540800,
+      "id_str": "1311173754190540800",
+      "full_text": "Стили руководства по Kim Scott раскладываются на 4 типа. Лучшим она считает «Radical Candor». Такой начальник бросает вызовы и заставляет двигаться вперед, но при этом проявляет заметную личную заботу https://t.co/PmS6kIv7DG",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        200
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1311173749862027300,
+            "id_str": "1311173749862027266",
+            "indices": [
+              201,
+              224
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjI5lB9X0AIBBaL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjI5lB9X0AIBBaL.jpg",
+            "url": "https://t.co/PmS6kIv7DG",
+            "display_url": "pic.twitter.com/PmS6kIv7DG",
+            "expanded_url": "https://twitter.com/produnderhood/status/1311173754190540800/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 842,
+                "h": 864,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 842,
+                "h": 864,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 663,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1311173749862027300,
+            "id_str": "1311173749862027266",
+            "indices": [
+              201,
+              224
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjI5lB9X0AIBBaL.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjI5lB9X0AIBBaL.jpg",
+            "url": "https://t.co/PmS6kIv7DG",
+            "display_url": "pic.twitter.com/PmS6kIv7DG",
+            "expanded_url": "https://twitter.com/produnderhood/status/1311173754190540800/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 842,
+                "h": 864,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 842,
+                "h": 864,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 663,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311173747555160000,
+      "in_reply_to_status_id_str": "1311173747555160064",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 05:19:18 +0000 2020",
+      "id": 1311173757713645600,
+      "id_str": "1311173757713645569",
+      "full_text": "Ну ка, расскажите, какой стиль управления у вашего начальника",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        61
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311173754190540800,
+      "in_reply_to_status_id_str": "1311173754190540800",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 05:19:19 +0000 2020",
+      "id": 1311173762008707000,
+      "id_str": "1311173762008707072",
+      "full_text": "А теперь, какой стиль управления у вас",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        38
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311173757713645600,
+      "in_reply_to_status_id_str": "1311173757713645569",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 05:19:20 +0000 2020",
+      "id": 1311173763246035000,
+      "id_str": "1311173763246034944",
+      "full_text": "Классные принципы для руководителей из статьи Kim Scott",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        55
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311173762008707000,
+      "in_reply_to_status_id_str": "1311173762008707072",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 05:19:20 +0000 2020",
+      "id": 1311173764466516000,
+      "id_str": "1311173764466515968",
+      "full_text": "1. Доносите отрицательный фидбек: дайте людям шанс вовремя узнать что что-то не так и исправить это.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        100
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311173763246035000,
+      "in_reply_to_status_id_str": "1311173763246034944",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 05:19:20 +0000 2020",
+      "id": 1311173765607424000,
+      "id_str": "1311173765607424000",
+      "full_text": "2. Говорите правду, учите говорить правду всех вокруг, доносить фидбек напрямую: будет меньше неприятных сюрпризов, меньше интриг и сплетен, вырастет доверие, взаимопомощь, гибкость всей команды.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        195
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311173764466516000,
+      "in_reply_to_status_id_str": "1311173764466515968",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 05:19:21 +0000 2020",
+      "id": 1311173766895014000,
+      "id_str": "1311173766895013888",
+      "full_text": "3. Собирайте фидбек о своей работе с подопечных.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        48
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311173765607424000,
+      "in_reply_to_status_id_str": "1311173765607424000",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 05:19:21 +0000 2020",
+      "id": 1311173768098844700,
+      "id_str": "1311173768098844672",
+      "full_text": "4. Наденьте кислородную маску сначала на себя. Иногда, лучшее, что вы можете сделать для своей команды - это начать бегать по утрам или сходить в отпуск.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        153
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311173766895014000,
+      "in_reply_to_status_id_str": "1311173766895013888",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 46,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 05:19:22 +0000 2020",
+      "id": 1311173774440571000,
+      "id_str": "1311173774440570887",
+      "full_text": "А ещё, я отложила себе текст про руководителей из моих уроков английского. Он настолько хорош, что просто отдам вам скриншот ;) https://t.co/TKQuhdKgl1",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        127
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1311173769424261000,
+            "id_str": "1311173769424261120",
+            "indices": [
+              128,
+              151
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjI5mK1X0AAimH5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjI5mK1X0AAimH5.jpg",
+            "url": "https://t.co/TKQuhdKgl1",
+            "display_url": "pic.twitter.com/TKQuhdKgl1",
+            "expanded_url": "https://twitter.com/produnderhood/status/1311173774440570887/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1396,
+                "h": 1592,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1052,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 596,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1311173769424261000,
+            "id_str": "1311173769424261120",
+            "indices": [
+              128,
+              151
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjI5mK1X0AAimH5.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjI5mK1X0AAimH5.jpg",
+            "url": "https://t.co/TKQuhdKgl1",
+            "display_url": "pic.twitter.com/TKQuhdKgl1",
+            "expanded_url": "https://twitter.com/produnderhood/status/1311173774440570887/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1396,
+                "h": 1592,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1052,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 596,
+                "h": 680,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311173768098844700,
+      "in_reply_to_status_id_str": "1311173768098844672",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 07:21:08 +0000 2020",
+      "id": 1311204414888181800,
+      "id_str": "1311204414888181761",
+      "full_text": "@pavel_ivanovsky огонь, отличное дополнение! Думаю, это во многом зависит от опыта: больше практики - лучше интуиция.",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        117
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pavel_ivanovsky",
+            "name": "Pavel Ivanovsky",
+            "id": 829913843480588300,
+            "id_str": "829913843480588288",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1311200675720822800,
+      "in_reply_to_status_id_str": "1311200675720822785",
+      "in_reply_to_user_id": 829913843480588300,
+      "in_reply_to_user_id_str": "829913843480588288",
+      "in_reply_to_screen_name": "pavel_ivanovsky",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 08:39:07 +0000 2020",
+      "id": 1311224041525608400,
+      "id_str": "1311224041525608452",
+      "full_text": "@drag0n_master_ давай включим в «добряк» )",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        42
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "drag0n_master_",
+            "name": "Dragon Master 🐲",
+            "id": 2941145742,
+            "id_str": "2941145742",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1311220975619379200,
+      "in_reply_to_status_id_str": "1311220975619379201",
+      "in_reply_to_user_id": 2941145742,
+      "in_reply_to_user_id_str": "2941145742",
+      "in_reply_to_screen_name": "drag0n_master_",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 08:56:00 +0000 2020",
+      "id": 1311228291953590300,
+      "id_str": "1311228291953590272",
+      "full_text": "@drag0n_master_ похоже на стиль «не готов быть  руководителем». Манипуляторы ещё могут перекладывать ответственность и риски.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        125
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "drag0n_master_",
+            "name": "Dragon Master 🐲",
+            "id": 2941145742,
+            "id_str": "2941145742",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1311224486910337000,
+      "in_reply_to_status_id_str": "1311224486910337024",
+      "in_reply_to_user_id": 2941145742,
+      "in_reply_to_user_id_str": "2941145742",
+      "in_reply_to_screen_name": "drag0n_master_",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 09:07:27 +0000 2020",
+      "id": 1311231172723314700,
+      "id_str": "1311231172723314688",
+      "full_text": "@drag0n_master_ Кстати, попробуйте рассказать руководителю, что вы готовы  помочь ему в формулировке планов, принесите свои предложения, расскажите где ответственность устроена неудобным образом. Явно про это поговорить - полезно. Только не ставьте задачу как - высказать этому тюфяку своё фи :)",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        295
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "drag0n_master_",
+            "name": "Dragon Master 🐲",
+            "id": 2941145742,
+            "id_str": "2941145742",
+            "indices": [
+              0,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311224486910337000,
+      "in_reply_to_status_id_str": "1311224486910337024",
+      "in_reply_to_user_id": 2941145742,
+      "in_reply_to_user_id_str": "2941145742",
+      "in_reply_to_screen_name": "drag0n_master_",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Sep 30 15:49:49 +0000 2020",
+      "id": 1311332429442044000,
+      "id_str": "1311332429442043904",
+      "full_text": "Так, самое время заняться диванной аналитикой :)\nЭто что получается, манипуляторы прикидываются добряками? https://t.co/4LtnE9pYec",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        106
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1311332424022995000,
+            "id_str": "1311332424022994946",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjLJ5FRXsAIuiLm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjLJ5FRXsAIuiLm.jpg",
+            "url": "https://t.co/4LtnE9pYec",
+            "display_url": "pic.twitter.com/4LtnE9pYec",
+            "expanded_url": "https://twitter.com/produnderhood/status/1311332429442043904/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 507,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1180,
+                "h": 880,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1180,
+                "h": 880,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1311332424022995000,
+            "id_str": "1311332424022994946",
+            "indices": [
+              107,
+              130
+            ],
+            "media_url": "http://pbs.twimg.com/media/EjLJ5FRXsAIuiLm.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EjLJ5FRXsAIuiLm.jpg",
+            "url": "https://t.co/4LtnE9pYec",
+            "display_url": "pic.twitter.com/4LtnE9pYec",
+            "expanded_url": "https://twitter.com/produnderhood/status/1311332429442043904/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 507,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1180,
+                "h": 880,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1180,
+                "h": 880,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 04:01:54 +0000 2020",
+      "id": 1311516664123580400,
+      "id_str": "1311516664123580416",
+      "full_text": "Сегодня поговорим про работу в новой команде. Расскажу типичные сложности и практики, сработавшие для меня.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        107
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 42,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 04:01:54 +0000 2020",
+      "id": 1311516665885196300,
+      "id_str": "1311516665885196288",
+      "full_text": "В больших компаниях сильные управленцы нарасхват: они приходят, наводят порядок, заводят процессы, делают команду самостоятельной, а потом идут в следующую - тушить пожары. И каждый раз нужно почти с нуля выстраивать доверительные отношения.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        241
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311516664123580400,
+      "in_reply_to_status_id_str": "1311516664123580416",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 04:01:55 +0000 2020",
+      "id": 1311516668015894500,
+      "id_str": "1311516668015894528",
+      "full_text": "Намеренно сгущаю краски, чтоб описать как может выглядеть знакомство с устоявшейся командой. Техлид закидывает ноги на стол, прикуривает и говорит: «У нас такие как ты долго не держатся. Можем расходиться?». Другие яркие примеры можно найти в этой ветке https://t.co/hWeheY7sQ4",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        253
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/hWeheY7sQ4",
+            "expanded_url": "https://twitter.com/produnderhood/status/1296782848490450947",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              254,
+              277
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311516665885196300,
+      "in_reply_to_status_id_str": "1311516665885196288",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1296782848490451000,
+      "quoted_status_id_str": "1296782848490450947",
+      "quoted_status_permalink": {
+        "url": "https://t.co/hWeheY7sQ4",
+        "expanded": "https://twitter.com/produnderhood/status/1296782848490450947",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Fri Aug 21 12:14:58 +0000 2020",
+        "id": 1296782848490451000,
+        "id_str": "1296782848490450947",
+        "full_text": "Пятница, ретроспективы и демо уже прошли, а планирование нового спринта еще далеко за горизонтом. Самое время для того, чтобы составить план того, как подсидеть продакта в своей команде!\n\nПо совету за каждый ретвит, погнали! https://t.co/DxuCInLyHO",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          224
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1296782843222401000,
+              "id_str": "1296782843222401024",
+              "indices": [
+                225,
+                248
+              ],
+              "media_url": "http://pbs.twimg.com/media/Ef8ZIBEXoAAcsd6.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Ef8ZIBEXoAAcsd6.jpg",
+              "url": "https://t.co/DxuCInLyHO",
+              "display_url": "pic.twitter.com/DxuCInLyHO",
+              "expanded_url": "https://twitter.com/produnderhood/status/1296782848490450947/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 737,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 737,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 522,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1296782843222401000,
+              "id_str": "1296782843222401024",
+              "indices": [
+                225,
+                248
+              ],
+              "media_url": "http://pbs.twimg.com/media/Ef8ZIBEXoAAcsd6.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/Ef8ZIBEXoAAcsd6.jpg",
+              "url": "https://t.co/DxuCInLyHO",
+              "display_url": "pic.twitter.com/DxuCInLyHO",
+              "expanded_url": "https://twitter.com/produnderhood/status/1296782848490450947/photo/1",
+              "type": "photo",
+              "sizes": {
+                "medium": {
+                  "w": 737,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "large": {
+                  "w": 737,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 522,
+                  "h": 680,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 34,
+        "favorite_count": 84,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 04:01:55 +0000 2020",
+      "id": 1311516670830272500,
+      "id_str": "1311516670830272517",
+      "full_text": "У момента, когда команда вас принимает, есть классное название - Tip Point. После прохождения этой точки, решения даются легче, скепсис инженеров снижается, атмосфера становится дружественной. \nПриближение Tip Point - важная задача на начальных этапах работы.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        259
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311516668015894500,
+      "in_reply_to_status_id_str": "1311516668015894528",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 04:01:56 +0000 2020",
+      "id": 1311516672918986800,
+      "id_str": "1311516672918986752",
+      "full_text": "Люди переживают, т.к. от менеджера зависит успех продукта, а следовательно премии, зарплаты и чем каждый будет заниматься. Тут агрессия и споры - способ заявить о своих интересах, узнать больше о новом человеке.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        211
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311516670830272500,
+      "in_reply_to_status_id_str": "1311516670830272517",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 04:01:56 +0000 2020",
+      "id": 1311516675070726100,
+      "id_str": "1311516675070726144",
+      "full_text": "Что помогало мне быстрее прийти к Tip Point.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        44
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311516672918986800,
+      "in_reply_to_status_id_str": "1311516672918986752",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 04:01:57 +0000 2020",
+      "id": 1311516676937199600,
+      "id_str": "1311516676937199617",
+      "full_text": "1. Много слушайте и наблюдайте в самом начале. Постарайтесь не лезть и не менять устоявшиеся уклады слишком рано, даже если они вам не нравятся.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        144
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311516675070726100,
+      "in_reply_to_status_id_str": "1311516675070726144",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 04:01:57 +0000 2020",
+      "id": 1311516679332073500,
+      "id_str": "1311516679332073473",
+      "full_text": "2. Задавайте вопросы, вместо того, чтобы с наскока говорить что делать.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        71
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311516676937199600,
+      "in_reply_to_status_id_str": "1311516676937199617",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 04:01:58 +0000 2020",
+      "id": 1311516681487999000,
+      "id_str": "1311516681487998982",
+      "full_text": "3. Продемонстрируйте свою полезность и благие намерения. Решите какие-то из наболевших проблем, сделайте неприятную работу, которую команда давно откладывала.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        158
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311516679332073500,
+      "in_reply_to_status_id_str": "1311516679332073473",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 04:01:58 +0000 2020",
+      "id": 1311516683698409500,
+      "id_str": "1311516683698409480",
+      "full_text": "4. Расскажите о себе, дайте информацию, которая объяснит почему вам можно доверять. Расскажите о своей мотивации: почему вам нравится проект и продукт.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        151
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311516681487999000,
+      "in_reply_to_status_id_str": "1311516681487998982",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 04:01:59 +0000 2020",
+      "id": 1311516686051405800,
+      "id_str": "1311516686051405825",
+      "full_text": "5. Будьте честными и открытыми. Сделайте ваши решения прозрачными для команды. Будьте последовательны в своих решениях.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        119
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311516683698409500,
+      "in_reply_to_status_id_str": "1311516683698409480",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 04:01:59 +0000 2020",
+      "id": 1311516688177823700,
+      "id_str": "1311516688177823744",
+      "full_text": "6. Сделайте со всеми хотя бы редкие 1х1 встречи. На них узнайте что болит, мотивацию и амбиции, что каждый человек ожидает от вас. Тогда вы сможете действовать в его интересах и не вредить от незнания.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        201
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311516686051405800,
+      "in_reply_to_status_id_str": "1311516686051405825",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Oct 01 04:02:00 +0000 2020",
+      "id": 1311516690598056000,
+      "id_str": "1311516690598055937",
+      "full_text": "7. Раздайте ответственность в команду. Например, назначьте экспертов по частям проекта. У вас появятся помощники, люди увидят доверие, получат возможности роста, снизится неконструктивная агрессия к новым проектам, т.к. в них будет вовлечена команда.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311516688177823700,
+      "in_reply_to_status_id_str": "1311516688177823744",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 02 04:03:14 +0000 2020",
+      "id": 1311879386912653300,
+      "id_str": "1311879386912653314",
+      "full_text": "Привет! Сегодня разбираем движение вперед в условиях высокой неопределенности.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        78
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 30,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 02 04:03:14 +0000 2020",
+      "id": 1311879388250747000,
+      "id_str": "1311879388250746880",
+      "full_text": "Профессиональный рост почти всегда  сопровождает растущая неопределенность задач, с которыми человек должен справляться.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        120
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311879386912653300,
+      "in_reply_to_status_id_str": "1311879386912653314",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 02 04:03:14 +0000 2020",
+      "id": 1311879389664157700,
+      "id_str": "1311879389664157696",
+      "full_text": "Стажёры выполняют конкретные инструкции, сотрудники среднего уровня работают в областях с понятным результатом и средне детализированным ТЗ. Высокоуровневые ребята создают смыслы,  выбирают и обосновывают стратегию.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        215
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311879388250747000,
+      "in_reply_to_status_id_str": "1311879388250746880",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 02 04:03:15 +0000 2020",
+      "id": 1311879391115346000,
+      "id_str": "1311879391115345922",
+      "full_text": "Неопределенность бывает разная. \nНапример: \n* есть ощущение, что конкретная часть продукта сделана плохо - что делать?\n* нужно вырастить retention - как?\n* у продукта нет долгосрочных планов развития - как их получить?\n* нужно ли браться за рисковый проект?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        257
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311879389664157700,
+      "in_reply_to_status_id_str": "1311879389664157696",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 02 04:03:15 +0000 2020",
+      "id": 1311879392554086400,
+      "id_str": "1311879392554086402",
+      "full_text": "В этом треде не будет теории. Просто расскажу, что мне помогает, когда ничего непонятно, а двигаться надо быстро",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        112
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311879391115346000,
+      "in_reply_to_status_id_str": "1311879391115345922",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 02 04:03:15 +0000 2020",
+      "id": 1311879393954979800,
+      "id_str": "1311879393954979840",
+      "full_text": "1. Интервьюировать сильных спецов в области. У высокоуровневых ребят есть киллер фича - интуиция. Их нейросеть обучилась на огромном сете примеров из профессиональной практики и способна выдавать очень полезные идеи. Мы нерепрезентативны, но на деле не совсем :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311879392554086400,
+      "in_reply_to_status_id_str": "1311879392554086402",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 02 04:03:16 +0000 2020",
+      "id": 1311879395427135500,
+      "id_str": "1311879395427135488",
+      "full_text": "2. Говорить с пользователями как можно чаще. Это очевидная практика  забывается в суете. Даже если у вас нет прототипов, нет конкурентов, нет конкретных вопросов, просто расскажите про продукт. Общение с внешним человеком - катализатор идей.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        241
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311879393954979800,
+      "in_reply_to_status_id_str": "1311879393954979840",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 02 04:03:16 +0000 2020",
+      "id": 1311879396937085000,
+      "id_str": "1311879396937084928",
+      "full_text": "3. Заниматься хобби, учиться новому. Обучение в областях, отличных от работы, помогает в работе. Это способ растить насмотренность: обогащать мозг материалом, из которого он сможет синтезировать нестандартные решения. Например, мне часто помогли знания в дизайне интерьеров.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311879395427135500,
+      "in_reply_to_status_id_str": "1311879395427135488",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 02 04:03:16 +0000 2020",
+      "id": 1311879398426112000,
+      "id_str": "1311879398426112001",
+      "full_text": "4. Визуализировать. Когда информация перед глазами и не занимает оперативную память, мозг освобождается для синтеза идей. Инструмент может быть любой: доска, mind map, текст в блокнотике - кому что нравится.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311879396937085000,
+      "in_reply_to_status_id_str": "1311879396937084928",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 02 04:03:17 +0000 2020",
+      "id": 1311879399927681000,
+      "id_str": "1311879399927681025",
+      "full_text": "5. Собирать сырые прототипы, макеты из любых подручных материалов в любом качестве. А затем тестировать, даже не обязательно с пользователями, достаточно с командой.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        165
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311879398426112000,
+      "in_reply_to_status_id_str": "1311879398426112001",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 02 04:03:17 +0000 2020",
+      "id": 1311879401429258200,
+      "id_str": "1311879401429258242",
+      "full_text": "6. Рассказывать идею проекта много-много раз. С каждым следующим рассказом логические цепочки будут достраиваться яснее, модель будет обрастать новыми деталями.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        160
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311879399927681000,
+      "in_reply_to_status_id_str": "1311879399927681025",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 02 05:01:19 +0000 2020",
+      "id": 1311894007186968600,
+      "id_str": "1311894007186968576",
+      "full_text": "И такое бывает ;). Я тут «интервью» подразумеваю не как собеседование на работу, а как разговор-консультация.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        109
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1311879393954979800,
+      "in_reply_to_status_id_str": "1311879393954979840",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Oct 02 10:00:02 +0000 2020",
+      "id": 1311969179780685800,
+      "id_str": "1311969179780685824",
+      "full_text": "@ego_sha Отличное замечание! Правда, надо использовать с осторожностью и слушать фидбек.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        88
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ego_sha",
+            "name": "Egorka",
+            "id": 2157624764,
+            "id_str": "2157624764",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1311959743544651800,
+      "in_reply_to_status_id_str": "1311959743544651776",
+      "in_reply_to_user_id": 2157624764,
+      "in_reply_to_user_id_str": "2157624764",
+      "in_reply_to_screen_name": "ego_sha",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 03 09:33:57 +0000 2020",
+      "id": 1312325003946451000,
+      "id_str": "1312325003946450945",
+      "full_text": "Привет! Сегодня поговорим про делегирование",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        43
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 39,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 03 09:33:57 +0000 2020",
+      "id": 1312325005414461400,
+      "id_str": "1312325005414461445",
+      "full_text": "Хотите расти и приносить больше пользы - придётся делегировать. Это позволяет тратить силы с большим КПД и находить время на развитие.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        134
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312325003946451000,
+      "in_reply_to_status_id_str": "1312325003946450945",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 03 09:33:58 +0000 2020",
+      "id": 1312325006844670000,
+      "id_str": "1312325006844669952",
+      "full_text": "Мой любимы пример - рассказ преподавателя дизайна интерьеров из Британки. Однажды она была вынуждена на 3 месяца отказаться от двух помощников, которым платила ЗП. Работая в одиночку и экономя на наемных работниках, она потеряла почти 60% в доходе.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        248
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312325005414461400,
+      "in_reply_to_status_id_str": "1312325005414461445",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 03 09:33:58 +0000 2020",
+      "id": 1312325008329527300,
+      "id_str": "1312325008329527297",
+      "full_text": "Расскажу, почему делегировать не так-то просто и что с этим делать.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        67
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312325006844670000,
+      "in_reply_to_status_id_str": "1312325006844669952",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 03 09:33:58 +0000 2020",
+      "id": 1312325009856176000,
+      "id_str": "1312325009856176129",
+      "full_text": "1. «Стыдно грузить СВОЕЙ работой других людей. Они будут за меня  страдать, а я отдыхать, ужас!»\nМеняйте майндсет. На самом деле вокруг полно людей, которые хотят расти, учиться, разобраться в вашей области, хотят амбициозных задач и тп. Вы можете принести им пользу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312325008329527300,
+      "in_reply_to_status_id_str": "1312325008329527297",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 03 09:33:59 +0000 2020",
+      "id": 1312325011408126000,
+      "id_str": "1312325011408125952",
+      "full_text": "2. «Если эту работу сделает кто-то другой, то я окажусь бесполезным человеком»\nЕсли ваша голова освободится от работы, которую вы и так умеете делать, вы сможете добраться до чего-то нового и амбициозного. Ведь не бывает идеальных продуктов или оптимальных процессов.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        267
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312325009856176000,
+      "in_reply_to_status_id_str": "1312325009856176129",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 03 09:33:59 +0000 2020",
+      "id": 1312325012989321200,
+      "id_str": "1312325012989321216",
+      "full_text": "3. «У меня нет подчиненных и я не могу их нанимать» \nЭто не проблема. Например, можно найти человека, который умеет справляться с вашей задачей быстрее, а в замен сделать работу для него. А еще можно найти людей, которые хотят научиться и дать им ваши задачи в качестве практики.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312325011408126000,
+      "in_reply_to_status_id_str": "1312325011408125952",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 03 09:33:59 +0000 2020",
+      "id": 1312325014553792500,
+      "id_str": "1312325014553792512",
+      "full_text": "4. «Я потрачу много времени на объяснения, быстрее сделаю самостоятельно» \nВ моменте это может быть так. Но в перспективе вы сможете сдать другие задачи в уже обученных людей. И даже если задача разовая, практиковаться делегировать само по себе ценно.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        251
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312325012989321200,
+      "in_reply_to_status_id_str": "1312325012989321216",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 03 09:34:00 +0000 2020",
+      "id": 1312325016164413400,
+      "id_str": "1312325016164413440",
+      "full_text": "5. «Работа будет сделана хуже, если ее передать»\nЧаще всего так и будет. Это даунсайд, который надо принять. Переведите фокус на уровень выше, ведь на самом деле для компании вы принесёте больше пользы, так как освободитесь для новых сложных задач.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        248
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312325014553792500,
+      "in_reply_to_status_id_str": "1312325014553792512",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 03 09:34:00 +0000 2020",
+      "id": 1312325017707991000,
+      "id_str": "1312325017707991042",
+      "full_text": "При передаче дел, отдельный интересный момент - у кого должна находиться ответственность за финальный результат.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        112
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312325016164413400,
+      "in_reply_to_status_id_str": "1312325016164413440",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 03 09:34:01 +0000 2020",
+      "id": 1312325019339354000,
+      "id_str": "1312325019339354113",
+      "full_text": "Я оставляю ответственной за конечный результат за собой и поддерживаю планку качества. С другой стороны, не лезу и даю людям свободу в принятии решений в их зонах.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        163
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312325017707991000,
+      "in_reply_to_status_id_str": "1312325017707991042",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Oct 03 09:34:01 +0000 2020",
+      "id": 1312325021059162000,
+      "id_str": "1312325021059162112",
+      "full_text": "Микроменджмент убивает мотивацию и роняет качество итоговых решений. Если люди знают, что я им доверяю, и не буду перепроверять, то они с большей ответственностью подходят к выполнению своей работы.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        198
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312325019339354000,
+      "in_reply_to_status_id_str": "1312325019339354113",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 22,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 08:26:07 +0000 2020",
+      "id": 1312670320348799000,
+      "id_str": "1312670320348798976",
+      "full_text": "@vadim__uvarov Проверять нужно. Можно это делать на более высоком уровне: не каждый шаг, а результат. Ещё просить контролировать качество самих исполнителей, подсказать методы проверок и смотреть на их итог.",
+      "truncated": false,
+      "display_text_range": [
+        15,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "vadim__uvarov",
+            "name": "Vadim Uvarov",
+            "id": 454874604,
+            "id_str": "454874604",
+            "indices": [
+              0,
+              14
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1312654354772635600,
+      "in_reply_to_status_id_str": "1312654354772635648",
+      "in_reply_to_user_id": 454874604,
+      "in_reply_to_user_id_str": "454874604",
+      "in_reply_to_screen_name": "vadim__uvarov",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:01:46 +0000 2020",
+      "id": 1312694394139611100,
+      "id_str": "1312694394139611136",
+      "full_text": "Всем привет! Завершаем неделю книгами. Ниже мой актуальный top of mind для менеджера продукта.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        94
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "favorite_count": 66,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:01:47 +0000 2020",
+      "id": 1312694395939049500,
+      "id_str": "1312694395939049478",
+      "full_text": "Cracking the PM Interview https://t.co/n5TCXXpywq\nЛучшее что я встречала про нашу работу. Раскладывает всё по полочкам с примерами, написана на простом английском, читается легко. Обязательна к прочтению даже если вы давно в профессии и не собираетесь менять работу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        266
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/n5TCXXpywq",
+            "expanded_url": "https://www.amazon.com/Cracking-PM-Interview-Product-Technology/dp/0984782818",
+            "display_url": "amazon.com/Cracking-PM-In…",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312694394139611100,
+      "in_reply_to_status_id_str": "1312694394139611136",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:01:47 +0000 2020",
+      "id": 1312694398287859700,
+      "id_str": "1312694398287859718",
+      "full_text": "Общаться с ребёнком. Как? https://t.co/MAoTnYLmrU\nЛегкая, понятная и очень добрая книга про сложные коммуникации. Автор -  кандидат педагогических наук, доктор психологических наук, профессор. Книга про детей, но описанные принципы работают для любого возраста.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        261
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/MAoTnYLmrU",
+            "expanded_url": "https://www.litres.ru/uliya-gippenreyter/obschatsya-s-rebenkom-kak/",
+            "display_url": "litres.ru/uliya-gippenre…",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312694395939049500,
+      "in_reply_to_status_id_str": "1312694395939049478",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:01:48 +0000 2020",
+      "id": 1312694400225620000,
+      "id_str": "1312694400225619971",
+      "full_text": "Пиши, сокращай\nhttps://t.co/PAgvekPwaS\nПопса, но всё равно советую. Люблю эту книгу за подход к тексту как к продукту с заботой о пользователях, с метриками успеха автора, с логическими обоснованиями.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        200
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/PAgvekPwaS",
+            "expanded_url": "https://www.ozon.ru/context/detail/id/137634276/",
+            "display_url": "ozon.ru/context/detail…",
+            "indices": [
+              15,
+              38
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312694398287859700,
+      "in_reply_to_status_id_str": "1312694398287859718",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:01:48 +0000 2020",
+      "id": 1312694402171768800,
+      "id_str": "1312694402171768832",
+      "full_text": "Дом для жизни https://t.co/808UrnI4Oi\nРастим насмотренность :) Книга рассказывает как сделать ваше жильё удобным. Автор объясняет откуда берётся бардак и как его уменьшить без насилия. Помогает с новой стороны взглянуть на интерфейсы и производственные процессы.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/808UrnI4Oi",
+            "expanded_url": "https://www.litres.ru/lu-vey-18797499/dom-dlya-zhizni-kak-v-malenkom-prostranstve-hrani-43158519/",
+            "display_url": "litres.ru/lu-vey-1879749…",
+            "indices": [
+              14,
+              37
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312694400225620000,
+      "in_reply_to_status_id_str": "1312694400225619971",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:01:49 +0000 2020",
+      "id": 1312694404214403000,
+      "id_str": "1312694404214403072",
+      "full_text": "Корпорация гениев https://t.co/N5aM9XTxHY \nВнезапно, производство мультфильмов - это IT энтерпрайз. Президент Pixar рассказывает что важно для работы творческих людей, как настроить процессы и не навредить. Отдельный кайф - узнать как создавались сценарии наших любимых мультиков.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/N5aM9XTxHY",
+            "expanded_url": "https://www.ozon.ru/context/detail/id/28875128/",
+            "display_url": "ozon.ru/context/detail…",
+            "indices": [
+              18,
+              41
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312694402171768800,
+      "in_reply_to_status_id_str": "1312694402171768832",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:01:49 +0000 2020",
+      "id": 1312694406269599700,
+      "id_str": "1312694406269599744",
+      "full_text": "Основы организационного поведения\nhttps://t.co/8Mkm24Dovw\nЭто учебник про управление людьми в больших компаниях. Читается сложно, но информация стоит усилий на изучение. Оказывается, все наши модные способы организации команд и мотивации людей давно придуманы и исследованы.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8Mkm24Dovw",
+            "expanded_url": "https://www.ozon.ru/context/detail/id/2476943/",
+            "display_url": "ozon.ru/context/detail…",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312694404214403000,
+      "in_reply_to_status_id_str": "1312694404214403072",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:25:40 +0000 2020",
+      "id": 1312700405416104000,
+      "id_str": "1312700405416103937",
+      "full_text": "Дорогие, спасибо вам за эту неделю, спасибо за фидбек! Теперь точно могу сказать - пишите, и ваши идеи обретут новые смыслы для вас самих 🤗",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        139
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:53:22 +0000 2020",
+      "id": 1312707379222450200,
+      "id_str": "1312707379222450176",
+      "full_text": "Темы за неделю с Надей Шмаковой, менеджером продуктов и процессов в Поиске Яндекса https://t.co/qR86v1rTPG",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        82
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qR86v1rTPG",
+            "expanded_url": "https://twitter.com/produnderhood/status/1310444894335447040",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1310444894335447000,
+      "quoted_status_id_str": "1310444894335447040",
+      "quoted_status_permalink": {
+        "url": "https://t.co/qR86v1rTPG",
+        "expanded": "https://twitter.com/produnderhood/status/1310444894335447040",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Sep 28 05:03:04 +0000 2020",
+        "id": 1310444894335447000,
+        "id_str": "1310444894335447040",
+        "full_text": "Всем привет! Я 7 лет работаю в Поиске Яндекса, была руководителем продуктов, группы менеджеров, кроссфункциональных команд, процессов на 100+ человек. Больше всего я люблю людей, бардак и наводить порядок.",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          205
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "favorite_count": 261,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:53:23 +0000 2020",
+      "id": 1312707381692899300,
+      "id_str": "1312707381692899328",
+      "full_text": "— выгорание https://t.co/tY0IH9WMXF",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        11
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/tY0IH9WMXF",
+            "expanded_url": "https://twitter.com/produnderhood/status/1310446641346998272",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              12,
+              35
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312707379222450200,
+      "in_reply_to_status_id_str": "1312707379222450176",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1310446641346998300,
+      "quoted_status_id_str": "1310446641346998272",
+      "quoted_status_permalink": {
+        "url": "https://t.co/tY0IH9WMXF",
+        "expanded": "https://twitter.com/produnderhood/status/1310446641346998272",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Sep 28 05:10:00 +0000 2020",
+        "id": 1310446641346998300,
+        "id_str": "1310446641346998272",
+        "full_text": "Начнем с наболевшей после карантина темы - депрессивных состояний на работе. Быть менеджером - это риски, ответственность за проект и команду, принятие сложных решений.",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          168
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 28,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:53:23 +0000 2020",
+      "id": 1312707384045957000,
+      "id_str": "1312707384045957120",
+      "full_text": "— работа под давлением https://t.co/U71qASn9tQ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        22
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/U71qASn9tQ",
+            "expanded_url": "https://twitter.com/produnderhood/status/1310791675795644419",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312707381692899300,
+      "in_reply_to_status_id_str": "1312707381692899328",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1310791675795644400,
+      "quoted_status_id_str": "1310791675795644419",
+      "quoted_status_permalink": {
+        "url": "https://t.co/U71qASn9tQ",
+        "expanded": "https://twitter.com/produnderhood/status/1310791675795644419",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Tue Sep 29 04:01:03 +0000 2020",
+        "id": 1310791675795644400,
+        "id_str": "1310791675795644419",
+        "full_text": "Всем привет! Сегодня говорим про работу творческих людей и коллективов под давлением.",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          85
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 19,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:53:24 +0000 2020",
+      "id": 1312707386260557800,
+      "id_str": "1312707386260557826",
+      "full_text": "— хороший руководитель https://t.co/8zH7FLxnvU",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        22
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8zH7FLxnvU",
+            "expanded_url": "https://twitter.com/produnderhood/status/1311173743704715264",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312707384045957000,
+      "in_reply_to_status_id_str": "1312707384045957120",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1311173743704715300,
+      "quoted_status_id_str": "1311173743704715264",
+      "quoted_status_permalink": {
+        "url": "https://t.co/8zH7FLxnvU",
+        "expanded": "https://twitter.com/produnderhood/status/1311173743704715264",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Wed Sep 30 05:19:15 +0000 2020",
+        "id": 1311173743704715300,
+        "id_str": "1311173743704715264",
+        "full_text": "Сегодня обсуждаем кто такой крутой руководитель.",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          48
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 39,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:53:25 +0000 2020",
+      "id": 1312707388781322200,
+      "id_str": "1312707388781322240",
+      "full_text": "— работа в новой команде https://t.co/6GSVlK2uAb",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        24
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/6GSVlK2uAb",
+            "expanded_url": "https://twitter.com/produnderhood/status/1311516664123580416",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312707386260557800,
+      "in_reply_to_status_id_str": "1312707386260557826",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1311516664123580400,
+      "quoted_status_id_str": "1311516664123580416",
+      "quoted_status_permalink": {
+        "url": "https://t.co/6GSVlK2uAb",
+        "expanded": "https://twitter.com/produnderhood/status/1311516664123580416",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Oct 01 04:01:54 +0000 2020",
+        "id": 1311516664123580400,
+        "id_str": "1311516664123580416",
+        "full_text": "Сегодня поговорим про работу в новой команде. Расскажу типичные сложности и практики, сработавшие для меня.",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          107
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 5,
+        "favorite_count": 42,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:53:25 +0000 2020",
+      "id": 1312707391557959700,
+      "id_str": "1312707391557959680",
+      "full_text": "— работа с неопределенностью https://t.co/lQLHtnBaDl",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        28
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/lQLHtnBaDl",
+            "expanded_url": "https://twitter.com/produnderhood/status/1311879386912653314",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312707388781322200,
+      "in_reply_to_status_id_str": "1312707388781322240",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1311879386912653300,
+      "quoted_status_id_str": "1311879386912653314",
+      "quoted_status_permalink": {
+        "url": "https://t.co/lQLHtnBaDl",
+        "expanded": "https://twitter.com/produnderhood/status/1311879386912653314",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Fri Oct 02 04:03:14 +0000 2020",
+        "id": 1311879386912653300,
+        "id_str": "1311879386912653314",
+        "full_text": "Привет! Сегодня разбираем движение вперед в условиях высокой неопределенности.",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          78
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 30,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:53:26 +0000 2020",
+      "id": 1312707393869033500,
+      "id_str": "1312707393869033472",
+      "full_text": "— делегирование https://t.co/V12PMuwrez",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        15
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/V12PMuwrez",
+            "expanded_url": "https://twitter.com/produnderhood/status/1312325003946450945",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              16,
+              39
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312707391557959700,
+      "in_reply_to_status_id_str": "1312707391557959680",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1312325003946451000,
+      "quoted_status_id_str": "1312325003946450945",
+      "quoted_status_permalink": {
+        "url": "https://t.co/V12PMuwrez",
+        "expanded": "https://twitter.com/produnderhood/status/1312325003946450945",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Sat Oct 03 09:33:57 +0000 2020",
+        "id": 1312325003946451000,
+        "id_str": "1312325003946450945",
+        "full_text": "Привет! Сегодня поговорим про делегирование",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          43
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 39,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Oct 04 10:53:26 +0000 2020",
+      "id": 1312707396079358000,
+      "id_str": "1312707396079357953",
+      "full_text": "— книги https://t.co/vEwRHBnrVn",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        7
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/vEwRHBnrVn",
+            "expanded_url": "https://twitter.com/produnderhood/status/1312694394139611136",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              8,
+              31
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_status_id": 1312707393869033500,
+      "in_reply_to_status_id_str": "1312707393869033472",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1312694394139611100,
+      "quoted_status_id_str": "1312694394139611136",
+      "quoted_status_permalink": {
+        "url": "https://t.co/vEwRHBnrVn",
+        "expanded": "https://twitter.com/produnderhood/status/1312694394139611136",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Sun Oct 04 10:01:46 +0000 2020",
+        "id": 1312694394139611100,
+        "id_str": "1312694394139611136",
+        "full_text": "Всем привет! Завершаем неделю книгами. Ниже мой актуальный top of mind для менеджера продукта.",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          94
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 9,
+        "favorite_count": 66,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "uk"
+    }
+  ]
+}
