@@ -1,0 +1,2900 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 09 08:12:20 +0000 2020",
+      "id": 1325712817438273500,
+      "id_str": "1325712817438273542",
+      "full_text": "Всем привет. Меня зовут Алексей Авдей. На этой неделе буду я с вами.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        68
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 30,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 08:15:53 +0000 2020",
+      "id": 1325713711106060300,
+      "id_str": "1325713711106060288",
+      "full_text": "Программа на неделю\n1. Про неопределенность в продуктовой работе\n2. Возможности COVID-19 для продакта\n3. Особенности работы в корпорациях\n4. Продуктовая стратегия\n5. Как растить продактов\n6. CPO - кто это такой и что от него ждут\n7. Лайфхаки, истории из жизни, рекомендации.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 09:46:27 +0000 2020",
+      "id": 1325736500609376300,
+      "id_str": "1325736500609376256",
+      "full_text": "@pavelpatrin сайты https://t.co/EhQlMDNKAO, https://t.co/oAPt2Uzo19, https://t.co/FgGDavc6dn",
+      "truncated": false,
+      "display_text_range": [
+        13,
+        92
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pavelpatrin",
+            "name": "Patrin Pavel",
+            "id": 68389072,
+            "id_str": "68389072",
+            "indices": [
+              0,
+              12
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/EhQlMDNKAO",
+            "expanded_url": "http://sberbank.ru",
+            "display_url": "sberbank.ru",
+            "indices": [
+              19,
+              42
+            ]
+          },
+          {
+            "url": "https://t.co/oAPt2Uzo19",
+            "expanded_url": "http://Sber.ru",
+            "display_url": "Sber.ru",
+            "indices": [
+              44,
+              67
+            ]
+          },
+          {
+            "url": "https://t.co/FgGDavc6dn",
+            "expanded_url": "http://sberindex.ru",
+            "display_url": "sberindex.ru",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325718768916557800,
+      "in_reply_to_status_id_str": "1325718768916557824",
+      "in_reply_to_user_id": 68389072,
+      "in_reply_to_user_id_str": "68389072",
+      "in_reply_to_screen_name": "pavelpatrin",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 09:46:53 +0000 2020",
+      "id": 1325736611099897900,
+      "id_str": "1325736611099897856",
+      "full_text": "@pavel_ivanovsky Привет, могу только рассказать про сайты. Мобильным приложением не занимался)",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        94
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pavel_ivanovsky",
+            "name": "Pavel Ivanovsky",
+            "id": 829913843480588300,
+            "id_str": "829913843480588288",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325718794879316000,
+      "in_reply_to_status_id_str": "1325718794879315969",
+      "in_reply_to_user_id": 829913843480588300,
+      "in_reply_to_user_id_str": "829913843480588288",
+      "in_reply_to_screen_name": "pavel_ivanovsky",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 19:05:01 +0000 2020",
+      "id": 1325877068555575300,
+      "id_str": "1325877068555575298",
+      "full_text": "Понедельник\nОднажды ко мне пришел сотрудник, который полгода назад перешел на позицию продакта с проджекта. Я устал от этой работы, я не тяну. Можно я вернусь обратно, займусь тем, что понятно и ясно.\nКлючевое отличие продакт-менеджера от проджекта - работа с неопределенностью.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 48,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 19:07:29 +0000 2020",
+      "id": 1325877690403086300,
+      "id_str": "1325877690403086339",
+      "full_text": "Есть концепция RUN, Change, Disrupt. Она напрямую связана с неопределенностью, см картинку. Сотрудник привык работать в высокой степени прогнозирования. https://t.co/3PNh0weST9",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        152
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1325877477647011800,
+            "id_str": "1325877477647011841",
+            "indices": [
+              153,
+              176
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmZ2iobXUAEBZkE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmZ2iobXUAEBZkE.jpg",
+            "url": "https://t.co/3PNh0weST9",
+            "display_url": "pic.twitter.com/3PNh0weST9",
+            "expanded_url": "https://twitter.com/produnderhood/status/1325877690403086339/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 289,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 871,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 511,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1325877477647011800,
+            "id_str": "1325877477647011841",
+            "indices": [
+              153,
+              176
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmZ2iobXUAEBZkE.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmZ2iobXUAEBZkE.jpg",
+            "url": "https://t.co/3PNh0weST9",
+            "display_url": "pic.twitter.com/3PNh0weST9",
+            "expanded_url": "https://twitter.com/produnderhood/status/1325877690403086339/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 289,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 2048,
+                "h": 871,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 511,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325877068555575300,
+      "in_reply_to_status_id_str": "1325877068555575298",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 33,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 19:11:05 +0000 2020",
+      "id": 1325878597140304000,
+      "id_str": "1325878597140303874",
+      "full_text": "Хороший продакт-менеджер не ждет готового, 100% верного решения, относится к решениям как к гипотезам. Это сильно меняет его поведение и уменьшает стресс. Как отличить хорошего продакта от того, кто хорошо заучил материал на курсах? У первого сильно развита интуиция и чуйка ;-)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325877690403086300,
+      "in_reply_to_status_id_str": "1325877690403086339",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 19:17:12 +0000 2020",
+      "id": 1325880134142996500,
+      "id_str": "1325880134142996482",
+      "full_text": "Сильная продуктовая команда сыграна на нестандартных ситуациях и умеет ориентироваться в ситуации неопределенности. Бывший морпех Теннант, консультирует бизнес как работать в таких ситуациях. Причина успеха военных: многократные учения в неизвестности. https://t.co/yHDliaf4T2",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/yHDliaf4T2",
+            "expanded_url": "https://pro.rbc.ru/news/5f9fe0ca9a79475a024a88f2",
+            "display_url": "pro.rbc.ru/news/5f9fe0ca9…",
+            "indices": [
+              253,
+              276
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325878597140304000,
+      "in_reply_to_status_id_str": "1325878597140303874",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 19:20:00 +0000 2020",
+      "id": 1325880837770973200,
+      "id_str": "1325880837770973185",
+      "full_text": "Поэтому если кто-то из вас ищет работу продакта, то выбирайте отрасли, где высокая степень неопределенности или низкая цифровизация. Это золотое дно - вас оторвут с руками. Другой вариант - брать новые технологии и добавлять приставку продакт. Например, AI-продакт, AR/VR-продакт.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325880134142996500,
+      "in_reply_to_status_id_str": "1325880134142996482",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 19:25:30 +0000 2020",
+      "id": 1325882225498484700,
+      "id_str": "1325882225498484736",
+      "full_text": "Продакт должен не только уметь работать в неопределенности, он должен искать ее. Джек Ма: в компании обсуждении задачи мы находим простые и неамбициозные решения, а также сложные и амбициозные. Первые я выкидываю в мусорку, в работу берем вторые.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        246
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325880837770973200,
+      "in_reply_to_status_id_str": "1325880837770973185",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 19:31:10 +0000 2020",
+      "id": 1325883651196915700,
+      "id_str": "1325883651196915714",
+      "full_text": "Продакт - человек будущего, он умеет сочетать креативность, системность и ориентацию на результат. Эти критерии Герман Греф считает самыми важными. https://t.co/aSG9e6CA6A",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        171
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aSG9e6CA6A",
+            "expanded_url": "https://ria.ru/20190925/1559105008.html",
+            "display_url": "ria.ru/20190925/15591…",
+            "indices": [
+              148,
+              171
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325882225498484700,
+      "in_reply_to_status_id_str": "1325882225498484736",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 09 19:32:41 +0000 2020",
+      "id": 1325884031762919400,
+      "id_str": "1325884031762919426",
+      "full_text": "На сегодня это все. Завтра я расскажу про возможности для продакта в постковидной эпохе.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        88
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1325883651196915700,
+      "in_reply_to_status_id_str": "1325883651196915714",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 10 06:39:15 +0000 2020",
+      "id": 1326051779688231000,
+      "id_str": "1326051779688230913",
+      "full_text": "Вторник\nМой друг Андрей жалеет, что в начале 90x годов ему было мало лет. А ведь такие были возможности. Уверен, что текущее время тоже будут вспоминать. Резкая смена привычек, угроза здоровью и жизни дает возможность создавать продукты на самом острие потребностей клиентов.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 31,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 10 06:40:37 +0000 2020",
+      "id": 1326052123394658300,
+      "id_str": "1326052123394658304",
+      "full_text": "Начать нужно с целевой аудитории. Например, сейчас\n1. Массовая аудитория в тревоге, она не понимает что будет, на что ориентироваться.\n2. Самозанятые, предприниматели воодушевлены новыми возможностями.\n3. У кого есть деньги фрустрированы, т.к. потеряли привычный образ жизни.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 11 18:06:08 +0000 2020",
+      "id": 1326587028235022300,
+      "id_str": "1326587028235022336",
+      "full_text": "Среда\nЯ пришел в Яндекс, когда там было всего 70 сотрудников. Уже позднее я был в хороших отношениях с руководителями смежных подразделений и вопросы решались. Придя в Сбер, мне пришлось выстраивать отношения, помогать друг другу, идти на встречу и договариваться. Как в жизни (:",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 11 18:06:52 +0000 2020",
+      "id": 1326587209403732000,
+      "id_str": "1326587209403731975",
+      "full_text": "Сегодня мы запустили акцию Зелёный день на Сбере и в процессе подготовки были случае, когда я мог не делать ряд задач, объясняя большой загрузкой. Но всегда думал, что я проактивно могу сделать с заделом на будущее. Отношения в корпорациях - важный капитал.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        257
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326587028235022300,
+      "in_reply_to_status_id_str": "1326587028235022336",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 11 18:07:39 +0000 2020",
+      "id": 1326587409514057700,
+      "id_str": "1326587409514057728",
+      "full_text": "Когда я спросил своего руководителя в Сбере на что мне обратить внимание. Его ответ: твои заказчики должны быть довольны. В корпорациях много внутренних заказчиков и важно с ними проводить все тот же customer development, понимать боли и потребности, собирать обратную связь и CSI",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326587209403732000,
+      "in_reply_to_status_id_str": "1326587209403731975",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 11 18:09:58 +0000 2020",
+      "id": 1326587989783351300,
+      "id_str": "1326587989783351296",
+      "full_text": "Отношения, правила, согласования, легаси  IT, нехватка ресурсов сильно выматывает. Поэтому важно себя спрашивать на предмет самоощущения. Как я себя чувствую? Мне интересно? Какие эмоции у меня от текущей ситуации? Что у меня болит? Работа в системе может украсть тебя у себя.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        276
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326587409514057700,
+      "in_reply_to_status_id_str": "1326587409514057728",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 11 18:14:22 +0000 2020",
+      "id": 1326589096861556700,
+      "id_str": "1326589096861556736",
+      "full_text": "Чем выше позиция тем больше требования к сотруднику. Мне нравится подход вертикального развития. Очень хорошо требования описаны в методичке ДАО лидера https://t.co/n7gQ58o8YK",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        175
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/n7gQ58o8YK",
+            "expanded_url": "https://readymag.com/profiru/dao/",
+            "display_url": "readymag.com/profiru/dao/",
+            "indices": [
+              152,
+              175
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326587989783351300,
+      "in_reply_to_status_id_str": "1326587989783351296",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 27,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 11 18:17:06 +0000 2020",
+      "id": 1326589787340419000,
+      "id_str": "1326589787340419075",
+      "full_text": "К собственному провалу ведёт такое позиционирование: я умнее чем команда, руководитель или клиент.  Не выполнение целей руководителя и/или бизнеса. Консервативное или слишком рисковое поведение. Дисбаланс качество-цена-срок. Низкие адаптивность и толерантность к неопределенности.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326589096861556700,
+      "in_reply_to_status_id_str": "1326589096861556736",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 11 18:19:48 +0000 2020",
+      "id": 1326590465790062600,
+      "id_str": "1326590465790062594",
+      "full_text": "У корпораций есть свои законы и правила. Понимая их, становится сильно проще адаптироваться. Перед выходом на работу в корпорацию можно читать книги, например, Пфеффер «Власть» и Адизес «Жизненный цикл корпораций», Джек Уэлч “Мои годы в GE”,  Друкера и Минцберга по менеджменту.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326589787340419000,
+      "in_reply_to_status_id_str": "1326589787340419075",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 11 18:24:22 +0000 2020",
+      "id": 1326591616627445800,
+      "id_str": "1326591616627445765",
+      "full_text": "Работа в корпорации для продакта - школа жизни. Прям как армия для мужчины) И опасная - можно выгореть. После неё точно решиться вопрос с ответственностью, появиться системность, можно договориться со всеми и понимания чего хочешь и чего точно не хочешь ;-)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        257
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326590465790062600,
+      "in_reply_to_status_id_str": "1326590465790062594",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 12 19:11:03 +0000 2020",
+      "id": 1326965752868589600,
+      "id_str": "1326965752868589573",
+      "full_text": "Четверг\nНаличие продуктовой стратегии сравнимо с обладанием спортивной машины или заветной сумки. В ней видется спасение и ответы на все вопросы. Вот если бы у меня была она, - мечтает продакт. Какая у нас стратегия, что мы будем делать в следующем году - спрашивает команда.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 12 19:13:57 +0000 2020",
+      "id": 1326966479980523500,
+      "id_str": "1326966479980523520",
+      "full_text": "Многие считают, что стратегия автоматом рождается после стратегической сессии. Хочу разочаровать) У стратсессии две задачи: синхронизировать команду и принять поставленные цели. А вот стратегию нужно готовить заранее как полноценный продукт. Давайте разбираться.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326965752868589600,
+      "in_reply_to_status_id_str": "1326965752868589573",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 12 19:16:58 +0000 2020",
+      "id": 1326967241225740300,
+      "id_str": "1326967241225740289",
+      "full_text": "Все начинается с видения. Видение — представление во что превратиться наш продукт. Миссия — зачем компания существует и что она хочет достичь. Цели — контрольные точки с показателями.\nЗадачи — каким образом будут достигнуты цели.\nСтратегия — путь (план) по достижению целей. https://t.co/vJ83ftjwqv",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1326966539434811400,
+            "id_str": "1326966539434811392",
+            "indices": [
+              275,
+              298
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmpVCXvXYAAj-wI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmpVCXvXYAAj-wI.jpg",
+            "url": "https://t.co/vJ83ftjwqv",
+            "display_url": "pic.twitter.com/vJ83ftjwqv",
+            "expanded_url": "https://twitter.com/produnderhood/status/1326967241225740289/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 500,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 988,
+                "h": 726,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 988,
+                "h": 726,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1326966539434811400,
+            "id_str": "1326966539434811392",
+            "indices": [
+              275,
+              298
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmpVCXvXYAAj-wI.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmpVCXvXYAAj-wI.jpg",
+            "url": "https://t.co/vJ83ftjwqv",
+            "display_url": "pic.twitter.com/vJ83ftjwqv",
+            "expanded_url": "https://twitter.com/produnderhood/status/1326967241225740289/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 500,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 988,
+                "h": 726,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 988,
+                "h": 726,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326966479980523500,
+      "in_reply_to_status_id_str": "1326966479980523520",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 12 19:23:19 +0000 2020",
+      "id": 1326968839242977300,
+      "id_str": "1326968839242977291",
+      "full_text": "Vision поможет описать product vision canvas. Миссия компании рождается в обсуждении с руководителями компании. Помню однажды 14 февраля мы горячо спорили про миссию и ценности компании. Миссию утвердили и даже нарисовали на стенах офиса. https://t.co/P1Gr3DSCqt",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        238
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1326968169982988300,
+            "id_str": "1326968169982988288",
+            "indices": [
+              239,
+              262
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmpWhSAWEAABsKr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmpWhSAWEAABsKr.jpg",
+            "url": "https://t.co/P1Gr3DSCqt",
+            "display_url": "pic.twitter.com/P1Gr3DSCqt",
+            "expanded_url": "https://twitter.com/produnderhood/status/1326968839242977291/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 832,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 471,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1460,
+                "h": 1012,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1326968169982988300,
+            "id_str": "1326968169982988288",
+            "indices": [
+              239,
+              262
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmpWhSAWEAABsKr.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmpWhSAWEAABsKr.jpg",
+            "url": "https://t.co/P1Gr3DSCqt",
+            "display_url": "pic.twitter.com/P1Gr3DSCqt",
+            "expanded_url": "https://twitter.com/produnderhood/status/1326968839242977291/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 832,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 471,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1460,
+                "h": 1012,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326967241225740300,
+      "in_reply_to_status_id_str": "1326967241225740289",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 12 19:25:49 +0000 2020",
+      "id": 1326969468745093000,
+      "id_str": "1326969468745093123",
+      "full_text": "Для коммерческой организации основной целью является выручка (прибыль), ее обычно спускают сверху акционеры или генеральный директор. А вот декомпозицию на продуктовые метрики (цели) делают руководители подразделений. Это отправная точка для подготовки стратегического плана.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        275
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326968839242977300,
+      "in_reply_to_status_id_str": "1326968839242977291",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 12 19:34:06 +0000 2020",
+      "id": 1326971550499790800,
+      "id_str": "1326971550499790848",
+      "full_text": "С этого момента и начинается подготовка к стратегической сессии. Нужно предложить план с помощью как стратегических изменений в продукте/процессах вы сможете добиться цели. Для этого нужно собрать план инициатив и провести скоринг (например, RICE) https://t.co/wCNpune5qP",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/wCNpune5qP",
+            "expanded_url": "https://habr.com/ru/company/hygger/blog/422131/",
+            "display_url": "habr.com/ru/company/hyg…",
+            "indices": [
+              248,
+              271
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326969468745093000,
+      "in_reply_to_status_id_str": "1326969468745093123",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 12 19:36:29 +0000 2020",
+      "id": 1326972150134300700,
+      "id_str": "1326972150134300674",
+      "full_text": "И вот из этого можно составлять дорожную карту для обсуждения, готовить презентацию для стратегической сессии. Сама сессия - подготовленное обсуждение что вы делаете и какой будет результат для бизнеса.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        202
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326971550499790800,
+      "in_reply_to_status_id_str": "1326971550499790848",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 12 19:39:47 +0000 2020",
+      "id": 1326972980006686700,
+      "id_str": "1326972980006686720",
+      "full_text": "По сути стратегия - это карта, которая отвечает на многие вопросы. А у карты есть свойство устаревать. Актуальность карты - залог эффективности компании. Поэтому стратегическую сессию проводят уже не раз в год, а во многих компаниях минимум раз в полгода, а то и каждый квартал.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326971550499790800,
+      "in_reply_to_status_id_str": "1326971550499790848",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 12 19:46:06 +0000 2020",
+      "id": 1326974572705558500,
+      "id_str": "1326974572705558531",
+      "full_text": "А еще стратегия показывает короткий путь к цели, позволяя продакту легально использовать подход Ильи Красинского  FFF (Focus F*ucking Focus) для выбора что нужно сделать. Продакт без стратегии распыляется и хватается за все интересное - прям как ребенок в магазине игрушек.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326972980006686700,
+      "in_reply_to_status_id_str": "1326972980006686720",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 12 19:47:55 +0000 2020",
+      "id": 1326975027254792200,
+      "id_str": "1326975027254792192",
+      "full_text": "А в целом продуктовая стратегия это часть большой истории, которая необходимо для всей команды. https://t.co/vPJQqMmPU1",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        95
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1326974990324002800,
+            "id_str": "1326974990324002818",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmpcuRwW8AIj8B4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmpcuRwW8AIj8B4.jpg",
+            "url": "https://t.co/vPJQqMmPU1",
+            "display_url": "pic.twitter.com/vPJQqMmPU1",
+            "expanded_url": "https://twitter.com/produnderhood/status/1326975027254792192/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 932,
+                "h": 616,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 932,
+                "h": 616,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 449,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1326974990324002800,
+            "id_str": "1326974990324002818",
+            "indices": [
+              96,
+              119
+            ],
+            "media_url": "http://pbs.twimg.com/media/EmpcuRwW8AIj8B4.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EmpcuRwW8AIj8B4.jpg",
+            "url": "https://t.co/vPJQqMmPU1",
+            "display_url": "pic.twitter.com/vPJQqMmPU1",
+            "expanded_url": "https://twitter.com/produnderhood/status/1326975027254792192/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 932,
+                "h": 616,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 932,
+                "h": 616,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 449,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326974572705558500,
+      "in_reply_to_status_id_str": "1326974572705558531",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 12 19:49:07 +0000 2020",
+      "id": 1326975332537135000,
+      "id_str": "1326975332537135104",
+      "full_text": "Рекомендую посмотреть выступлении Дмитрия Безуглого на Producamp 2019 про стратегию\nhttps://t.co/3bWTQ2YYgo",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        107
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/3bWTQ2YYgo",
+            "expanded_url": "https://youtu.be/zkzocHJWq1k?t=9249",
+            "display_url": "youtu.be/zkzocHJWq1k?t=…",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1326975027254792200,
+      "in_reply_to_status_id_str": "1326975027254792192",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 13 16:43:15 +0000 2020",
+      "id": 1327290944534814700,
+      "id_str": "1327290944534814724",
+      "full_text": "Пятница\nОднажды к нам на позицию проджекта пришла девушка. Через полгода стала делать небольшие продуктовые задачки. Потом освободилось места продакта. Дальше была Head of Product и ушла в другую компанию. Стоит ли вам говорить, что сейчас она CPO, а по факту выполняет роль СЕО.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        279
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 13 16:48:17 +0000 2020",
+      "id": 1327292208479920000,
+      "id_str": "1327292208479920128",
+      "full_text": "Это мечта любого руководителя. Что же делать, если у вас junior или проджект. Как из него вырастить хорошего продакта?\n1. На входе должен быть проактивный, с горящими глазами, любопытный и ответственный сотрудник. Другой уйдет при первых сложности, захочет спокойную работу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327290944534814700,
+      "in_reply_to_status_id_str": "1327290944534814724",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 13 16:50:29 +0000 2020",
+      "id": 1327292762765537300,
+      "id_str": "1327292762765537282",
+      "full_text": "2. Начинать нужно с небольших продуктовых задач, раскрывая всю сложность продуктовой работы. Рекомендую прочитать книгу Ю.Б. Гиппенрейтер \"Общаться с ребенком как\". А также статьи про уровни рабочей зрелости.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        208
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327292208479920000,
+      "in_reply_to_status_id_str": "1327292208479920128",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 21,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 13 16:53:05 +0000 2020",
+      "id": 1327293417446105000,
+      "id_str": "1327293417446105092",
+      "full_text": "3. Параллельно отправить курсы для продактов. Сводные всех курсов можно посмотреть по ссылке: https://t.co/pqJOyRoyEe",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        117
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/pqJOyRoyEe",
+            "expanded_url": "https://vc.ru/hr/61267-gde-uchitsya-na-menedzhera-produkta-11-kursov-dlya-novichkov",
+            "display_url": "vc.ru/hr/61267-gde-u…",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327292762765537300,
+      "in_reply_to_status_id_str": "1327292762765537282",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 24,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 13 16:54:51 +0000 2020",
+      "id": 1327293862528880600,
+      "id_str": "1327293862528880641",
+      "full_text": "4. Важно, чтобы материал на курсе закреплялся практической деятельностью на работе. Проходят CustDev - пусть идет общаться с клиентами. Изучают продуктовую аналитику - метрики продукта ждут внимания.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        199
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 13 17:00:03 +0000 2020",
+      "id": 1327295172242182100,
+      "id_str": "1327295172242182145",
+      "full_text": "5. Переход из junior в middle продакта обычно происходит при достижении серьезного результата по изменению/созданию продукта. Это дипломная работа всего обучения.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        162
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327293862528880600,
+      "in_reply_to_status_id_str": "1327293862528880641",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 13 17:04:44 +0000 2020",
+      "id": 1327296348757123000,
+      "id_str": "1327296348757123073",
+      "full_text": "Для роста сотрудника подойдет модель изменений EASIER.\nEnvisioning — создаем ИПР\nActivating — отправляем на курсы, даем задачи\nSupporting — поддерживаем/советуем\nImplementing — внедряем знания в практику\nEnsuring – обеспечиваем ресурсами\nRecognizing — празднуем успех, хвалим :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327295172242182100,
+      "in_reply_to_status_id_str": "1327295172242182145",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 13 17:07:21 +0000 2020",
+      "id": 1327297006885347300,
+      "id_str": "1327297006885347328",
+      "full_text": "Дальше главное не забывать, что требования к продактам растут каждый день. Поэтому важно регулярно делать оценку 360 компетенций. Хороший список навыков можно посмотреть на https://t.co/eG86nSncRQ Правда он уже устарел :(",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        221
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/eG86nSncRQ",
+            "expanded_url": "https://productstar.ru/skills",
+            "display_url": "productstar.ru/skills",
+            "indices": [
+              173,
+              196
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327296348757123000,
+      "in_reply_to_status_id_str": "1327296348757123073",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 14 19:53:16 +0000 2020",
+      "id": 1327701151865778200,
+      "id_str": "1327701151865778177",
+      "full_text": "Суббота.\nВ компании ЦИАН я был на позиции Head of product. Потихоньку у меня росла зона ответственности, добавлялись направления и продукты. Однажды я пришел к директору и сказал: Максим, можно я буду CPO. на что он ответил - кем угодно, хоть золотой рыбкой. Я стал CPO постфактум",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 32,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 14 20:06:27 +0000 2020",
+      "id": 1327704469694460000,
+      "id_str": "1327704469694459906",
+      "full_text": "Что позволяет Head of Product занять позицию CPO?\n1. Вы мыслите как топ-менеджер. Вы знаете цели и драйверы роста всей компании, вы знаете как влиять на цели других подразделений. В компания, где нет CPO, СЕО выполняет эту роль, посмотрите что он делает и займитесь тем же.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327701151865778200,
+      "in_reply_to_status_id_str": "1327701151865778177",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 14 20:09:00 +0000 2020",
+      "id": 1327705111284633600,
+      "id_str": "1327705111284633603",
+      "full_text": "2. Вы знаете свои собственные цели. Вы понимаете какой доход вы хотите, где будете жить, кто и в чем вы как профессионал, какие у вас амбиции. Также какие у вас сильные стороны, которые вы используете. А также про свои слабые стороны, которые прикроет ваша команда.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        265
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327704469694460000,
+      "in_reply_to_status_id_str": "1327704469694459906",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 14 20:12:26 +0000 2020",
+      "id": 1327705973839040500,
+      "id_str": "1327705973839040512",
+      "full_text": "3. Идти от возможностей. Вы постоянно челенджите свое отношение к миру, свои знания и результаты. Критика становиться для вас возможностью показать другой результат. Вы видеть возможности на пересечении целей компании, руководителя, клиента и интересов команды. Каждый день.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327705111284633600,
+      "in_reply_to_status_id_str": "1327705111284633603",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 14 20:16:23 +0000 2020",
+      "id": 1327706967326994400,
+      "id_str": "1327706967326994432",
+      "full_text": "4. Важно брать и любить власть. Многие скажут, что политика это грязно и я не буду ей заниматься. Политика - система принципов как принимаются решения в компании. Для высоких позиций это нелинейное, нужно разбираться. Кроме того, вам необходимы определенные личные качества.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327705973839040500,
+      "in_reply_to_status_id_str": "1327705973839040512",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 14 20:18:20 +0000 2020",
+      "id": 1327707460979847200,
+      "id_str": "1327707460979847171",
+      "full_text": "Пфеффер рекомендуют следующие личные качества для топовых позиций:\n1. Амбиции\n2. Энергия\n3. Фокус\n4. Уверенность\n5. Устойчивость к конфликтам\n6. Самопознание\n7. Чуткость к проблемам других\nПочитайте про них и сделайте самооценку. Насколько вы готовы?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        250
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327706967326994400,
+      "in_reply_to_status_id_str": "1327706967326994432",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 14 20:23:14 +0000 2020",
+      "id": 1327708691907420200,
+      "id_str": "1327708691907420168",
+      "full_text": "Самым большим откровением для меня было то, что для попадания на топовые позиции необходимо нарушать правила. Людей с доходом 1 млн рублей в месяц всего 11 тыс в России. Топовых позиций мало. Топы придумывают правила, которые в том числе защищают свои позиции от поползновений.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327707460979847200,
+      "in_reply_to_status_id_str": "1327707460979847171",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 14 20:31:46 +0000 2020",
+      "id": 1327710837553893400,
+      "id_str": "1327710837553893378",
+      "full_text": "Если вы чувствуете, что подходите - посмотрите опубликованные вакансии CPO. Например, https://t.co/9lJB39cuko или https://t.co/REWAHMvV1O",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/9lJB39cuko",
+            "expanded_url": "https://profi.ru/vacancies/CPO/",
+            "display_url": "profi.ru/vacancies/CPO/",
+            "indices": [
+              86,
+              109
+            ]
+          },
+          {
+            "url": "https://t.co/REWAHMvV1O",
+            "expanded_url": "https://hh.ru/search/vacancy?st=searchVacancy&text=%22chief+product+officer%22+or+%22CPO%22&search_field=name&area=1&salary=&currency_code=RUR&experience=doesNotMatter&order_by=relevance&search_period=0&items_on_page=50&no_magic=true&L_save_area=true",
+            "display_url": "hh.ru/search/vacancy…",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327708691907420200,
+      "in_reply_to_status_id_str": "1327708691907420168",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 14 20:33:00 +0000 2020",
+      "id": 1327711150574870500,
+      "id_str": "1327711150574870531",
+      "full_text": "Андрей Дороничев из Google хорошо написал про ответственность на каждой позиции. В том числе за что отвечает директор https://t.co/5OkjAX3arD",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        141
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/5OkjAX3arD",
+            "expanded_url": "https://www.instagram.com/p/CGu5JUZJyGk/",
+            "display_url": "instagram.com/p/CGu5JUZJyGk/",
+            "indices": [
+              118,
+              141
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327710837553893400,
+      "in_reply_to_status_id_str": "1327710837553893378",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 14 20:41:01 +0000 2020",
+      "id": 1327713169289212000,
+      "id_str": "1327713169289211921",
+      "full_text": "Топовые позиции требуют высокой выносливости, страт. мышления, создание команд, которые быстро выполняют твои поручения, холодного разума и умения управлять эмоциями. За каждые +50% к зарплате вам потребуется +1 час работы в день. Важно понять, где остановиться. Слушайте себя.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327711150574870500,
+      "in_reply_to_status_id_str": "1327711150574870531",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 14 20:50:39 +0000 2020",
+      "id": 1327715591445155800,
+      "id_str": "1327715591445155841",
+      "full_text": "Путь к CPO сравним с концепцией \"Путешествие героя\" Воглера. Важно понимать кто ваши враги, кто наставник и какие серьезные испытания вам предстоит испытать. Герой должен идти сам. Фродо должен уничтожить кольцо самостоятельно. https://t.co/moC6bPjZAD",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        227
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1327715164075008000,
+            "id_str": "1327715164075008000",
+            "indices": [
+              228,
+              251
+            ],
+            "media_url": "http://pbs.twimg.com/media/Emz96D2XIAArSQn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Emz96D2XIAArSQn.jpg",
+            "url": "https://t.co/moC6bPjZAD",
+            "display_url": "pic.twitter.com/moC6bPjZAD",
+            "expanded_url": "https://twitter.com/produnderhood/status/1327715591445155841/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1327715164075008000,
+            "id_str": "1327715164075008000",
+            "indices": [
+              228,
+              251
+            ],
+            "media_url": "http://pbs.twimg.com/media/Emz96D2XIAArSQn.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Emz96D2XIAArSQn.jpg",
+            "url": "https://t.co/moC6bPjZAD",
+            "display_url": "pic.twitter.com/moC6bPjZAD",
+            "expanded_url": "https://twitter.com/produnderhood/status/1327715591445155841/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 720,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1327713169289212000,
+      "in_reply_to_status_id_str": "1327713169289211921",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 15 17:08:16 +0000 2020",
+      "id": 1328022013919850500,
+      "id_str": "1328022013919850497",
+      "full_text": "Воскресенье\nЧем старше вы становитесь тем все меньше событий влияют на ваше поведение и жизнь. В первую очередь, продолжают влиять инсайты (озарение, ага-эффект). \nПро эксперимента Шульца можно почитать в книге Андрея Курпатова \"Красная таблетка\".",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        247
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 15 17:08:54 +0000 2020",
+      "id": 1328022174502965200,
+      "id_str": "1328022174502965249",
+      "full_text": "Инсайт произойдет за минуту, но для этого внутри вашего мозга должны сойтись нейронные связи и внешние стимулы. Поэтому любопытство - лучший способ подготовки к инсайтам. Будьте любопытным к клиентам, коллегам, что происходит с конкурентами и смежными продуктами.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1328022013919850500,
+      "in_reply_to_status_id_str": "1328022013919850497",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 15 17:09:05 +0000 2020",
+      "id": 1328022222011830300,
+      "id_str": "1328022222011830278",
+      "full_text": "Какие инсайты были у меня:\n1. Справедливости, правды нет. Для продакта важна договоренность людей, поэтому и появилась история про product/market fit, product/channel fit.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        171
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1328022013919850500,
+      "in_reply_to_status_id_str": "1328022013919850497",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 15 17:09:33 +0000 2020",
+      "id": 1328022339540447200,
+      "id_str": "1328022339540447233",
+      "full_text": "2. Сильно помогает, если вы для решения проблемы используете подходы, работающие в кардинально других местах. Например, можно рассматривать свою жизнь как продукт, оценивая с помощью пирамиды метрик. Или как бы поступил Facebook/BMW/Tesla на месте нашей компании.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1328022222011830300,
+      "in_reply_to_status_id_str": "1328022222011830278",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 15 17:09:59 +0000 2020",
+      "id": 1328022449141801000,
+      "id_str": "1328022449141800960",
+      "full_text": "3. Хороший продукт не сделаешь в одиночку, поэтому важна команда. Регулярно вспоминаю теорию \"команды по Белбину\", \"групповую динамику\" и идеального руководителя Адизеса",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        169
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1328022339540447200,
+      "in_reply_to_status_id_str": "1328022339540447233",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 15 17:11:27 +0000 2020",
+      "id": 1328022816902541300,
+      "id_str": "1328022816902541313",
+      "full_text": "4. Большинство интересных решений находятся не в России. Я был на зарубежных конференциях по e-commerce/недвижимости. Все самое классное было на вечеринках. У меня сложилось ощущение, что к нам ближе страны восточной Европы и юго-восточной Азии.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        245
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1328022449141801000,
+      "in_reply_to_status_id_str": "1328022449141800960",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 15 17:12:08 +0000 2020",
+      "id": 1328022988478951400,
+      "id_str": "1328022988478951425",
+      "full_text": "5. Вас раздражает то поведение, которое часто свойственно вам самим. Я заметил, что меня расстраивает постоянные новые задачи. Грустно оказалось и моим подчиненных, которым я часто добавляю новых задач)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        202
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1328022816902541300,
+      "in_reply_to_status_id_str": "1328022816902541313",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 15 17:12:23 +0000 2020",
+      "id": 1328023049363480600,
+      "id_str": "1328023049363480578",
+      "full_text": "6. Крайне важно понимать как вам восстанавливаться и где ваши места силы. Мне помогает сон, плавание, помощь людям и задачи, где я создаю что-то гениальное (как сам считаю).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1328022988478951400,
+      "in_reply_to_status_id_str": "1328022988478951425",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 15 17:13:06 +0000 2020",
+      "id": 1328023229764612000,
+      "id_str": "1328023229764612099",
+      "full_text": "7. Изменений в компании стало сильно много, поэтому процесс адаптации в компании не прекращается никогда. Это значит, что мы все на испытательном сроке. К сожалению, расслабляться на работе нельзя, жизнь на автопилоте становиться невозможной :(",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        244
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1328023049363480600,
+      "in_reply_to_status_id_str": "1328023049363480578",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 15 17:14:38 +0000 2020",
+      "id": 1328023618211770400,
+      "id_str": "1328023618211770372",
+      "full_text": "8. Недавно мой коллега прислал мне ролик, чтобы меня подбодрить. Поэтому если у вас сейчас плохое настроение, вы считаете, что все потеряно и нет пути назад, то посмотрите его. https://t.co/0oMPDUlos1",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        200
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/0oMPDUlos1",
+            "expanded_url": "https://youtu.be/5j_CDA__spw",
+            "display_url": "youtu.be/5j_CDA__spw",
+            "indices": [
+              177,
+              200
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1328023229764612000,
+      "in_reply_to_status_id_str": "1328023229764612099",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 15 17:15:18 +0000 2020",
+      "id": 1328023783156961300,
+      "id_str": "1328023783156961287",
+      "full_text": "На этом моя неделя заканчивается. Если вам понравилось, то поставьте лайк этому посту)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        86
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1328023618211770400,
+      "in_reply_to_status_id_str": "1328023618211770372",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
