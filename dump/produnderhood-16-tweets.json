@@ -1,0 +1,2769 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Nov 16 11:55:09 +0000 2020",
+      "id": 1328305602821566500,
+      "id_str": "1328305602821566464",
+      "full_text": "Всем привет, на связи Сергей Козырев! Эту неделю буду показывать продуктовые будни в travel-стартапе https://t.co/ECJsFFbAyZ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        124
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ECJsFFbAyZ",
+            "expanded_url": "http://YouTravel.me",
+            "display_url": "YouTravel.me",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 16 12:15:04 +0000 2020",
+      "id": 1328310614930956300,
+      "id_str": "1328310614930956288",
+      "full_text": "@GoblinGame это самая интересная часть, расскажем 😅",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        51
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "GoblinGame",
+            "name": "Supremacy of Pure Feeling",
+            "id": 38142013,
+            "id_str": "38142013",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1328305998688292900,
+      "in_reply_to_status_id_str": "1328305998688292865",
+      "in_reply_to_user_id": 38142013,
+      "in_reply_to_user_id_str": "38142013",
+      "in_reply_to_screen_name": "GoblinGame",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 16 12:47:29 +0000 2020",
+      "id": 1328318775230423000,
+      "id_str": "1328318775230423040",
+      "full_text": "Мы в https://t.co/ECJsFFbAyZ помогаем гидам и путешественникам найти друг-друга, в итоге случается мэтч: авторский тур по необычным местам и маршрутам.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        151
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ECJsFFbAyZ",
+            "expanded_url": "http://YouTravel.me",
+            "display_url": "YouTravel.me",
+            "indices": [
+              5,
+              28
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 16 12:47:48 +0000 2020",
+      "id": 1328318856318898200,
+      "id_str": "1328318856318898176",
+      "full_text": "А я занимаюсь тем, чтобы этот мэтч происходил происходил гладко и радостно и чтобы после возвращения этот опыт захотелось бы повторить :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 16 17:23:05 +0000 2020",
+      "id": 1328388132706848800,
+      "id_str": "1328388132706848771",
+      "full_text": "Знакомимся 🥰 Ваш голос важен",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        28
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 16 18:01:12 +0000 2020",
+      "id": 1328397721947033600,
+      "id_str": "1328397721947033600",
+      "full_text": "Пнд - день груминга продукта и разработки в https://t.co/ECJsFFbAyZ. \nПредставьте: разработка может взять ещё одну задачу в спринт. Команда оценила задачи по всем количественным методикам, набрана одинаковая сумма баллов вплоть до сотой доли. Решение за вами. Что берём? 🎲",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ECJsFFbAyZ",
+            "expanded_url": "http://YouTravel.me",
+            "display_url": "YouTravel.me",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 16 19:06:26 +0000 2020",
+      "id": 1328414139518234600,
+      "id_str": "1328414139518234626",
+      "full_text": "Фраза из недавнего кастдева о причине бронирования туров на 2021 год (не в России): \"Не могу вторые майские праздники подряд провести дома\". \n\nА вы говорите ковид.\nКстати, завтра о нём и поговорим.\n\nPS. Всем спасибо за этот интро-день. 🙏",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        237
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 17 07:19:51 +0000 2020",
+      "id": 1328598710016745500,
+      "id_str": "1328598710016745472",
+      "full_text": "Каждая неделя в https://t.co/ECJsFFbAyZ - новый вызов для команды в целом и каждого сотрудника по отдельности. Тем более это вызов в текущей непростой ситуации, которой подверглась трэвел-индустрия. Каждый фокусируется на одном ключевом результате за неделю.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        258
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ECJsFFbAyZ",
+            "expanded_url": "http://YouTravel.me",
+            "display_url": "YouTravel.me",
+            "indices": [
+              16,
+              39
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 17 09:05:55 +0000 2020",
+      "id": 1328625401359454200,
+      "id_str": "1328625401359454209",
+      "full_text": "На этой неделе, например, проверяем гипотезу ценности направления индивидуальных туров (чем меньше размер группы путешественников - тем ниже риски и барьеры). Далее планируем проработать составление необычных маршрутов на заказ, без гида.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        238
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 17 10:19:18 +0000 2020",
+      "id": 1328643869941043200,
+      "id_str": "1328643869941043200",
+      "full_text": "Противостояние трэвела и пандемии: а вот тут мы рассказывали, о том, как пережили 1-ую волну и почему из всего этого родился новый продукт Beguide (образовательная платформа для трэвел-экспертов).\n\nhttps://t.co/jwQfNeTtoS",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        221
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/jwQfNeTtoS",
+            "expanded_url": "https://thinktraveltech.com/news/startup/youtravelme-beguide",
+            "display_url": "thinktraveltech.com/news/startup/y…",
+            "indices": [
+              198,
+              221
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 17 11:55:58 +0000 2020",
+      "id": 1328668198829482000,
+      "id_str": "1328668198829481987",
+      "full_text": "Со вчерашнего продуктового груминга:\n\n*обсуждаем MVP новой фичи*\nCTO: - Ребята, всё, что можно сделать руками, делаем руками.\nПродакт: - Прямо девиз Дзюбы какой-то...",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        166
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 45,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 17 15:16:46 +0000 2020",
+      "id": 1328718730424160300,
+      "id_str": "1328718730424160258",
+      "full_text": "https://t.co/2txKEgG1dY\nЧто делали в Airbnb в 2020:\n1. Фокус на локальный рынок бронирований\n2. Фокус на внутренний туризм\n3. Сокращение штата и бюджета\n\nВаш бизнес (или компания, в которой вы работаете) столкнулась с сокращениями в 2020?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        238
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/2txKEgG1dY",
+            "expanded_url": "https://vc.ru/offline/174368-chto-sdelala-airbnb-chtoby-perezhit-pandemiyu-i-chto-sobiraetsya-delat-dalshe",
+            "display_url": "vc.ru/offline/174368…",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 17 18:34:27 +0000 2020",
+      "id": 1328768478208200700,
+      "id_str": "1328768478208200704",
+      "full_text": "@dima_davay Неистово плюсую. Несколько таких случаев вижу.",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        58
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "dima_davay",
+            "name": "Kone-e-e-e-e-e-e-chno...",
+            "id": 901421939264192500,
+            "id_str": "901421939264192513",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1328733986609389600,
+      "in_reply_to_status_id_str": "1328733986609389571",
+      "in_reply_to_user_id": 901421939264192500,
+      "in_reply_to_user_id_str": "901421939264192513",
+      "in_reply_to_screen_name": "dima_davay",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 17 18:35:02 +0000 2020",
+      "id": 1328768625403170800,
+      "id_str": "1328768625403170816",
+      "full_text": "@jumb0jet А какая сфера деятельно компании, интересно?",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        54
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "jumb0jet",
+            "name": "Andrii Hrytsiuk",
+            "id": 2318884735,
+            "id_str": "2318884735",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1328725771616219100,
+      "in_reply_to_status_id_str": "1328725771616219137",
+      "in_reply_to_user_id": 2318884735,
+      "in_reply_to_user_id_str": "2318884735",
+      "in_reply_to_screen_name": "jumb0jet",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 17 18:50:32 +0000 2020",
+      "id": 1328772528370835500,
+      "id_str": "1328772528370835459",
+      "full_text": "Небольшой тест на оценку рандомного показателя. Как думаете, каков сегодня показатель активности российских путешественников внутри страны? \n10max, просьба без гугла. За границу сегодня индекс=2\nУчитывает историю брони авиабилетов, прогноз на 2020 год без пандемии и текущий спрос",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        280
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 17 19:37:15 +0000 2020",
+      "id": 1328784283192975400,
+      "id_str": "1328784283192975362",
+      "full_text": "По оценке известного агрегатора, на сегодня индекс активности путешественников по России = 8,8. Такое же значение было и в 1.01.2020. Праздники скоро, но и просадка 2-й волны видна.\n\nhttps://t.co/iqorfGKern\nПо ссылке можно приблизить, потыкать на некоторые пики, узнать новости https://t.co/BaQKXg8j9l https://t.co/YfC1mK58e6",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        301
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iqorfGKern",
+            "expanded_url": "https://index.aviasales.ru",
+            "display_url": "index.aviasales.ru",
+            "indices": [
+              183,
+              206
+            ]
+          },
+          {
+            "url": "https://t.co/BaQKXg8j9l",
+            "expanded_url": "https://twitter.com/produnderhood/status/1328772528370835459",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              278,
+              301
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1328782257088172000,
+            "id_str": "1328782257088172032",
+            "indices": [
+              302,
+              325
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnDIbDGVEAAWPju.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnDIbDGVEAAWPju.jpg",
+            "url": "https://t.co/YfC1mK58e6",
+            "display_url": "pic.twitter.com/YfC1mK58e6",
+            "expanded_url": "https://twitter.com/produnderhood/status/1328784283192975362/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1854,
+                "h": 761,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 493,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 279,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1328782257088172000,
+            "id_str": "1328782257088172032",
+            "indices": [
+              302,
+              325
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnDIbDGVEAAWPju.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnDIbDGVEAAWPju.jpg",
+            "url": "https://t.co/YfC1mK58e6",
+            "display_url": "pic.twitter.com/YfC1mK58e6",
+            "expanded_url": "https://twitter.com/produnderhood/status/1328784283192975362/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1854,
+                "h": 761,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 493,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 279,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1328772528370835500,
+      "quoted_status_id_str": "1328772528370835459",
+      "quoted_status_permalink": {
+        "url": "https://t.co/BaQKXg8j9l",
+        "expanded": "https://twitter.com/produnderhood/status/1328772528370835459",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Tue Nov 17 18:50:32 +0000 2020",
+        "id": 1328772528370835500,
+        "id_str": "1328772528370835459",
+        "full_text": "Небольшой тест на оценку рандомного показателя. Как думаете, каков сегодня показатель активности российских путешественников внутри страны? \n10max, просьба без гугла. За границу сегодня индекс=2\nУчитывает историю брони авиабилетов, прогноз на 2020 год без пандемии и текущий спрос",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          280
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 5,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Nov 17 20:01:44 +0000 2020",
+      "id": 1328790446127149000,
+      "id_str": "1328790446127149062",
+      "full_text": "Вспомнился тест на непредвзятость.\n10 вопросов. Вам нужно определить границы оценки, чтобы обеспечить 90% вероятности того, что правильный ответ будет в диапазоне.\n\nНашёл такой вариант, но вроде был и поудобнее:\nhttps://t.co/8Vu8navtGo",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        235
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/8Vu8navtGo",
+            "expanded_url": "https://www.abulat.ru/note/note_23.html",
+            "display_url": "abulat.ru/note/note_23.h…",
+            "indices": [
+              212,
+              235
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 18 09:29:43 +0000 2020",
+      "id": 1328993782780530700,
+      "id_str": "1328993782780530688",
+      "full_text": "Сегодня вместе СЕО Ольгой Бортниковой поговорим о первых впечатлениях от прохождения программы акселерации 500startups Georgia, куда совсем недавно пригласили https://t.co/ECJsFFbAyZ. Программа стартовала несколько дней назад.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        226
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/ECJsFFbAyZ",
+            "expanded_url": "http://YouTravel.me",
+            "display_url": "YouTravel.me",
+            "indices": [
+              159,
+              182
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 18 12:02:24 +0000 2020",
+      "id": 1329032204664664000,
+      "id_str": "1329032204664664064",
+      "full_text": "Сам по себе тот факт, что мы залетели на 500startups может намекать на то, что крест на трэвеле ставить рановато :) \nВпереди 4 недели хардкорного менторства с заданиями. Список затрагиваемых тем прилагаю. https://t.co/0Dm2VUdNFe",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        204
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1329031887692640300,
+            "id_str": "1329031887692640263",
+            "indices": [
+              205,
+              228
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnGrddkWMAcgRU7.png",
+            "media_url_https": "https://pbs.twimg.com/media/EnGrddkWMAcgRU7.png",
+            "url": "https://t.co/0Dm2VUdNFe",
+            "display_url": "pic.twitter.com/0Dm2VUdNFe",
+            "expanded_url": "https://twitter.com/produnderhood/status/1329032204664664064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 443,
+                "h": 736,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 409,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 443,
+                "h": 736,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1329031887692640300,
+            "id_str": "1329031887692640263",
+            "indices": [
+              205,
+              228
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnGrddkWMAcgRU7.png",
+            "media_url_https": "https://pbs.twimg.com/media/EnGrddkWMAcgRU7.png",
+            "url": "https://t.co/0Dm2VUdNFe",
+            "display_url": "pic.twitter.com/0Dm2VUdNFe",
+            "expanded_url": "https://twitter.com/produnderhood/status/1329032204664664064/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 443,
+                "h": 736,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 409,
+                "h": 680,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 443,
+                "h": 736,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 18 14:48:06 +0000 2020",
+      "id": 1329073904657154000,
+      "id_str": "1329073904657154049",
+      "full_text": "С менторами тоже повезло. Среди них Дэн, который запускал продукты в Microsoft и объездил 160+ стран!, Поэтому он мощнейше нам помогает инсайтами как с точки зрения продукта, так и глубоко разбираясь в теме путешествий.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        219
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Nov 18 15:39:19 +0000 2020",
+      "id": 1329086795691114500,
+      "id_str": "1329086795691114496",
+      "full_text": "Крутое отличие от российских акселераторов — открытые Mentors office hours, когда можно букить и проводить встречи с менторами каждый день. Планируем использовать возможность на максимум :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        189
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 10:34:15 +0000 2020",
+      "id": 1329372408579584000,
+      "id_str": "1329372408579584003",
+      "full_text": "CJM - сущность динамическая, т.е. не \"сделал и забыл\".\nСейчас у нас она выглядит так.\nСвои покажете? https://t.co/u9FKXG8e2Z",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        100
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1329372369769668600,
+            "id_str": "1329372369769668610",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnLhIIJXIAIe7xP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnLhIIJXIAIe7xP.jpg",
+            "url": "https://t.co/u9FKXG8e2Z",
+            "display_url": "pic.twitter.com/u9FKXG8e2Z",
+            "expanded_url": "https://twitter.com/produnderhood/status/1329372408579584003/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 625,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 354,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1367,
+                "h": 712,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1329372369769668600,
+            "id_str": "1329372369769668610",
+            "indices": [
+              101,
+              124
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnLhIIJXIAIe7xP.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnLhIIJXIAIe7xP.jpg",
+            "url": "https://t.co/u9FKXG8e2Z",
+            "display_url": "pic.twitter.com/u9FKXG8e2Z",
+            "expanded_url": "https://twitter.com/produnderhood/status/1329372408579584003/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 625,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 354,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 1367,
+                "h": 712,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 30,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 13:43:03 +0000 2020",
+      "id": 1329419923500769300,
+      "id_str": "1329419923500769281",
+      "full_text": "Выкатили MVP приложения. Решаем проблему отсутствия оперативной связи между экспертами в туре и клиентами c Большой Земли)\nНачалось с того, что мы пытались как-то ускорить ответ эксперта на заявку, в процессе чего ВНЕЗАПНО 😆узнали, что они постоянно в горах, джунглях, лесах etc",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        278
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 16:23:13 +0000 2020",
+      "id": 1329460228333637600,
+      "id_str": "1329460228333637633",
+      "full_text": "В колонках: цикл взаимодействия с продуктом (выбор, принятие решения, сравнение, заказ, подготовка, сам тур, возвращение, впечатления).\nВ строках: характеристики пользователя в каждом из циклов (действия, ожидания, триггеры, барьеры, эмоции, акторы влияющие на решения etc https://t.co/qAL5zkiJNO",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qAL5zkiJNO",
+            "expanded_url": "https://twitter.com/violet_galore/status/1329378415955374081",
+            "display_url": "twitter.com/violet_galore/…",
+            "indices": [
+              273,
+              296
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1329378415955374000,
+      "quoted_status_id_str": "1329378415955374081",
+      "quoted_status_permalink": {
+        "url": "https://t.co/qAL5zkiJNO",
+        "expanded": "https://twitter.com/violet_galore/status/1329378415955374081",
+        "display": "twitter.com/violet_galore/…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Nov 19 10:58:07 +0000 2020",
+        "id": 1329378415955374000,
+        "id_str": "1329378415955374081",
+        "full_text": "@produnderhood А можно увидеть названия строк и столбцов?",
+        "truncated": false,
+        "display_text_range": [
+          15,
+          57
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "produnderhood",
+              "name": "Менеджер продукта",
+              "id": 1094672152551399400,
+              "id_str": "1094672152551399424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1329372408579584000,
+        "in_reply_to_status_id_str": "1329372408579584003",
+        "in_reply_to_user_id": 1094672152551399400,
+        "in_reply_to_user_id_str": "1094672152551399424",
+        "in_reply_to_screen_name": "produnderhood",
+        "user": {
+          "id": 244874527,
+          "id_str": "244874527"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Nov 19 17:54:37 +0000 2020",
+      "id": 1329483232253980700,
+      "id_str": "1329483232253980672",
+      "full_text": "Эндиэй Эндиэевич не позволяет показать в другом масштабе 😐Посыл как раз-таки об этом — давайте меряться CJM’ами и количеством стикеров https://t.co/oVuFyIkbA5",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        134
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oVuFyIkbA5",
+            "expanded_url": "https://twitter.com/ilyadolzhenkov/status/1329458147019411460",
+            "display_url": "twitter.com/ilyadolzhenkov…",
+            "indices": [
+              135,
+              158
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1329458147019411500,
+      "quoted_status_id_str": "1329458147019411460",
+      "quoted_status_permalink": {
+        "url": "https://t.co/oVuFyIkbA5",
+        "expanded": "https://twitter.com/ilyadolzhenkov/status/1329458147019411460",
+        "display": "twitter.com/ilyadolzhenkov…"
+      },
+      "quoted_status": {
+        "created_at": "Thu Nov 19 16:14:57 +0000 2020",
+        "id": 1329458147019411500,
+        "id_str": "1329458147019411460",
+        "full_text": "@produnderhood Какой смысл ее в таком масштабе смотреть?) «Смотрите сколько стикеров?»",
+        "truncated": false,
+        "display_text_range": [
+          15,
+          86
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "produnderhood",
+              "name": "Менеджер продукта",
+              "id": 1094672152551399400,
+              "id_str": "1094672152551399424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1329372408579584000,
+        "in_reply_to_status_id_str": "1329372408579584003",
+        "in_reply_to_user_id": 1094672152551399400,
+        "in_reply_to_user_id_str": "1094672152551399424",
+        "in_reply_to_screen_name": "produnderhood",
+        "user": {
+          "id": 18241572,
+          "id_str": "18241572"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 7,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 09:38:50 +0000 2020",
+      "id": 1329720852724723700,
+      "id_str": "1329720852724723712",
+      "full_text": "Наша North Star Metric 💫- количество счастливых дней в путешествии. Сформулированная именно так, она позволяет все команде быть ориентированной на главную ценность для пользователся и каждому из коллег быть немного продактом.\nПоделитесь, может у вас тоже своя, \"кастомная\" NSM? https://t.co/TC3uLvNOnB",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1329720810110673000,
+            "id_str": "1329720810110672898",
+            "indices": [
+              278,
+              301
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnQeCBkXYAIqbL9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnQeCBkXYAIqbL9.jpg",
+            "url": "https://t.co/TC3uLvNOnB",
+            "display_url": "pic.twitter.com/TC3uLvNOnB",
+            "expanded_url": "https://twitter.com/produnderhood/status/1329720852724723712/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1052,
+                "h": 613,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1052,
+                "h": 613,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 396,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1329720810110673000,
+            "id_str": "1329720810110672898",
+            "indices": [
+              278,
+              301
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnQeCBkXYAIqbL9.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnQeCBkXYAIqbL9.jpg",
+            "url": "https://t.co/TC3uLvNOnB",
+            "display_url": "pic.twitter.com/TC3uLvNOnB",
+            "expanded_url": "https://twitter.com/produnderhood/status/1329720852724723712/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1052,
+                "h": 613,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1052,
+                "h": 613,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 396,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 12:07:52 +0000 2020",
+      "id": 1329758357884952600,
+      "id_str": "1329758357884952578",
+      "full_text": "@Kiryous (Кол-во броней * Среднее кол-во клиентов в брони - Недовольные клиенты ) * Длительность тура",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        101
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Kiryous",
+            "name": "Kirill Chernakov",
+            "id": 94811957,
+            "id_str": "94811957",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329744817992110000,
+      "in_reply_to_status_id_str": "1329744817992110081",
+      "in_reply_to_user_id": 94811957,
+      "in_reply_to_user_id_str": "94811957",
+      "in_reply_to_screen_name": "Kiryous",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 12:29:45 +0000 2020",
+      "id": 1329763864712458200,
+      "id_str": "1329763864712458241",
+      "full_text": "Видели профстандарт: 06.012 Менеджер продуктов в области информационных технологий? Совсем недавно узнал про этот документ, утверждённый в 2014 году.\n\nhttps://t.co/obK7tuk2KW\n\nИз необходимых умений: убеждать собеседника, ставить задачи.\nУ вас так в трудовой книжке записано?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        274
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/obK7tuk2KW",
+            "expanded_url": "https://classinform.ru/profstandarty/06.012-menedzher-produktov-v-oblasti-informatcionnykh-tekhnologii.html",
+            "display_url": "classinform.ru/profstandarty/…",
+            "indices": [
+              151,
+              174
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 14:44:16 +0000 2020",
+      "id": 1329797714561953800,
+      "id_str": "1329797714561953794",
+      "full_text": "Вчера наш коллега и один из основателей впервые за долгое время посетил ОФФЛАЙН 😢 IT-митап в Красной Поляне\n👑🖕\nНу мы немного позавидовали, а он принёс кучу инсайтов. Теперь готовимся к росту \"икс 3\" https://t.co/ZJoUT4WMWR",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        198
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1329797279402905600,
+            "id_str": "1329797279402905600",
+            "indices": [
+              199,
+              222
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnRjlH4XUAA4S7p.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnRjlH4XUAA4S7p.jpg",
+            "url": "https://t.co/ZJoUT4WMWR",
+            "display_url": "pic.twitter.com/ZJoUT4WMWR",
+            "expanded_url": "https://twitter.com/produnderhood/status/1329797714561953794/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1280,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1329797279402905600,
+            "id_str": "1329797279402905600",
+            "indices": [
+              199,
+              222
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnRjlH4XUAA4S7p.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnRjlH4XUAA4S7p.jpg",
+            "url": "https://t.co/ZJoUT4WMWR",
+            "display_url": "pic.twitter.com/ZJoUT4WMWR",
+            "expanded_url": "https://twitter.com/produnderhood/status/1329797714561953794/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1280,
+                "h": 960,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 680,
+                "h": 510,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1200,
+                "h": 900,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 14,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 17:42:46 +0000 2020",
+      "id": 1329842634739896300,
+      "id_str": "1329842634739896324",
+      "full_text": "* в трэвеле в 2020-м https://t.co/BsnEfBPJSS",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        20
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1329842493354086400,
+            "id_str": "1329842493354086400",
+            "indices": [
+              21,
+              44
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnSMs6-XEAA2dm3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnSMs6-XEAA2dm3.jpg",
+            "url": "https://t.co/BsnEfBPJSS",
+            "display_url": "pic.twitter.com/BsnEfBPJSS",
+            "expanded_url": "https://twitter.com/produnderhood/status/1329842634739896324/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 600,
+                "h": 370,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 370,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 370,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1329842493354086400,
+            "id_str": "1329842493354086400",
+            "indices": [
+              21,
+              44
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnSMs6-XEAA2dm3.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnSMs6-XEAA2dm3.jpg",
+            "url": "https://t.co/BsnEfBPJSS",
+            "display_url": "pic.twitter.com/BsnEfBPJSS",
+            "expanded_url": "https://twitter.com/produnderhood/status/1329842634739896324/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 600,
+                "h": 370,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 600,
+                "h": 370,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 600,
+                "h": 370,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 52,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 17:54:27 +0000 2020",
+      "id": 1329845577849458700,
+      "id_str": "1329845577849458690",
+      "full_text": "@OnlyMadCat Заболевших принципами роста \"икс 3\"",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        47
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "OnlyMadCat",
+            "name": "Cyanide and Masha",
+            "id": 137271827,
+            "id_str": "137271827",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329837078205636600,
+      "in_reply_to_status_id_str": "1329837078205636610",
+      "in_reply_to_user_id": 137271827,
+      "in_reply_to_user_id_str": "137271827",
+      "in_reply_to_screen_name": "OnlyMadCat",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Nov 20 18:06:21 +0000 2020",
+      "id": 1329848571353567200,
+      "id_str": "1329848571353567234",
+      "full_text": "@Kiryous Количественно: через NPS + оценку путешествия (функционал на платформе) + логи команды, работающей с клиентами.\n\nЗвоним в случаях, когда нужно узнать причину той или иной оценки.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        187
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Kiryous",
+            "name": "Kirill Chernakov",
+            "id": 94811957,
+            "id_str": "94811957",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1329762952086511600,
+      "in_reply_to_status_id_str": "1329762952086511616",
+      "in_reply_to_user_id": 94811957,
+      "in_reply_to_user_id_str": "94811957",
+      "in_reply_to_screen_name": "Kiryous",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 21 13:08:57 +0000 2020",
+      "id": 1330136116985520000,
+      "id_str": "1330136116985520130",
+      "full_text": "О том, как выстраивали процессы удалённой работы https://t.co/oHasQWzw6Q",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        72
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/oHasQWzw6Q",
+            "expanded_url": "https://vc.ru/hr/96623-kak-my-vystroili-rabotu-udalennoy-komandy-v-startape",
+            "display_url": "vc.ru/hr/96623-kak-m…",
+            "indices": [
+              49,
+              72
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 32,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Nov 21 15:00:14 +0000 2020",
+      "id": 1330164122361729000,
+      "id_str": "1330164122361729024",
+      "full_text": "Сегодня обнаружили одну из причин, по которой клиент отменил бронь, сам того не желая\n(Цвет кнопки «да»)\nОй 🙊 https://t.co/F9roCUKBE5",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        109
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1330164116519051300,
+            "id_str": "1330164116519051265",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnWxN2oW4AEXJ30.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnWxN2oW4AEXJ30.jpg",
+            "url": "https://t.co/F9roCUKBE5",
+            "display_url": "pic.twitter.com/F9roCUKBE5",
+            "expanded_url": "https://twitter.com/produnderhood/status/1330164122361729024/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 422,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 422,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1330164116519051300,
+            "id_str": "1330164116519051265",
+            "indices": [
+              110,
+              133
+            ],
+            "media_url": "http://pbs.twimg.com/media/EnWxN2oW4AEXJ30.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EnWxN2oW4AEXJ30.jpg",
+            "url": "https://t.co/F9roCUKBE5",
+            "display_url": "pic.twitter.com/F9roCUKBE5",
+            "expanded_url": "https://twitter.com/produnderhood/status/1330164122361729024/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "large": {
+                "w": 1024,
+                "h": 422,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 280,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 1024,
+                "h": 422,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1330136116985520000,
+      "in_reply_to_status_id_str": "1330136116985520130",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 22,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 22 10:13:30 +0000 2020",
+      "id": 1330454349139603500,
+      "id_str": "1330454349139603456",
+      "full_text": "Один из верных способов найти инсайды для роста — выйти на передовую и общаться с клиентами напрямую. Как часто это делаете?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        124
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 22 13:20:25 +0000 2020",
+      "id": 1330501389185933300,
+      "id_str": "1330501389185933313",
+      "full_text": "Конструктивная конфронтация: как решать конфликты по схемам https://t.co/aqDPJk1Cbw",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/aqDPJk1Cbw",
+            "expanded_url": "https://vimeo.com/113491321",
+            "display_url": "vimeo.com/113491321",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 22 16:19:02 +0000 2020",
+      "id": 1330546338338107400,
+      "id_str": "1330546338338107393",
+      "full_text": "Классический пример быстрого прототипирования: как создать и протестировать прототип Google Glass за 1 день. В ход пошли вешалка, резинки для  волос, палочки для еды.\nhttps://t.co/7uRFs1jhL1",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        190
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/7uRFs1jhL1",
+            "expanded_url": "https://www.youtube.com/watch?v=d5_h1VuwD6g",
+            "display_url": "youtube.com/watch?v=d5_h1V…",
+            "indices": [
+              167,
+              190
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 22 21:03:32 +0000 2020",
+      "id": 1330617937628164000,
+      "id_str": "1330617937628164096",
+      "full_text": "Продуктовый кейс от лица клиента. Пользуюсь такой штукой, которая при манупулировании руками позволяет создавать звуки/ритмы и работает в связке с любым музыкальным софтом (aka контроллер/семплер). Главные функции выполняет отлично. Но как же БОМБИТ от расположения кабеля https://t.co/1jCouhoc9J",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        272
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [],
+        "media": [
+          {
+            "id": 1330617638217773000,
+            "id_str": "1330617638217773057",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/EndNsSnW8AEPCVR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EndNsSnW8AEPCVR.jpg",
+            "url": "https://t.co/1jCouhoc9J",
+            "display_url": "pic.twitter.com/1jCouhoc9J",
+            "expanded_url": "https://twitter.com/produnderhood/status/1330617937628164096/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 1280,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1330617638217773000,
+            "id_str": "1330617638217773057",
+            "indices": [
+              273,
+              296
+            ],
+            "media_url": "http://pbs.twimg.com/media/EndNsSnW8AEPCVR.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EndNsSnW8AEPCVR.jpg",
+            "url": "https://t.co/1jCouhoc9J",
+            "display_url": "pic.twitter.com/1jCouhoc9J",
+            "expanded_url": "https://twitter.com/produnderhood/status/1330617937628164096/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 1280,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 22 21:04:58 +0000 2020",
+      "id": 1330618296136298500,
+      "id_str": "1330618296136298497",
+      "full_text": "Разъём сверху огромен и в домашних условиях упирается во всё. Из-за этого кабель быстро снашивается: трётся об монитор, клавиатуру etc). А если подвинуть ближе, то часть висит в воздухе, что также неудобно. В следующих моделях домашней линейки разъём перенесли на правую панель 🙏 https://t.co/dvj6BtUMBT https://t.co/u95xh5QbI9",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        303
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dvj6BtUMBT",
+            "expanded_url": "https://twitter.com/produnderhood/status/1330617937628164096",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              280,
+              303
+            ]
+          }
+        ],
+        "media": [
+          {
+            "id": 1330618185800970200,
+            "id_str": "1330618185800970246",
+            "indices": [
+              304,
+              327
+            ],
+            "media_url": "http://pbs.twimg.com/media/EndOMKhXcAYHpUx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EndOMKhXcAYHpUx.jpg",
+            "url": "https://t.co/u95xh5QbI9",
+            "display_url": "pic.twitter.com/u95xh5QbI9",
+            "expanded_url": "https://twitter.com/produnderhood/status/1330618296136298497/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 1280,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1330618185800970200,
+            "id_str": "1330618185800970246",
+            "indices": [
+              304,
+              327
+            ],
+            "media_url": "http://pbs.twimg.com/media/EndOMKhXcAYHpUx.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EndOMKhXcAYHpUx.jpg",
+            "url": "https://t.co/u95xh5QbI9",
+            "display_url": "pic.twitter.com/u95xh5QbI9",
+            "expanded_url": "https://twitter.com/produnderhood/status/1330618296136298497/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 510,
+                "h": 680,
+                "resize": "fit"
+              },
+              "medium": {
+                "w": 900,
+                "h": 1200,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 960,
+                "h": 1280,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1330617937628164000,
+      "quoted_status_id_str": "1330617937628164096",
+      "quoted_status_permalink": {
+        "url": "https://t.co/dvj6BtUMBT",
+        "expanded": "https://twitter.com/produnderhood/status/1330617937628164096",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Sun Nov 22 21:03:32 +0000 2020",
+        "id": 1330617937628164000,
+        "id_str": "1330617937628164096",
+        "full_text": "Продуктовый кейс от лица клиента. Пользуюсь такой штукой, которая при манупулировании руками позволяет создавать звуки/ритмы и работает в связке с любым музыкальным софтом (aka контроллер/семплер). Главные функции выполняет отлично. Но как же БОМБИТ от расположения кабеля https://t.co/1jCouhoc9J",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          272
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1330617638217773000,
+              "id_str": "1330617638217773057",
+              "indices": [
+                273,
+                296
+              ],
+              "media_url": "http://pbs.twimg.com/media/EndNsSnW8AEPCVR.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EndNsSnW8AEPCVR.jpg",
+              "url": "https://t.co/1jCouhoc9J",
+              "display_url": "pic.twitter.com/1jCouhoc9J",
+              "expanded_url": "https://twitter.com/produnderhood/status/1330617937628164096/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 900,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 960,
+                  "h": 1280,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1330617638217773000,
+              "id_str": "1330617638217773057",
+              "indices": [
+                273,
+                296
+              ],
+              "media_url": "http://pbs.twimg.com/media/EndNsSnW8AEPCVR.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/EndNsSnW8AEPCVR.jpg",
+              "url": "https://t.co/1jCouhoc9J",
+              "display_url": "pic.twitter.com/1jCouhoc9J",
+              "expanded_url": "https://twitter.com/produnderhood/status/1330617937628164096/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "medium": {
+                  "w": 900,
+                  "h": 1200,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 960,
+                  "h": 1280,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Nov 22 21:52:01 +0000 2020",
+      "id": 1330630138678177800,
+      "id_str": "1330630138678177796",
+      "full_text": "Спасибо за компанию! Передаю микрофон следующему оратору.\nРазвития всем профессионального и личного.\n\nPS. Если что-то из этой недели вам было интересно, полезно или просто по фану - ставьте класс этому посту :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        210
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Nov 23 00:57:47 +0000 2020",
+      "id": 1330676886721220600,
+      "id_str": "1330676886721220608",
+      "full_text": "@nickensoul На входе у них нестандартный разъём (не USB), угловые кабели они стали с ним выпускать чуть позже\n\nНоутбук в случае подобной работы не всегда удобен имхо. Нужен большой экран для отображения всех этих аудиодорожек (см интерфейс Аблетона например). Если в студии пишешь - тем более",
+      "truncated": false,
+      "display_text_range": [
+        12,
+        292
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "nickensoul",
+            "name": "nickensoul",
+            "id": 421018653,
+            "id_str": "421018653",
+            "indices": [
+              0,
+              11
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1330640229162692600,
+      "in_reply_to_status_id_str": "1330640229162692609",
+      "in_reply_to_user_id": 421018653,
+      "in_reply_to_user_id_str": "421018653",
+      "in_reply_to_screen_name": "nickensoul",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
