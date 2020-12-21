@@ -1,0 +1,180 @@
+{
+  "id": 1094672152551399400,
+  "id_str": "1094672152551399424",
+  "name": "Менеджер продукта",
+  "screen_name": "produnderhood",
+  "location": "",
+  "profile_location": null,
+  "description": "Коллективный твиттер продакт-менеджеров. На этой неделе с вами Артем Бородин, Co-founder & CPO в Standuply",
+  "url": "https://t.co/ZBuMoqvVPq",
+  "entities": {
+    "url": {
+      "urls": [
+        {
+          "url": "https://t.co/ZBuMoqvVPq",
+          "expanded_url": "https://standuply.com",
+          "display_url": "standuply.com",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description": {
+      "urls": []
+    }
+  },
+  "protected": false,
+  "followers_count": 5704,
+  "friends_count": 2,
+  "listed_count": 42,
+  "created_at": "Sun Feb 10 18:59:13 +0000 2019",
+  "favourites_count": 1263,
+  "utc_offset": null,
+  "time_zone": null,
+  "geo_enabled": true,
+  "verified": false,
+  "statuses_count": 9064,
+  "lang": null,
+  "status": {
+    "created_at": "Sun Dec 20 12:13:12 +0000 2020",
+    "id": 1340631336344838100,
+    "id_str": "1340631336344838145",
+    "text": "Всем пока :) Будут вопросы, можно тут - https://t.co/19TVXyLGgX https://t.co/Pl6PELHeQC",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/19TVXyLGgX",
+          "expanded_url": "http://standuply.com/ask/artem",
+          "display_url": "standuply.com/ask/artem",
+          "indices": [
+            40,
+            63
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1340631106505289700,
+          "id_str": "1340631106505289728",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eprg424WMAALVme.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eprg424WMAALVme.jpg",
+          "url": "https://t.co/Pl6PELHeQC",
+          "display_url": "pic.twitter.com/Pl6PELHeQC",
+          "expanded_url": "https://twitter.com/produnderhood/status/1340631336344838145/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 715,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 237,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 419,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1340631106505289700,
+          "id_str": "1340631106505289728",
+          "indices": [
+            64,
+            87
+          ],
+          "media_url": "http://pbs.twimg.com/media/Eprg424WMAALVme.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Eprg424WMAALVme.jpg",
+          "url": "https://t.co/Pl6PELHeQC",
+          "display_url": "pic.twitter.com/Pl6PELHeQC",
+          "expanded_url": "https://twitter.com/produnderhood/status/1340631336344838145/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 2048,
+              "h": 715,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 237,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 419,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1340631328769925000,
+    "in_reply_to_status_id_str": "1340631328769925121",
+    "in_reply_to_user_id": 1094672152551399400,
+    "in_reply_to_user_id_str": "1094672152551399424",
+    "in_reply_to_screen_name": "produnderhood",
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "ru"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "000000",
+  "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+  "profile_background_tile": false,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/1338339610997518338/ybKWZ1Jn_normal.jpg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/1338339610997518338/ybKWZ1Jn_normal.jpg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/1094672152551399424/1607920004",
+  "profile_link_color": "1B95E0",
+  "profile_sidebar_border_color": "000000",
+  "profile_sidebar_fill_color": "000000",
+  "profile_text_color": "000000",
+  "profile_use_background_image": false,
+  "has_extended_profile": false,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "translator_type": "none"
+}
