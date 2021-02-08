@@ -1,0 +1,3218 @@
+{
+  "tweets": [
+    {
+      "created_at": "Mon Feb 01 05:43:46 +0000 2021",
+      "id": 1356116010248536000,
+      "id_str": "1356116010248536067",
+      "full_text": "Привет, я Аня. Честно расскажу о своём опыте саббатикла. Будет полезно тем, у кого сейчас разваливается примерно всё :)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        119
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "favorite_count": 116,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 05:43:47 +0000 2021",
+      "id": 1356116011003510800,
+      "id_str": "1356116011003510786",
+      "full_text": "На этой неделе на моём личном примере постараемся понять «куда приводит тотальная честность с собой и следование своим истинным желаниям?» Мне бы хотелось, чтобы на выходе те, кто проживают сейчас сложные времена почувствовали поддержку и немного выдохнули.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        257
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356116010248536000,
+      "in_reply_to_status_id_str": "1356116010248536067",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 37,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 05:43:47 +0000 2021",
+      "id": 1356116012349804500,
+      "id_str": "1356116012349804545",
+      "full_text": "Так как это рефлексия, то конкретного расписания не будет. Я буду делиться своими переживаниями, выводами и инсайтами.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        118
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356116011003510800,
+      "in_reply_to_status_id_str": "1356116011003510786",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 06:56:41 +0000 2021",
+      "id": 1356134360076832800,
+      "id_str": "1356134360076832768",
+      "full_text": "Мой саббатикал начался с эмоционально сложного расставания с blockshow. Я просто не могла больше работать с текущим CEO. Мы договорились с инвестором, что я ухожу отдыхать на неопределенное время, а потом мы подумаем, что делать дальше.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        236
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 06:56:42 +0000 2021",
+      "id": 1356134360991158300,
+      "id_str": "1356134360991158272",
+      "full_text": "Тут же появились новые предложения с понтовыми должностями, релокейтами, классными командировками и всякими плюшками.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        117
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356134360076832800,
+      "in_reply_to_status_id_str": "1356134360076832768",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 06:56:42 +0000 2021",
+      "id": 1356134362077511700,
+      "id_str": "1356134362077511680",
+      "full_text": "Честно, мне было страшно остаться без работы и денег. Особенно учитывая, что долгое время деньги были единственной моей опорой и я не могла себе представить жизнь без работы.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        174
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356134360991158300,
+      "in_reply_to_status_id_str": "1356134360991158272",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 06:56:42 +0000 2021",
+      "id": 1356134362996121600,
+      "id_str": "1356134362996121601",
+      "full_text": "Но я не была готова. Для меня принятие любого из тех предложений было бы из страха и желания показать, что все у меня ок. А было мягко говоря не ок.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        148
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356134362077511700,
+      "in_reply_to_status_id_str": "1356134362077511680",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 06:56:43 +0000 2021",
+      "id": 1356134364883480600,
+      "id_str": "1356134364883480579",
+      "full_text": "А как у вас с принятием решений?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        32
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356134362996121600,
+      "in_reply_to_status_id_str": "1356134362996121601",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 07:30:56 +0000 2021",
+      "id": 1356142978515918800,
+      "id_str": "1356142978515918848",
+      "full_text": "@aarexer Ой, я тоже. Сейчас подумала и поняла, что сильно от контекста зависит. Например, мне вот хочется рассказать про свой опыт, но есть страх осуждения. В итоге почти ничего не пишу в свои социалки. Ну вот как-то удачно нашёлся такой выход. Спасибо @igrekde за возможность)",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        277
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "aarexer",
+            "name": "Александр Кучук",
+            "id": 3834020309,
+            "id_str": "3834020309",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "igrekde",
+            "name": "Egor Tolstoy",
+            "id": 181697598,
+            "id_str": "181697598",
+            "indices": [
+              253,
+              261
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356134696657309700,
+      "in_reply_to_status_id_str": "1356134696657309696",
+      "in_reply_to_user_id": 3834020309,
+      "in_reply_to_user_id_str": "3834020309",
+      "in_reply_to_screen_name": "aarexer",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 07:55:37 +0000 2021",
+      "id": 1356149190296932400,
+      "id_str": "1356149190296932352",
+      "full_text": "Ещё один организационный момент: я живу в Сиэтле (-11 часов от Москвы). Твиты будут появляться вашим утром и вечером. Ну все, пошла спать, напишу вам в будущее завтра своим утром)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        179
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356116012349804500,
+      "in_reply_to_status_id_str": "1356116012349804545",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 11,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 17:47:43 +0000 2021",
+      "id": 1356298197413449700,
+      "id_str": "1356298197413449729",
+      "full_text": "@ljtarkon Спасибо за поддержку 🙏🏻 Выгорание у меня случилось на несколько месяцев раньше. Сейчас напишу об этом.",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        112
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ljtarkon",
+            "name": "Tark",
+            "id": 172992415,
+            "id_str": "172992415",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356153526494363600,
+      "in_reply_to_status_id_str": "1356153526494363649",
+      "in_reply_to_user_id": 172992415,
+      "in_reply_to_user_id_str": "172992415",
+      "in_reply_to_screen_name": "ljtarkon",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 18:01:23 +0000 2021",
+      "id": 1356301634683371500,
+      "id_str": "1356301634683371521",
+      "full_text": "Вот это очень интересный ответ. Да, когда выгораешь, делать ничего не можешь. И тут мы подходим к ключевому моменту. Мое выгорание случилось за 9 месяцев до саббатикла. Не первое в жизни. Я уже знала, что смена проекта/компании не работает. https://t.co/xjWppgALaQ",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        240
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xjWppgALaQ",
+            "expanded_url": "https://twitter.com/pavel_ivanovsky/status/1356156456811323394",
+            "display_url": "twitter.com/pavel_ivanovsk…",
+            "indices": [
+              241,
+              264
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1356156456811323400,
+      "quoted_status_id_str": "1356156456811323394",
+      "quoted_status_permalink": {
+        "url": "https://t.co/xjWppgALaQ",
+        "expanded": "https://twitter.com/pavel_ivanovsky/status/1356156456811323394",
+        "display": "twitter.com/pavel_ivanovsk…"
+      },
+      "quoted_status": {
+        "created_at": "Mon Feb 01 08:24:30 +0000 2021",
+        "id": 1356156456811323400,
+        "id_str": "1356156456811323394",
+        "full_text": "@produnderhood Аня, \"тотальная честность с собой и следование своим истинным желаниям\" - это про состояние/мотив решения о саббатикале? sorry, разве при выгорании эти прекрасные вещи не умирают (на время)? ты больше ничего не чувствуешь и ничего не хочешь. ты как пепел, ничего не осталось",
+        "truncated": false,
+        "display_text_range": [
+          15,
+          289
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "produnderhood",
+              "name": "Менеджер продукта",
+              "id": 1094672152551399400,
+              "id_str": "1094672152551399424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1356116011003510800,
+        "in_reply_to_status_id_str": "1356116011003510786",
+        "in_reply_to_user_id": 1094672152551399400,
+        "in_reply_to_user_id_str": "1094672152551399424",
+        "in_reply_to_screen_name": "produnderhood",
+        "user": {
+          "id": 829913843480588300,
+          "id_str": "829913843480588288"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 18:01:23 +0000 2021",
+      "id": 1356301636285640700,
+      "id_str": "1356301636285640712",
+      "full_text": "В то время я не особо понимала, зачем мне вообще просыпаться по утрам. Внешне было все круто, внутри было ощущение, что я не живу. Я не знаю как, но собралась с силами и нашла психотерапевта.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        191
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356301634683371500,
+      "in_reply_to_status_id_str": "1356301634683371521",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 18:01:23 +0000 2021",
+      "id": 1356301637367648300,
+      "id_str": "1356301637367648259",
+      "full_text": "Помню свой страх: «а вдруг психотерапевт не подойдёт». Это была какая-то последняя надежда.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        91
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356301636285640700,
+      "in_reply_to_status_id_str": "1356301636285640712",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 18:01:24 +0000 2021",
+      "id": 1356301638391132200,
+      "id_str": "1356301638391132160",
+      "full_text": "Мне очень повезло с психотерапевтом с первого раза. Решение пойти в терапию было самым лучшим в моей жизни. К моменту начала саббатикла я уже приняла и полюбила себя и могла опираться на себя.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        192
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356301637367648300,
+      "in_reply_to_status_id_str": "1356301637367648259",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 18:01:24 +0000 2021",
+      "id": 1356301639389380600,
+      "id_str": "1356301639389380608",
+      "full_text": "Уходила из blockshow, потому что как раньше уже не могла. В саббатикал, потому что по новому ещё не научилась.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        110
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356301638391132200,
+      "in_reply_to_status_id_str": "1356301638391132160",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 18:02:44 +0000 2021",
+      "id": 1356301975248228400,
+      "id_str": "1356301975248228352",
+      "full_text": "@pavel_ivanovsky Спасибо за вопрос, написала отдельный тред по теме)",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        68
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pavel_ivanovsky",
+            "name": "Pavel Ivanovsky",
+            "id": 829913843480588300,
+            "id_str": "829913843480588288",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356156456811323400,
+      "in_reply_to_status_id_str": "1356156456811323394",
+      "in_reply_to_user_id": 829913843480588300,
+      "in_reply_to_user_id_str": "829913843480588288",
+      "in_reply_to_screen_name": "pavel_ivanovsky",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 18:34:01 +0000 2021",
+      "id": 1356309847931699200,
+      "id_str": "1356309847931699200",
+      "full_text": "Тред непрошенных советов",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        24
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "favorite_count": 17,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 18:34:01 +0000 2021",
+      "id": 1356309848745336800,
+      "id_str": "1356309848745336832",
+      "full_text": "Чтобы не ходить в выгорания: составьте список того, что вам даёт энергию и того, что её отнимает. Наполняйте свою жизнь вещами из первого списка и сокращайте второй. Исследуйте себя, пробуйте новое. Смотрите как вам.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        216
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356309847931699200,
+      "in_reply_to_status_id_str": "1356309847931699200",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 67,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 18:47:02 +0000 2021",
+      "id": 1356313126040293400,
+      "id_str": "1356313126040293376",
+      "full_text": "@terbiyarchitect Очень круто! Спасибо, что поделились 🙏🏻",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        56
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "terbiyarchitect",
+            "name": "terbiyarchitect",
+            "id": 219059640,
+            "id_str": "219059640",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356312640642044000,
+      "in_reply_to_status_id_str": "1356312640642043909",
+      "in_reply_to_user_id": 219059640,
+      "in_reply_to_user_id_str": "219059640",
+      "in_reply_to_screen_name": "terbiyarchitect",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Mon Feb 01 20:36:42 +0000 2021",
+      "id": 1356340724543807500,
+      "id_str": "1356340724543807488",
+      "full_text": "@zloihuy @ke1e6 А что именно отнимает энергию в работе? Среда, компания, профессия?",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        83
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zloihuy",
+            "name": "без негатива",
+            "id": 69195612,
+            "id_str": "69195612",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "ke1e6",
+            "name": "каджит дома",
+            "id": 203480897,
+            "id_str": "203480897",
+            "indices": [
+              9,
+              15
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356338043322572800,
+      "in_reply_to_status_id_str": "1356338043322572805",
+      "in_reply_to_user_id": 69195612,
+      "in_reply_to_user_id_str": "69195612",
+      "in_reply_to_screen_name": "zloihuy",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 06:19:04 +0000 2021",
+      "id": 1356487280744042500,
+      "id_str": "1356487280744042497",
+      "full_text": "10 января было непривычно, что на работу идти не надо. Мне казалось, что я уже достаточно отдохнула и нужно скорее что-то делать. Психотерапевт направляющими вопросами помог понять, что я тревожусь и боюсь.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        206
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 12,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 06:19:05 +0000 2021",
+      "id": 1356487282530766800,
+      "id_str": "1356487282530766852",
+      "full_text": "Мне казалось, что я теряю контроль. Я начала трекать все, что могу: финансы, шаги, калории и тд. Наняла себе коуча по привычкам.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        128
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356487280744042500,
+      "in_reply_to_status_id_str": "1356487280744042497",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 06:19:05 +0000 2021",
+      "id": 1356487283436753000,
+      "id_str": "1356487283436752898",
+      "full_text": "К третей неделе января я поняла, что не могу расслабиться в Питере и решила съездить в полноценный отпуск.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        106
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356487282530766800,
+      "in_reply_to_status_id_str": "1356487282530766852",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 06:19:05 +0000 2021",
+      "id": 1356487284363726800,
+      "id_str": "1356487284363726848",
+      "full_text": "Через несколько дней оказалась в Исландии и осуществила своё желание: я увидела северное сияние. Почувствовала волшебство)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        122
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356487283436753000,
+      "in_reply_to_status_id_str": "1356487283436752898",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 06:19:05 +0000 2021",
+      "id": 1356487285278077000,
+      "id_str": "1356487285278076928",
+      "full_text": "После поездки мы расстались с инвестором и остальной саббатикал был за мой счёт. Очень себе благодарна за сбережения:)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        118
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356487284363726800,
+      "in_reply_to_status_id_str": "1356487284363726848",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 06:19:06 +0000 2021",
+      "id": 1356487286234378200,
+      "id_str": "1356487286234378240",
+      "full_text": "Рассталась с кочуем по привычкам и начала работать с карьерным консультантом. Вступила в карьерный клуб Ольги Лермонтовой (рекомендую его очень).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        145
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356487285278077000,
+      "in_reply_to_status_id_str": "1356487285278076928",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 5,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 06:19:06 +0000 2021",
+      "id": 1356487287404515300,
+      "id_str": "1356487287404515329",
+      "full_text": "Оставалась одна загвоздка: я все никак не могла понять, чего хочу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        66
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356487286234378200,
+      "in_reply_to_status_id_str": "1356487286234378240",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 06:19:06 +0000 2021",
+      "id": 1356487288453095400,
+      "id_str": "1356487288453095426",
+      "full_text": "Случился ковид и многие компании приостановили найм. Я решила притормозить с работой до апреля. Ещё одно классное решение.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        122
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356487287404515300,
+      "in_reply_to_status_id_str": "1356487287404515329",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 06:19:06 +0000 2021",
+      "id": 1356487289409392600,
+      "id_str": "1356487289409392641",
+      "full_text": "Случился какой-то новый более глубокий уровень в терапии. Я узнавала себя все больше и избавлялась от старых установок. Сильно помогал карьерный клуб и окружение.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        162
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356487288453095400,
+      "in_reply_to_status_id_str": "1356487288453095426",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 06:46:13 +0000 2021",
+      "id": 1356494113059692500,
+      "id_str": "1356494113059692545",
+      "full_text": "Я знала как хочу жить, что чувствовать, но не понимала как туда прийти. И сейчас я понимаю, что не знать весь маршрут – это ок. Когда есть направление, все сложится.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        165
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356487289409392600,
+      "in_reply_to_status_id_str": "1356487289409392641",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 9,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 07:01:26 +0000 2021",
+      "id": 1356497943193284600,
+      "id_str": "1356497943193284612",
+      "full_text": "В апреле менторила стартапы «со смыслами». Это когда твой бизнес – продолжение твоих смыслов. Вот тут подробнее: https://t.co/90DNs8cw9i",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        136
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/90DNs8cw9i",
+            "expanded_url": "https://www.instagram.com/p/CAkx9TcKfbX/?igshid=6q05adevj7o8",
+            "display_url": "instagram.com/p/CAkx9TcKfbX/…",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356494113059692500,
+      "in_reply_to_status_id_str": "1356494113059692545",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 07:07:34 +0000 2021",
+      "id": 1356499486302855200,
+      "id_str": "1356499486302855170",
+      "full_text": "@zloihuy @ke1e6 У вас ещё примерно 30 лет работы впереди. Вы правда хотите их провести в текущей профессии? Если позволите, порекомендую вам https://t.co/eqTFY2uew3 Там как раз такие установки можно прокачать и вдохновиться похожими кейсами.",
+      "truncated": false,
+      "display_text_range": [
+        16,
+        241
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "zloihuy",
+            "name": "без негатива",
+            "id": 69195612,
+            "id_str": "69195612",
+            "indices": [
+              0,
+              8
+            ]
+          },
+          {
+            "screen_name": "ke1e6",
+            "name": "каджит дома",
+            "id": 203480897,
+            "id_str": "203480897",
+            "indices": [
+              9,
+              15
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/eqTFY2uew3",
+            "expanded_url": "https://instagram.com/catchmedreams?igshid=vn72bor2ygpr",
+            "display_url": "instagram.com/catchmedreams?…",
+            "indices": [
+              141,
+              164
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356476034447728600,
+      "in_reply_to_status_id_str": "1356476034447728641",
+      "in_reply_to_user_id": 69195612,
+      "in_reply_to_user_id_str": "69195612",
+      "in_reply_to_screen_name": "zloihuy",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 07:23:05 +0000 2021",
+      "id": 1356503392076488700,
+      "id_str": "1356503392076488704",
+      "full_text": "Понимание своих смыслов ускоряет принятие решений кратно. Ответьте на два вопроса: что вы готовы делать/уже делаете бесплатно? а за что вы готовы платить? После нескольких итераций у меня получилось: «развитие и рост».",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        218
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356309848745336800,
+      "in_reply_to_status_id_str": "1356309848745336832",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 07:32:44 +0000 2021",
+      "id": 1356505817713795000,
+      "id_str": "1356505817713795072",
+      "full_text": "@skv_nskv Да, это отдельная тема. Мне в тот момент было интересно)",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        66
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "skv_nskv",
+            "name": "Бар Сучий Жир",
+            "id": 2870804603,
+            "id_str": "2870804603",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356503284505280500,
+      "in_reply_to_status_id_str": "1356503284505280512",
+      "in_reply_to_user_id": 2870804603,
+      "in_reply_to_user_id_str": "2870804603",
+      "in_reply_to_screen_name": "skv_nskv",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 07:34:35 +0000 2021",
+      "id": 1356506285881970700,
+      "id_str": "1356506285881970688",
+      "full_text": "@a1tusha Простите, пожалуйста, что разочаровываю вас.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        53
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "a1tusha",
+            "name": "хозяин двух кисок",
+            "id": 197392642,
+            "id_str": "197392642",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356503262929817600,
+      "in_reply_to_status_id_str": "1356503262929817600",
+      "in_reply_to_user_id": 197392642,
+      "in_reply_to_user_id_str": "197392642",
+      "in_reply_to_screen_name": "a1tusha",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 16:06:03 +0000 2021",
+      "id": 1356634999999529000,
+      "id_str": "1356634999999528961",
+      "full_text": "В тему истинных желаний с марта по май дела обстояли так:",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        57
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 6,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 16:06:03 +0000 2021",
+      "id": 1356635000603431000,
+      "id_str": "1356635000603430912",
+      "full_text": "Мне предложили забрать блокшоу с большей долей участия (отказалась и забегая уже в этот январь: я подарила свою долю бывшему партнёру и на этом высвободилось много энергии).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        173
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356634999999529000,
+      "in_reply_to_status_id_str": "1356634999999528961",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 16:06:04 +0000 2021",
+      "id": 1356635001652080600,
+      "id_str": "1356635001652080648",
+      "full_text": "Мой друг и бывший коллега предложил мне идею стартапа и инвестиции. Вот тут я размышляла дольше. Если кратко, поняла что не хочу быть наёмным фаундером и очень хочу сохранить друга. Это был бы его первый опыт инвестирования в стартап, а в первые раза три инвесторы учатся).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        273
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356635000603431000,
+      "in_reply_to_status_id_str": "1356635000603430912",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 16:06:04 +0000 2021",
+      "id": 1356635002402820000,
+      "id_str": "1356635002402820096",
+      "full_text": "Другой мой друг предложил открыть позицию в своей компании под меня и релокейт во Францию. У меня не было желания уехать бы хоть куда и во Франции я себя не очень представляла. Разве что на каникулах)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        200
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356635001652080600,
+      "in_reply_to_status_id_str": "1356635001652080648",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 16:06:04 +0000 2021",
+      "id": 1356635003459829800,
+      "id_str": "1356635003459829761",
+      "full_text": "У меня появился знакомый ex-Harvard. Сказал, что у меня хороший кейс для MBA. Я немного загорелась, так как несколько лет назад была уверена, что мне обязательно НАДО на MBA😂 Подумав чуть глубже не нашла у себя отклика на эту идею.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        231
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356635002402820000,
+      "in_reply_to_status_id_str": "1356635002402820096",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 16:06:04 +0000 2021",
+      "id": 1356635004223115300,
+      "id_str": "1356635004223115265",
+      "full_text": "Рассталась со всеми коучами и клубами, так и не начав нормально поиск работы. И тут я не говорю, что эти коучи какие-то плохие, просто туда стоит идти, если действительно хочешь строить карьеру в корпорации.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        207
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356635003459829800,
+      "in_reply_to_status_id_str": "1356635003459829761",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 16:06:04 +0000 2021",
+      "id": 1356635004957151200,
+      "id_str": "1356635004957151233",
+      "full_text": "Тут еще один мой друг попросил мое резюме и порекомендовал Андрею Хусиду (об этом будет отдельный тред).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        104
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356635004223115300,
+      "in_reply_to_status_id_str": "1356635004223115265",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Tue Feb 02 16:06:05 +0000 2021",
+      "id": 1356635005724676000,
+      "id_str": "1356635005724676096",
+      "full_text": "Честно, я все ещё обесценивала себя. Но все эти предложения, добрые слова поддержки от значимых людей и друзей невероятно заряжали (многие мои друзья все ждали, когда же я запущу стартап и такие «ну что, когда на работу возьмёшь?».  Люди верили в меня больше, чем я сама.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        271
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356635004957151200,
+      "in_reply_to_status_id_str": "1356635004957151233",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 03 17:27:01 +0000 2021",
+      "id": 1357017764427260000,
+      "id_str": "1357017764427259905",
+      "full_text": "@pavel_ivanovsky Гештальт-терапия, в спб)",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        41
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pavel_ivanovsky",
+            "name": "Pavel Ivanovsky",
+            "id": 829913843480588300,
+            "id_str": "829913843480588288",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356995674332680200,
+      "in_reply_to_status_id_str": "1356995674332680193",
+      "in_reply_to_user_id": 829913843480588300,
+      "in_reply_to_user_id_str": "829913843480588288",
+      "in_reply_to_screen_name": "pavel_ivanovsky",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 03 17:28:11 +0000 2021",
+      "id": 1357018057701421000,
+      "id_str": "1357018057701421057",
+      "full_text": "@pavel_ivanovsky А мне этого не хотелось просто)",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        48
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pavel_ivanovsky",
+            "name": "Pavel Ivanovsky",
+            "id": 829913843480588300,
+            "id_str": "829913843480588288",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356993762573115400,
+      "in_reply_to_status_id_str": "1356993762573115394",
+      "in_reply_to_user_id": 829913843480588300,
+      "in_reply_to_user_id_str": "829913843480588288",
+      "in_reply_to_screen_name": "pavel_ivanovsky",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 03 17:50:55 +0000 2021",
+      "id": 1357023779176673300,
+      "id_str": "1357023779176673280",
+      "full_text": "Окружение важно. Иногда какие-то маленькие на первый взгляд события приводят к чему-то крутому через несколько лет. https://t.co/s1JJns9wqS",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        115
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/s1JJns9wqS",
+            "expanded_url": "https://twitter.com/shemoto/status/1356938946106822659",
+            "display_url": "twitter.com/shemoto/status…",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1356938946106822700,
+      "quoted_status_id_str": "1356938946106822659",
+      "quoted_status_permalink": {
+        "url": "https://t.co/s1JJns9wqS",
+        "expanded": "https://twitter.com/shemoto/status/1356938946106822659",
+        "display": "twitter.com/shemoto/status…"
+      },
+      "quoted_status": {
+        "created_at": "Wed Feb 03 12:13:50 +0000 2021",
+        "id": 1356938946106822700,
+        "id_str": "1356938946106822659",
+        "full_text": "@produnderhood Всем бы таких друзей, как у вас:)",
+        "truncated": false,
+        "display_text_range": [
+          15,
+          48
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "produnderhood",
+              "name": "Менеджер продукта",
+              "id": 1094672152551399400,
+              "id_str": "1094672152551399424",
+              "indices": [
+                0,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 1356635005724676000,
+        "in_reply_to_status_id_str": "1356635005724676096",
+        "in_reply_to_user_id": 1094672152551399400,
+        "in_reply_to_user_id_str": "1094672152551399424",
+        "in_reply_to_screen_name": "produnderhood",
+        "user": {
+          "id": 233920526,
+          "id_str": "233920526"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 03 17:50:56 +0000 2021",
+      "id": 1357023780774715400,
+      "id_str": "1357023780774715394",
+      "full_text": "В 2016 я попала на свой первый productcamp и познакомилась там с Микитой Микадо. В 2019 Микита организовал митап с  Василем Азаровым. Я просто сразу купила билет на самолёт и утром была в Минске.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        195
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357023779176673300,
+      "in_reply_to_status_id_str": "1357023779176673280",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 03 17:50:56 +0000 2021",
+      "id": 1357023781819084800,
+      "id_str": "1357023781819084802",
+      "full_text": "Мы подружились с Васей на теме конференций и стали созваниваться раз в 2 недели, чтобы обмениваться опытом и поддерживать друг друга. Вася и есть тот друг, который передал мое резюме Андрею Хусиду.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        197
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357023780774715400,
+      "in_reply_to_status_id_str": "1357023780774715394",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 03 17:50:56 +0000 2021",
+      "id": 1357023782951559200,
+      "id_str": "1357023782951559168",
+      "full_text": "Мы хорошо поговорили с Андреем. Это не было похоже на стандартное собеседование. Скорее разговор по душам. И в какой-то момент он мне говорит: “да ты же Шмит”. Я говорю: “кто?” Я ещё ничего не знала про https://t.co/fMMlpZvXKd",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        226
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/fMMlpZvXKd",
+            "expanded_url": "https://t.me/Shmit16",
+            "display_url": "t.me/Shmit16",
+            "indices": [
+              203,
+              226
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357023781819084800,
+      "in_reply_to_status_id_str": "1357023781819084802",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 03 17:50:57 +0000 2021",
+      "id": 1357023784385998800,
+      "id_str": "1357023784385998849",
+      "full_text": "Так началось мое знакомство с очень-очень классными ребятами-шмитами. Дальше была серия из пяти нестандартных интервью, на которых я все больше себя понимала. Как-то все происходило вовремя.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        190
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357023782951559200,
+      "in_reply_to_status_id_str": "1357023782951559168",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 03 17:51:25 +0000 2021",
+      "id": 1357023904791896000,
+      "id_str": "1357023904791896069",
+      "full_text": "@pavel_ivanovsky @svirelkas Очень круто 🙌",
+      "truncated": false,
+      "display_text_range": [
+        28,
+        41
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "pavel_ivanovsky",
+            "name": "Pavel Ivanovsky",
+            "id": 829913843480588300,
+            "id_str": "829913843480588288",
+            "indices": [
+              0,
+              16
+            ]
+          },
+          {
+            "screen_name": "svirelkas",
+            "name": "Anna Svirelkina",
+            "id": 3523082117,
+            "id_str": "3523082117",
+            "indices": [
+              17,
+              27
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356994248923631600,
+      "in_reply_to_status_id_str": "1356994248923631617",
+      "in_reply_to_user_id": 829913843480588300,
+      "in_reply_to_user_id_str": "829913843480588288",
+      "in_reply_to_screen_name": "pavel_ivanovsky",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Wed Feb 03 18:06:16 +0000 2021",
+      "id": 1357027642038390800,
+      "id_str": "1357027642038390785",
+      "full_text": "Мы с ребятами начали делать стартап. Напишу об этом отдельно. А тут в тему окружения: тот же самый Вася пригласил меня в clubhouse три недели назад и сейчас я хочу пригласить вас. Нужно, чтобы у вас был iPhone. Пришлите свой номер телефона в личку. Есть 1 инвайт.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        263
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357023784385998800,
+      "in_reply_to_status_id_str": "1357023784385998849",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 04 04:55:11 +0000 2021",
+      "id": 1357190943892336600,
+      "id_str": "1357190943892336642",
+      "full_text": "@st00nsa Точного определения нет) скорее про то, что фичусь с ценностями клуба шмит16.",
+      "truncated": false,
+      "display_text_range": [
+        9,
+        86
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "st00nsa",
+            "name": "Alex-k",
+            "id": 17665480,
+            "id_str": "17665480",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357044865436184600,
+      "in_reply_to_status_id_str": "1357044865436184576",
+      "in_reply_to_user_id": 17665480,
+      "in_reply_to_user_id_str": "17665480",
+      "in_reply_to_screen_name": "st00nsa",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Thu Feb 04 05:05:41 +0000 2021",
+      "id": 1357193589994840000,
+      "id_str": "1357193589994840068",
+      "full_text": "@Eternal_snshine Я настроила уведомления по интересным темам и слушаю подкасты на эти темы. Очень удобно следить за расписанием. И ещё классно, что там можно любому хостить/ко-хостить подкасты: интересно слушать знакомых)",
+      "truncated": false,
+      "display_text_range": [
+        17,
+        221
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "Eternal_snshine",
+            "name": "воздушный алкоголик",
+            "id": 98134583,
+            "id_str": "98134583",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357071016426688500,
+      "in_reply_to_status_id_str": "1357071016426688512",
+      "in_reply_to_user_id": 98134583,
+      "in_reply_to_user_id_str": "98134583",
+      "in_reply_to_screen_name": "Eternal_snshine",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 05 06:17:55 +0000 2021",
+      "id": 1357574152727588900,
+      "id_str": "1357574152727588864",
+      "full_text": "Сегодня про партнёрства и команды. В идеале всегда стремиться к эмерджентности (1+1&gt;2).",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        90
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 23,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 05 06:17:55 +0000 2021",
+      "id": 1357574153365188600,
+      "id_str": "1357574153365188612",
+      "full_text": "У меня были опыты со средними по компетенциям командами, которые добивались офигенных результатов и топовых, в которых крутые чуваки друг друга затеняли и результаты так себе были.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        180
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357574152727588900,
+      "in_reply_to_status_id_str": "1357574152727588864",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 05 06:17:55 +0000 2021",
+      "id": 1357574154422083600,
+      "id_str": "1357574154422083587",
+      "full_text": "Я не знаю на 100% как сделать партнёрство/команду эмерджентной. По опыту это: налаженная коммуникация, глубокие связи между участниками, интерес к общему делу, открытость и честность. Если что, добавляйте)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        205
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357574153365188600,
+      "in_reply_to_status_id_str": "1357574153365188612",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 05 06:17:55 +0000 2021",
+      "id": 1357574155172868000,
+      "id_str": "1357574155172868098",
+      "full_text": "На какие компоненты можем повлиять? Точно на налаженную коммуникацию: \n- общение из позиции я ок и ты ок (то есть принятие инаковости другого человека)\n- алаймент среди участников (вижен, стратегия, план и тд)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        209
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357574154422083600,
+      "in_reply_to_status_id_str": "1357574154422083587",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 05 06:17:55 +0000 2021",
+      "id": 1357574155940425700,
+      "id_str": "1357574155940425728",
+      "full_text": "Несколько функциональных штук, помогающих в коммуникациях: \n- Модель STAR (situation, task, action, result) \n- Концепция пирамиды https://t.co/xxVqZ20auy\n- Ретроспектива (простой шаблон: https://t.co/a6UpzyIYIE)",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        211
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/xxVqZ20auy",
+            "expanded_url": "https://www.youtube.com/watch?v=pVeq-0dIqpk&feature=youtu.be",
+            "display_url": "youtube.com/watch?v=pVeq-0…",
+            "indices": [
+              130,
+              153
+            ]
+          },
+          {
+            "url": "https://t.co/a6UpzyIYIE",
+            "expanded_url": "https://www.notion.so/Agile-retrospective-84a69296f81e414795447cfd037c0e81",
+            "display_url": "notion.so/Agile-retrospe…",
+            "indices": [
+              187,
+              210
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357574155172868000,
+      "in_reply_to_status_id_str": "1357574155172868098",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Fri Feb 05 06:17:56 +0000 2021",
+      "id": 1357574157404307500,
+      "id_str": "1357574157404307456",
+      "full_text": "А у вас эмерджентная команда/партнёрство?",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        41
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357574155940425700,
+      "in_reply_to_status_id_str": "1357574155940425728",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 06 04:19:38 +0000 2021",
+      "id": 1357906774846697500,
+      "id_str": "1357906774846697475",
+      "full_text": "Окей, давайте ещё немного про эмерджентность.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        45
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357574157404307500,
+      "in_reply_to_status_id_str": "1357574157404307456",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 06 04:19:38 +0000 2021",
+      "id": 1357906775618379800,
+      "id_str": "1357906775618379779",
+      "full_text": "Эмерджентность – это появление у системы свойств, не присущих ее компонентам в отдельности. Например, ни одна деталь самолёта не может летать сама по себе.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        155
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357906774846697500,
+      "in_reply_to_status_id_str": "1357906774846697475",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 8,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 06 04:19:38 +0000 2021",
+      "id": 1357906777023520800,
+      "id_str": "1357906777023520769",
+      "full_text": "Так же и с эмерджентными командами. Участники не просто усиливают друг друга (синергия), но и создают что-то новое и непредсказуемое, что сильно превосходит сумму компонентов системы и обычно сложно объяснить.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        209
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357906775618379800,
+      "in_reply_to_status_id_str": "1357906775618379779",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 7,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 06 04:19:39 +0000 2021",
+      "id": 1357906778084659200,
+      "id_str": "1357906778084659200",
+      "full_text": "Все плюшки в it работают в пользу эмерджентности. Ласло Бок в свой книге «Работа рулит» делится экспериментами, которые они провели в гугле и их результатами. Очень крутая. https://t.co/dYbjVAEkTS",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        196
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/dYbjVAEkTS",
+            "expanded_url": "https://www.ozon.ru/context/detail/id/33537490/",
+            "display_url": "ozon.ru/context/detail…",
+            "indices": [
+              173,
+              196
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357906777023520800,
+      "in_reply_to_status_id_str": "1357906777023520769",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 16,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 06 05:34:01 +0000 2021",
+      "id": 1357925495623438300,
+      "id_str": "1357925495623438337",
+      "full_text": "@toivonens Редко, но в последнее время чаще. Я его нашла, когда начала подробнее изучать феномен успеха команд и специально искать материал.",
+      "truncated": false,
+      "display_text_range": [
+        11,
+        140
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "toivonens",
+            "name": "голос из под шкафа",
+            "id": 215559242,
+            "id_str": "215559242",
+            "indices": [
+              0,
+              10
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357923180502003700,
+      "in_reply_to_status_id_str": "1357923180502003717",
+      "in_reply_to_user_id": 215559242,
+      "in_reply_to_user_id_str": "215559242",
+      "in_reply_to_screen_name": "toivonens",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 06 05:45:57 +0000 2021",
+      "id": 1357928498157916200,
+      "id_str": "1357928498157916160",
+      "full_text": "Вижу, вам ещё про коммуникацию интересно. \n\nКак выражать свои мысли: \n1) основываемся на фактах\n2) не даем оценки происходящего \n3) говорим, что чувствуем по этому поводу",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        170
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1356503392076488700,
+      "in_reply_to_status_id_str": "1356503392076488704",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 10,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 06 05:45:58 +0000 2021",
+      "id": 1357928499848249300,
+      "id_str": "1357928499848249345",
+      "full_text": "Например: вместо «ты постоянно опаздываешь, значит тебе здесь неинтересно», говорим: за последние две недели ты опоздал на встречи 6 раз, я чувствую гнев и разочарование по этому поводу.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        186
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357928498157916200,
+      "in_reply_to_status_id_str": "1357928498157916160",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 3,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 06 05:45:58 +0000 2021",
+      "id": 1357928501064601600,
+      "id_str": "1357928501064601601",
+      "full_text": "Если вам приходится выбираться между «остаться в хороших отношениях» или «получить то, что вам нужно», выбирайте второе. Если выберите отношения, не получите ничего. Подробнее можно у Криса Восса почитать или посмотреть на https://t.co/By06lpGfx6",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        246
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/By06lpGfx6",
+            "expanded_url": "https://www.masterclass.com/",
+            "display_url": "masterclass.com",
+            "indices": [
+              223,
+              246
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357928499848249300,
+      "in_reply_to_status_id_str": "1357928499848249345",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 15,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 06 05:45:58 +0000 2021",
+      "id": 1357928502327087000,
+      "id_str": "1357928502327087106",
+      "full_text": "И самое важное на мой взгляд: люди обязательно запомнят, как чувствовали себя рядом с вами. Все мы тянемся к теплу и избегаем холод.",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        132
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357928501064601600,
+      "in_reply_to_status_id_str": "1357928501064601601",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "favorite_count": 13,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 06 05:54:31 +0000 2021",
+      "id": 1357930655003209700,
+      "id_str": "1357930655003209729",
+      "full_text": "Во время саббатикла натренировала фокус на том, что получается. Меньше тревоги, больше креативности. Обычно, наш мозг заточен на негатив. И если мы выбираем везде искать, что не так, наша жизнь превращается в 💩 \nКруто, что в другую сторону тоже работает 🌸",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        255
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357928502327087000,
+      "in_reply_to_status_id_str": "1357928502327087106",
+      "in_reply_to_user_id": 1094672152551399400,
+      "in_reply_to_user_id_str": "1094672152551399424",
+      "in_reply_to_screen_name": "produnderhood",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 20,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sat Feb 06 17:23:47 +0000 2021",
+      "id": 1358104113926402000,
+      "id_str": "1358104113926402048",
+      "full_text": "@ljtarkon 😂😂😂",
+      "truncated": false,
+      "display_text_range": [
+        10,
+        13
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ljtarkon",
+            "name": "Tark",
+            "id": 172992415,
+            "id_str": "172992415",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1357944149861949400,
+      "in_reply_to_status_id_str": "1357944149861949441",
+      "in_reply_to_user_id": 172992415,
+      "in_reply_to_user_id_str": "172992415",
+      "in_reply_to_screen_name": "ljtarkon",
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "und"
+    },
+    {
+      "created_at": "Sun Feb 07 17:31:51 +0000 2021",
+      "id": 1358468531914903600,
+      "id_str": "1358468531914903554",
+      "full_text": "Для удобства \n\nТред непрошенных советов: https://t.co/AYLO8fYXBZ\n\nПро партнёрства и команды: https://t.co/PyN0Q3ND2v",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        116
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/AYLO8fYXBZ",
+            "expanded_url": "https://twitter.com/produnderhood/status/1356309847931699200?s=21",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              41,
+              64
+            ]
+          },
+          {
+            "url": "https://t.co/PyN0Q3ND2v",
+            "expanded_url": "https://twitter.com/produnderhood/status/1357574152727588864?s=21",
+            "display_url": "twitter.com/produnderhood/…",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1357574152727588900,
+      "quoted_status_id_str": "1357574152727588864",
+      "quoted_status_permalink": {
+        "url": "https://t.co/PyN0Q3ND2v",
+        "expanded": "https://twitter.com/produnderhood/status/1357574152727588864?s=21",
+        "display": "twitter.com/produnderhood/…"
+      },
+      "quoted_status": {
+        "created_at": "Fri Feb 05 06:17:55 +0000 2021",
+        "id": 1357574152727588900,
+        "id_str": "1357574152727588864",
+        "full_text": "Сегодня про партнёрства и команды. В идеале всегда стремиться к эмерджентности (1+1&gt;2).",
+        "truncated": false,
+        "display_text_range": [
+          0,
+          90
+        ],
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+          "id": 1094672152551399400,
+          "id_str": "1094672152551399424"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 23,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "ru"
+      },
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "ru"
+    },
+    {
+      "created_at": "Sun Feb 07 17:40:15 +0000 2021",
+      "id": 1358470644917129200,
+      "id_str": "1358470644917129217",
+      "full_text": "Спасибо за ваше время! Надеюсь, выходные у вас проходят классно 🙏🏻🧡",
+      "truncated": false,
+      "display_text_range": [
+        0,
+        67
+      ],
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1094672152551399400,
+        "id_str": "1094672152551399424"
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "favorite_count": 4,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "ru"
+    }
+  ]
+}
